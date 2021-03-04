@@ -45,12 +45,45 @@
 
 // tag::EN[]
 [[LG-2-1]]
-==== LG 2-1: TBD
-tbd.
+==== LG 2-1: What should the participants be able to do?
+* Describe and explain the procedure for formulation of an architecture vision. 
+* Describe and explain the procedure for architecture planning. 
+* State and explain the differences between different development models. 
+* Describe and explain the analysis of the current architecture. 
+* Describe and explain the development of the target architecture. 
+* Describe and explain the derivation of the planned architecture from the current and target architectures. 
+* Describe and explain the derivation of the enterprise architecture from the corporate strategy. 
+* Describe and explain the observance of corporate principles in the enterprise architecture. 
+* Describe and explain the importance of the enterprise architecture as a regulatory framework for the IT strategies. 
+* Describe the importance of the enterprise architecture as the basis for the capability-based planning
+* Specify and document the requirements on and conditions & constraints for the enterprise architecture (business scenarios). 
+* Describe and explain governance and reviewing of implementation projects. 
+* Describe and explain the function and benefits of change management.
 
 [[LG-2-2]]
-==== LG 2-2: TBD
-tbd.
+==== LG 2-2: What should the participants understand?
+* Architecture principles as component elements of the enterprise architecture
+* Categorisation of architecture principles
+* Detailing of architecture principles with the aid of a template
+* Different sub-architectures
+** Business architecture (incl. its key elements)
+** Information system architecture (incl. its key elements)
+** Data architecture (incl. its key elements)
+** Technical architecture (incl. its key elements). 
+* Delimitation of the various sub-architectures
+* Different forms of documentation for sub-architectures
+* EAM as a link between the strategic corporate planning and the application projects
+* Enterprise architecture resources for standardisation between application projects
+* Procedures for development and updating of an enterprise architecture (capabilityanalysis, business process modelling, etc.).
+
+[[LG-2-3]]
+==== LG 2-3: What should the participants know?
+* Different methods and procedure models for the development and updating of an enterprise architecture
+* The Business Motivation Model (BMM) and the corresponding docking points
+* The Microsoft Services Business Architecture (MSBA)
+* The TOGAF architecture framework
+* Different instruments and methods for evaluation of existing architectures (e.g. SWOT analysis, maturity analysis, benefit analysis, GAP analysis, impact analysis, risk analysis, scenario-based evaluation) 
+* Different tools for development and management of an enterprise architecture.
 // end::EN[]
 
 // tag::REMARK[]

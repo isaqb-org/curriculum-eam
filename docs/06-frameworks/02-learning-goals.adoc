@@ -38,13 +38,38 @@
 // end::DE[]
 
 // tag::EN[]
-[[LG-5-1]]
-==== LG 5-1: TBD
-tbd.
+[[LG-6-1]]
+==== LG 6-1: What should the participants be able to do?
+* List and explain requirements on and benefits of enterprise architecture frameworks. 
+* Differentiate between and explain the types of architecture frameworks: 
+** Operational frameworks (e.g., TOGAF)
+** Conceptional frameworks (e.g., Zachmann)
+** Business sector frameworks (e.g., TM Forum Frameworx). 
+* List and explain application areas, purposes and target groups of the different types of architecture frameworks. 
+* Explain the differences between the different types of architecture frameworks. 
+* Explain the significance of reference models and architectures in the different architecture frameworks.
 
-[[LG-5-2]]
-==== LG 5-2: TBD
-tbd.
+[[LG-6-2]]
+==== LG 6-2: What should the participants understand?
+* The essential elements of TOGAF
+* The essential elements of the COBIT framework
+* The essential elements of the Zachman framework
+* The consideration of “classic” IT disciplines such as software architecture, business process modelling and software development in enterprise architecture frameworks
+* Challenges in the use of an enterprise architecture framework
+* Selection and tailoring of an enterprise architecture framework for a company.
+
+[[LG-6-3]]
+==== LG 6-3: What should the participants know?
+* The TOGAF Architecture Development Method (ADM)
+* The TOGAF architecture content framework
+* The TOGAF architecture capability framework
+* TOGAF architecture governance
+* Examples for the customisation effort when using a framework for a specific company
+* The Zachman framework
+* The ARIS approach
+* The Common Information Model (CIM)
+* The TM Forum Frameworx
+* The Department of Defense Architecture Framework (DoDAF)∑The Ministry of Defence Architectural Framework (MoDAF)
 // end::EN[]
 
 // tag::REMARK[]

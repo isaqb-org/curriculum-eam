@@ -1,14 +1,13 @@
 === {learning-goals}
 
 // tag::DE[]
-Die Erarbeitung einer realen Unternehmensarchitektur mit deren Vor- und Nachteilen diskutieren
+Die Erarbeitung einer realen Unternehmensarchitektur mit deren Vor- und Nachteilen diskutieren.
 
 // end::DE[]
 
 
 // tag::EN[]
-[[LG-98-1]]
-==== LG 98-1: Last learning goal of the curriculum
+Discussion of the development of a real enterprise architecture, and its advantages and disadvantages.
 // end::EN[]
 
 

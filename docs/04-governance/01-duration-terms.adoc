@@ -10,11 +10,11 @@ Governance, Ebenen von Governance (Corporate, IT, Architecture, SOA), Change Man
 
 // tag::EN[]
 |===
-| Duration: XXX min | Practice time: XXX min
+| Duration: 150 min | Practice time: 60 min
 |===
 
 === Terms and Principles
-Term 1, Term 2, Term 3
+Governance, levels of governance (corporate, IT, architecture, SOA), change management, Architecture Board, architecture guidelines/directives, best practices, key indicators, criteria, conformance, compliance, TOGAF, maturity model, COBIT, governance reviews, architecture planning and adaptation, architecture implementation.
 // end::EN[]
 
 // tag::REMARK[]

@@ -10,11 +10,11 @@ Mission, Vision, Architekturvision, Unternehmensprinzipien, Architekturprinzipie
 
 // tag::EN[]
 |===
-| Duration: XXX min | Practice time: XXX min
+| Duration: 270 min | Practice time: 120 min
 |===
 
 === Terms and Principles
-Term 1, Term 2, Term 3
+Mission, vision, architecture vision, corporate principles, architecture principles, business model, business architecture, regulatory framework for the IT strategy, application portfolio management, information system architecture, data architecture, technical architecture, business process modelling, Business Motivation Model (BMM), TOGAF Architecture Development Method (ADM), SWOT analysis, maturity analysis, benefit analysis, GAPanalysis, impact analysis, risk analysis, capability analysis, capability-based planning, scenario-based evaluation.
 
 // end::EN[]
 

@@ -28,7 +28,8 @@
 [[LZ-3-3]]
 ==== LZ 3-3: Was sollen die Teilnehmer kennen?
 * Beispiele für Metamodelle aus Architekturframeworks (z.B. TOGAF)
-* Beispiele für Referenzarchitekturmodelle:oReferenzmodell der Java-EE-Referenzarchitektur 
+* Beispiele für Referenzarchitekturmodelle:
+** Referenzmodell der Java-EE-Referenzarchitektur 
 ** Referenzmodell der SOA-Referenzarchitektur
 ** .NET-Referenzmodell nach Application Architecture Guide
 ** TOGAF-Referenzmodelle
@@ -39,12 +40,40 @@
 
 // tag::EN[]
 [[LG-3-1]]
-==== LG 3-1: TBD
-tbd.
+==== LG 3-1: What should the participants be able to do?
+* Describe and explain the function and benefits of EAM repositories. 
+* List and explain the types of information stored in an EAM repository: 
+** Architecture metamodel
+** Documentation of current, future and target architectures
+** Standards (industry standards etc.)
+** Reference library (reference architecture(s), rules, templates, models, etc.)using the TOGAF reference models as an example. 
+* Describe and explain the differences between the different types of information. 
+* Describe and explain the need for historization of the information. 
+* Describe and explain how an EAM repository is used and managed. 
+* Describe and explain how reference architectures are defined and used. 
+* Describe and explain how reference architectures are created and updated.
 
 [[LG-3-2]]
-==== LG 3-2: TBD
-tbd.
+==== LG 3-2: What should the participants understand?
+* The challenges associated with decentral use and central management of an EAMrepository
+* Contact points of the development processes and governance processes
+* The function and benefits of metamodels
+* The function of the EAM repository during reuse of architectures
+* Customisation of metamodels for a company
+* Technical implementation of an EAM repository with the aid of tools, and how to plan it
+* Technical implementation of an EAM repository with the aid of tools.
+
+[[LG-3-3]]
+==== LG 3-3: What should the participants know?
+* Examples of metamodels from architecture frameworks (e. g., TOGAF) 
+* Examples of reference architecture models: 
+** The reference model of the Java EE reference architecture
+** The reference model of the SOA reference architecture
+** The .NET reference model as defined in the Application Architecture Guide
+** TOGAF reference models 
+** Sector-specific reference models (TM Forum Frameworx, etc.) 
+* Practical examples of reference architectures
+* Examples of architecture guidelines/directives.
 // end::EN[]
 
 // tag::REMARK[]

@@ -8,7 +8,7 @@
 // end::DE[]
 
 // tag::EN[]
-== This is the First Module's Title
+== Basic terms used in Enterprise Architecture Management
 // end::EN[]
 
 

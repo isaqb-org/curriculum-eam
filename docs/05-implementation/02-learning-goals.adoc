@@ -27,12 +27,25 @@
 
 // tag::EN[]
 [[LG-5-1]]
-==== LG 5-1: TBD
-tbd.
+==== LG 5-1: What should the participants be able to do?
+* Describe and explain fundamental implementation paths for an EAM system. 
+* Describe and explain the organisation of introduction and optimisation of an EAM system. 
+* Describe and explain the challenges and success factors associated with introduction of an EAM system. 
+* Describe and explain stakeholder analysis for introduction of EAM. 
+* Communicate the purpose and benefits of introducing EAM. 
+* Describe and explain migration paths for the introduction of EAM into an existing IT landscape. 
+* Describe and explain the iterative procedure for the introduction of EAM into an existing IT landscape. Describe and explain limitations on the introduction of EAM into an existing IT landscape.
 
 [[LG-5-2]]
-==== LG 5-2: TBD
-tbd.
+==== LG 5-2: What should the participants understand?
+* The phases involved in introduction of EAM
+* Selection of the migration steps for the introduction of EAM into an existing IT landscape.
+
+[[LG-5-3]]
+==== LG 5-3: What should the participants know?
+* Example scenarios for the introduction of EAM
+* Example scenarios for the introduction of EAM into an existing IT landscape
+* The target landscape.
 // end::EN[]
 
 // tag::REMARK[]

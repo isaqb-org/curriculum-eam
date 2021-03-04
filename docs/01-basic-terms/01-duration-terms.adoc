@@ -10,11 +10,11 @@ Enterprise Architecture Management (EAM), Unternehmensstrategie, IT-Strategie, I
 
 // tag::EN[]
 |===
-| Duration: XXX min | Practice time: XXX min
+| Duration: 90 min | Practice time: 30 min
 |===
 
 === Terms and Principles
-Term 1, Term 2, Term 3
+Enterprise Architecture Management (EAM), corporate strategy, IT strategy, IT governance, IT security, compliance, IT risk management, change management, business architecture, information architecture, IT architecture, application architecture, migration planning, business process management, capabilities, repository
 // end::EN[]
 
 

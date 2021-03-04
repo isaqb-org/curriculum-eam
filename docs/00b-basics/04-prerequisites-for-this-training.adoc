@@ -24,17 +24,20 @@ Teilnehmerinnen und Teilnehmer **sollten** folgende Kenntnisse und/oder Erfahrun
 
 Participants **should** have the following prerequisite knowledge:
 
-- Prerequisite 1
-- Prerequisite 2, etc.
+- Fundamentals of architecture development: Importance and delimitation ofarchitecture, procedures, influences and requirements, architecture decisions, models and documentation with views, as taught at the CPSA-F Foundation Level.
+- Fundamentals of business management: Development of strategies and business models, business process management, organisation
+- Desirable for an understanding of some concepts: Practical experience in the architecture field and an insight into at least one modern technology or platform for development of distributed applications.
 
 Knowledge in the following areas may be **helpful** for understanding some concepts:
 
-- Area 1:
-  * Knowledge 1
-  * Experience 2
-  * Knowledge 3
-  * Experience 4
-  * Understanding 5
+- Knowledge of typical challenges in the field of enterprise architectures: 
+** Definition of (IT) enterprise objectives
+** Strategic (IT) planning
+** (IT) portfolio management. 
+- Additional business management knowledge: 
+** Controlling
+** Cost-benefit analysis
+** Investment analysis.
 // end::EN[]
 
 // tag::REMARK[]

@@ -39,8 +39,39 @@
 
 // tag::EN[]
 [[LG-1-1]]
-==== LG 1-1: The is the first learning goal, in category xy
-tbd.
+==== LG 1-1: What should the participants be able to do?
+* List and explain the objectives, positive impacts and tasks of EAM. 
+* Describe and explain the interaction between EAM and other strategic management tasks (e. g., corporate planning, portfolio management, production management, etc.). 
+* Explain the difference between EAM and E(IT)AM. 
+* Describe the interaction between (IT) strategy and EAM. 
+* Strategic Application Portfolio Management: Current, target and planned IT enterprise architecture. 
+* Explain and execute a practical evaluation of an application portfolio. 
+* Define business capabilities and explain their benefits. 
+* List and explain the tasks and challenges of (IT) governance. 
+* Explain the differences between the different governance levels (corporate, IT, architecture and SOA). 
+* List and explain requirements for EAM tools.
+
+[[LG-1-2]]
+==== LG 1-2: What should the participants understand?
+* The role of EAM in a company’s planning system
+* The importance, challenges and possible positive impact of strategic IT planning
+* The role of IT strategy within corporate strategy
+* The function of application portfolio management
+* The differences between the current, target and planned IT enterprise architectures. 
+* Contact points between EAM and economic management
+* Configuration and interaction of the current, target and planned IT enterprise architectures 
+* The functions of and differences between the business, application, data and technology architectures
+* The functions of IT risk management, compliance and IT security
+* The relationship between change management and EAM
+* The use of a repository for management and standardisation of the company’s IT
+* The differences between different enterprise architecture frameworks (e. g., TOGAF, COBIT, ITIL, TM Forum Frameworx, etc.).
+
+[[LG-1-3]]
+==== LG 1-3: What should the participants know?
+* The effort required for and benefits gained from EAM
+* The importance of the process map for the enterprise architecture
+* Typical EAM visualisations, e.g., layout plan, portfolio diagram, information flowdiagram, cluster diagram or master plan diagram.
+* Key EAM data and other sources for the strategic planning of the IT landscape, e.g., IT performance, costs, competitive differentiation, etc.
 // end::EN[]
 
 // tag::REMARK[]

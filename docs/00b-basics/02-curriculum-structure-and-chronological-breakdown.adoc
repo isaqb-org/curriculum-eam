@@ -22,18 +22,18 @@
 
 [cols="<,>", options="header"]
 |===
-| Content
-| Recommended minimum duration (minutes)
-| 1. Introduction | 180
-| 2. xz | 150
-| 3. Lots of theory | 120
-| 4. xy and example | 180
-| 5. abc und d | 210
-| 6. Final example | 120
+| Inhalt | Empfohlene Mindestdauer (min)
+| 1. Basic terms used in Enterprise Architecture Management | 120
+| 2. Procedures in EAM  | 390
+| 3. Repositories and meta models | 180
+| 4. Governance and change management  | 210
+| 5. Implementing EAM | 150
+| 6. Enterprise architecture frameworks | 360
 | |
 | Total | 960 (16h)
 
 |===
+(All times include exercises.)
 
 // end::EN[]
 

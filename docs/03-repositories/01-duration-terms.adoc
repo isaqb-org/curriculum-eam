@@ -6,16 +6,15 @@
 === Begriffe und Konzepte
 Repository, Metamodell, Ist-Architektur, Soll-Architektur und Zielarchitektur, Industriestandards, Referenzbibliothek, Referenzarchitektur, Vorschrift, Vorlage, Muster.
 
-
 // end::DE[]
 
 // tag::EN[]
 |===
-| Duration: XXX min | Practice time: XXX min
+| Duration: 120 min | Practice time: 60 min
 |===
 
 === Terms and Principles
-Term 1, Term 2, Term 3
+Repository, metamodel, current architecture, planned architecture and target architecture, industry standards, reference library, reference architecture, rule, template, model.
 
 // end::EN[]
 

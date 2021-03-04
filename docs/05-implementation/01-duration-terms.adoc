@@ -10,11 +10,11 @@ Einführungspfade, Beispielszenarien, Migrationspfade.
 
 // tag::EN[]
 |===
-| Duration: XXX min | Practice time: XXX min
+| Duration: 120 min | Practice time: 30 min
 |===
 
 === Terms and Principles
-Term 1, Term 2, Term 3
+Implementation paths, example scenarios, migration paths.
 
 // end::EN[]
 

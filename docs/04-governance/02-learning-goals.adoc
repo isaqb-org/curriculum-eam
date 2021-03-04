@@ -24,7 +24,8 @@
 * Einordnung der IT-Governance in die IT-Unternehmensarchitektur
 * IT-Governance spielt mit Prinzipien auf Unternehmens- und Architekturebene zusammen
 * Zusammenspiel Change-Management und IT-Governance
-* Ablauf eines IT-Governance-Reviews∑Weiterentwicklung einer IT-Governance
+* Ablauf eines IT-Governance-Reviews
+* Weiterentwicklung einer IT-Governance
 * Funktion von Change Management und IT-Governance für das Business IT-Alignement
 * Bedeutung der IT-Governance für das Risikomanagement
 * Bedeutung der IT-Governance für die iterative Weiterentwicklung der IT-Landschaft
@@ -45,12 +46,45 @@
 
 // tag::EN[]
 [[LG-4-1]]
-==== LG 4-1: TBD
-tbd.
+==== LG 4-1: What should the participants be able to do?
+* List and explain the tasks of IT governance. 
+* List and explain organisational models for IT governance. 
+* Describe and explain the function, tasks and composition of the Architecture Board. 
+* Describe and explain the function, tasks and composition of the Governance Board. 
+* List and explain best practices, architecture guidelines/directives and principles as input requirements for objectives, procedures, solution spaces, etc.
+* Explain the differences between best practices, architecture guidelines/directives and principles. 
+* List and explain the tasks of a governance review using COBIT as an example. 
+* Describe and explain a model for monitoring and evaluating IT compliance (e.g., irrelevant, consistent, compliant, conformant, fully conformant, non-conformant as defined in TOGAF). 
+* Describe and explain maturity models for enterprise architecture development. 
+* List and explain typical levels of maturity for enterprise architecture development.
+* Explain what COBIT is. 
+* Describe and explain the objectives and benefits of COBIT. 
+* Describe and explain the central governance principles of COBIT. 
+* Describe and explain the interaction between COBIT and other frameworks (e.g., TOGAF and ITIL). 
 
 [[LG-4-2]]
-==== LG 4-2: TBD
-tbd.
+==== LG 4-2: What should the participants understand?
+* Integration of IT governance into corporate governance
+* Integration of IT governance into the IT enterprise architecture
+* That IT governance interacts with principles at the enterprise and architecture levels
+* The interaction between change management and IT governance
+* The sequence of an IT governance review
+* Further development of IT governance
+* The function of change management and IT governance for business IT alignment
+* The importance of IT governance for risk management
+* The importance of IT governance for iterative further development of the IT landscape
+
+[[LG-4-3]]
+==== LG 4-3: What should the participants know?
+* An example of organisational structure of IT governance 
+* Examples of challenges and tasks of IT governance
+* IT governance best practices (e.g., recommendations for roles, the responsible persons, boards/committees, processes and concepts and their integration) 
+* Definition of the terms quality and quality management
+* Examples of typical key indicators
+* An example of an enterprise architecture maturity model: 
+** The EAMMF from the GAO
+** The OMB EA Assessment Framework
+** The Gartner EA Maturity Assessment Framework
 // end::EN[]
 
 // tag::REMARK[]
