@@ -1,10 +1,10 @@
 // tag::DE[]
 |===
-| Dauer: XXX Min. | Übungszeit: XXX Min.
+| Dauer: 270 Min. | Übungszeit: 90 Min.
 |===
 
 === Begriffe und Konzepte
-Begriff 1, Begriff 2, Begriff 3
+Architektur-Frameworks (TOGAF, etc.), Branchen-Frameworks (TM Forum Frameworx, etc.), Audit-Framewoks (COBIT, etc.), Operations-Frameworks (ITIL, etc.), Architektursichten (IEEE 1471-2000), Metamodell, Repository, Governance, Referenzarchitektur, Zachman, TOGAF, ARIS, CIM, SID, DoDAF, MoDAF, Tailoring
 
 // end::DE[]
 
@@ -15,8 +15,8 @@ Begriff 1, Begriff 2, Begriff 3
 
 === Terms and Principles
 Term 1, Term 2, Term 3
-// end::EN[]
 
+// end::EN[]
 
 // tag::REMARK[]
 [NOTE]

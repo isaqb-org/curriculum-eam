@@ -1,16 +1,14 @@
-// header file for curriculum section 1: ERSTE LERNEINHEIT
+// header file for curriculum section 5: Lerneinheit 5
 // (c) iSAQB e.V. (https://isaqb.org)
 // ====================================================
 
-
 // tag::DE[]
-== Dies ist der Titel des ersten Moduls
+== Unternehmensarchitektur-Frameworks
 // end::DE[]
 
 // tag::EN[]
-== This is the First Module's Title
+== And This is Module no 5
 // end::EN[]
-
 
 include::01-duration-terms.adoc[{include_configuration}]
 

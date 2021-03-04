@@ -1,0 +1,33 @@
+// tag::DE[]
+|===
+| Dauer: 270 Min. | Übungszeit: 120 Min.
+|===
+
+=== Begriffe und Konzepte
+Mission, Vision, Architekturvision, Unternehmensprinzipien, Architekturprinzipien, Geschäftsmodell, Geschäftsarchitektur, Ordnungsrahmen für IT-Strategie,Anwendungsportfolio-Management, Informationssystem-Architektur, Daten-Architektur, Technische Architektur, Geschäftsprozessmodellierung, Business Motivation Model (BMM), TOGAF Architecture Development Method (ADM), SWOT-Analyse, Maturitätsanalyse, Nutzwertanalyse, GAP-Analyse, Impact-Analyse, Risiko-Analyse, Capability Analyse, Capability-basierte Planung, Szenario-basierte Bewertung.
+
+// end::DE[]
+
+// tag::EN[]
+|===
+| Duration: XXX min | Practice time: XXX min
+|===
+
+=== Terms and Principles
+Term 1, Term 2, Term 3
+
+// end::EN[]
+
+// tag::REMARK[]
+[NOTE]
+====
+Überschrift in 00-structure.adoc ersetzen
+====
+// end::REMARK[]
+
+// tag::REMARK[]
+[NOTE]
+====
+Sinnvolle Zeiten für Dauer und Übungszeit eintragen, vernünftige Begriffe aufzählen.
+====
+// end::REMARK[]

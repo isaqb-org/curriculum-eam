@@ -1,0 +1,61 @@
+=== {learning-goals}
+
+// tag::DE[]
+[[LZ-2-1]]
+==== LZ 2-1: Was sollen die Teilnehmer können?
+* Vorgehensweise zur Formulierung einer Architekturvision darstellen und erklären. 
+* Vorgehensweise zur Architekturplanung darstellen und erklären. 
+* Unterschied zwischen verschiedenen Entwicklungsmodellen benennen und erklären. 
+* Analyse der Ist-Architektur darstellen und erklären. 
+* Entwicklung der Zielarchitektur darstellen und erklären. 
+* Ableitung der Soll-Architektur aus Ist- und Zielarchitektur darstellen und erklären. 
+* Ableitung der Unternehmensarchitektur aus der Unternehmensstrategie darstellen und erklären. 
+* Berücksichtigung von Unternehmensprinzipien in der Unternehmensarchitektur darstellen und erklären. 
+* Bedeutung der Unternehmensarchitektur als Ordnungsrahmen für die IT-Strategien darstellen und erklären. 
+* Bedeutung der Unternehmensarchitektur als Grundlage für die Capability-basierte Planung
+* Anforderungen und Rahmenbedingungen an die Unternehmensarchitektur erheben und dokumentieren (Business-Szenarien). 
+* Governance und Bewertung von Umsetzungsprojekten darstellen und erklären. 
+* Funktion und Nutzen des Change Management darstellen und erklären. 
+
+[[LZ-2-2]]
+==== LZ 2-2: Was sollen die Teilnehmer verstehen?
+* Architekturprinzipien als Bestandteil der Unternehmensarchitektur
+* Kategorisierung von Architekturprinzipien
+* Detaillierung der Architekturprinzipien anhand eines Templates
+* Verschiedene Teilarchitekturen
+** Geschäftsarchitektur (inkl. wesentlicher Elemente)
+** Informationssystem-Architektur (inkl. wesentlicher Elemente)
+** Daten-Architektur (inkl. wesentlicher Elemente)
+** Technische Architektur (inkl. wesentlicher Elemente)
+* Abgrenzung der verschiedenen Teilarchitekturen
+* Verschiedene Dokumentationsformen für Teilarchitekturen
+* EAM als Brücke zwischen der strategischen Unternehmensplanung und den Anwendungsprojekten
+* Unternehmensarchitektur-Mittel zur Standardisierung zwischen Anwendungsprojekten
+* Vorgehensweisen zur Erstellung und Fortschreibung einer Unternehmensarchitektur (Capability-Analyse, Geschäftsprozessmodellierung, etc.). 
+
+[[LZ-2-3]]
+==== LZ 2-3: Was sollen die Teilnehmer kennen?
+* Verschiedene Methoden und Vorgehensmodelle zur Erstellung und Fortschreibung einer Unternehmensarchitektur
+* Business Motivation Model (BMM) und die entsprechenden Andockpunkte
+* Die Microsoft Services Business Architecture (MSBA)
+* TOGAF-Architekturprinzipienkatalog
+* Verschiedene Instrumente und Verfahren zur Bewertung von vorhandenen Architekturen (z.B. SWOT-Analyse, Maturitätsanalyse, Nutzwertanalyse, GAP-Analyse, Impact-Analyse, Risiko-Analyse, Szenario-basierte Bewertung)
+* Verschiedene Werkzeuge für die Erarbeitung und Verwaltung einer Unternehmensarchitektur
+// end::DE[]
+
+// tag::EN[]
+[[LG-2-1]]
+==== LG 2-1: TBD
+tbd.
+
+[[LG-2-2]]
+==== LG 2-2: TBD
+tbd.
+// end::EN[]
+
+// tag::REMARK[]
+[NOTE]
+====
+Die einzelnen Lernziele müssen nicht als einfache Aufzählungen mit Unterpunkten aufgeführt werden, sondern können auch gerne in ganzen Sätzen formuliert werden, welche die einzelnen Punkte (sofern möglich) integrieren.
+====
+// end::REMARK[]

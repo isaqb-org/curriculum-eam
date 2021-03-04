@@ -1,14 +1,16 @@
-// header file for curriculum section 5: Lerneinheit 5
+// header file for curriculum section 1: ERSTE LERNEINHEIT
 // (c) iSAQB e.V. (https://isaqb.org)
 // ====================================================
 
+
 // tag::DE[]
-== Und so heißt Modul 5
+== Grundbegriffe des Enterprise Architecture Managements
 // end::DE[]
 
 // tag::EN[]
-== And This is Module no 5
+== This is the First Module's Title
 // end::EN[]
+
 
 include::01-duration-terms.adoc[{include_configuration}]
 

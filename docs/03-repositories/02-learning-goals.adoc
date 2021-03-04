@@ -1,0 +1,55 @@
+=== {learning-goals}
+
+// tag::DE[]
+[[LZ-3-1]]
+==== LZ 3-1: Was sollen die Teilnehmer können?
+* Funktion und Nutzen von EAM-Repositories darstellen und erklären.
+* Informationsarten eines EAM-Repositories benennen und erklären. 
+** Architektur-Metamodell 
+** Dokumentation von Ist-, Soll- und Zielarchitekturen
+** Standards (Industriestandards, etc.)
+** Referenzbibliothek (Referenzarchitektur(en), Vorschriften, Vorlagen, Muster, etc.) am Beispiel der TOGAF-Referenzmodelle
+* Abgrenzung der verschiedenen Informationsarten darstellen erklären. 
+* Notwendigkeit der Historisierung der Informationen darstellen und erklären. 
+* Nutzung und Verwaltung eines EAM-Repositories darstellen und erklären. 
+* Definition und Einsatz von Referenzarchitekturen benennen und erklären. 
+* Erstellung und Fortschreibung von Referenzarchitekturen darstellen und erklären.
+
+[[LZ-3-2]]
+==== LZ 3-2: Was sollen die Teilnehmer verstehen?
+* Herausforderungen bei dezentraler Nutzung und zentraler Verwaltung eines EAM-Repositories
+* Berührungspunkte zwischen den Entwicklungsprozessen und den Governance-Prozessen
+* Funktion und Nutzen von Metamodellen
+* Funktion des EAM-Repositories bei der Wiederverwendung von Architekturen 
+* Anpassung von Metamodellen an ein Unternehmen
+* Technische Umsetzung eines EAM-Repositories mit Werkzeugen kennen und planen können
+* Technische Umsetzung eines EAM-Repositories mit Werkzeugen
+
+[[LZ-3-3]]
+==== LZ 3-3: Was sollen die Teilnehmer kennen?
+* Beispiele für Metamodelle aus Architekturframeworks (z.B. TOGAF)
+* Beispiele für Referenzarchitekturmodelle:oReferenzmodell der Java-EE-Referenzarchitektur 
+** Referenzmodell der SOA-Referenzarchitektur
+** .NET-Referenzmodell nach Application Architecture Guide
+** TOGAF-Referenzmodelle
+** Branchenspezifische Referenzmodelle (TM Forum Frameworx, etc.) 
+* Praxisbeispiele für Referenzarchitekturen
+* Beispiele für Architekturrichtlinien
+// end::DE[]
+
+// tag::EN[]
+[[LG-3-1]]
+==== LG 3-1: TBD
+tbd.
+
+[[LG-3-2]]
+==== LG 3-2: TBD
+tbd.
+// end::EN[]
+
+// tag::REMARK[]
+[NOTE]
+====
+Die einzelnen Lernziele müssen nicht als einfache Aufzählungen mit Unterpunkten aufgeführt werden, sondern können auch gerne in ganzen Sätzen formuliert werden, welche die einzelnen Punkte (sofern möglich) integrieren.
+====
+// end::REMARK[]

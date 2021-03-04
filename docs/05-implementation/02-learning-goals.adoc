@@ -1,0 +1,43 @@
+=== {learning-goals}
+
+
+// tag::DE[]
+[[LZ-5-1]]
+==== LZ 5-1: Was sollen die Teilnehmer können?
+* Grundlegende Einführungspfade für ein EAM darstellen und erklären. 
+* Organisation der Einführung und Optimierung eines EAM darstellen und erklären. 
+* Herausforderungen und Erfolgsfaktoren bei der Einführung eines EAM darstellen und erklären. 
+* Stakeholder-Analyse für eine EAM-Einführung darstellen und erklären. 
+* Zweck und Nutzen einer EAM-Einführung an Stakeholder kommunizieren.
+* Migrationspfade für die Einführung eines EAM in eine bestehende IT-Landschaft darstellen und erklären. 
+* Iteratives Vorgehen bei der Einführung eines EAM in eine bestehende IT-Landschaft darstellen und erklären. 
+* Grenzen bei der Einführung eines EAM in eine bestehende IT-Landschaft darstellen und erklären.
+
+[[LZ-5-2]]
+==== LZ 5-2: Was sollen die Teilnehmer verstehen?
+* Phasen bei der Einführung eines EAM
+* Auswahl der Migrationsschritte bei der Einführung eines EAM in eine bestehende IT-Landschaft
+
+[[LZ-5-3]]
+==== LZ 5-3: Was sollen die Teilnehmer kennen?
+* Beispielszenarien für die Einführung eines EAM
+* Beispielszenarien für die Einführung eines EAM in eine bestehende IT-Landschaft
+* Soll-Landschaft
+// end::DE[]
+
+// tag::EN[]
+[[LG-5-1]]
+==== LG 5-1: TBD
+tbd.
+
+[[LG-5-2]]
+==== LG 5-2: TBD
+tbd.
+// end::EN[]
+
+// tag::REMARK[]
+[NOTE]
+====
+Die einzelnen Lernziele müssen nicht als einfache Aufzählungen mit Unterpunkten aufgeführt werden, sondern können auch gerne in ganzen Sätzen formuliert werden, welche die einzelnen Punkte (sofern möglich) integrieren.
+====
+// end::REMARK[]

@@ -32,24 +32,59 @@ ATTENTION: labels have to be non-numeric.
 ====
 // end::REMARK[]
 
-**B**
-
-- [[[bachmann,Bachmann et al. 2000]]] Bachmann, F., L. Bass, et al.: Software Architecture Documentation in Practice. Software Engineering Institute, CMU/SEI-2000-SR-004.
-- [[[bass,Bass et al. 2003]]] Bass, L., Clements, P. und Kazman, R. (2003): Software Architecture in Practice. Addison-Wesley, Reading, Mass
-
 **C**
 
-- [[[clements,Clements et al. 2003]]] Clements, P., F. Bachmann, L. Bass, D. Garlan, J. Ivers et al.: Documenting Software Architectures – Views and Beyond. Addison Wesley, 2003.
+- [[[cobit,COBIT]]] Information Systems Audit and Control Association(ISACA),Online: http://www.isaca.org/COBIT/Pages/default.aspx
+
+**D**
+
+- [[[dodaf,DoDAF]]] Department of Defence (DoD), Online: http://dodcio.defense.gov/dodaf20.aspx
+
+**G**
+
+- [[[gharbi,Gharbi2012]]] Gharbi, M., Koschel, A., Rausch, A., Starke, G.: Basiswissen für Software-Architekten: Aus- und Weiterbildung zum Certified Professional for Software Architecture Foundation Level nach iSAQB-Standard, dpunkt Verlag, 2012.
 
 **H**
 
-- [[[hargis,Hargis 2004]]] Hargis, Gretchen et al.: Quality Technical Information: A Handbook for Writers and Editors. Prentice Hall, IBM Press, 2004.
+- [[[hanschkea,Hanschke2010]]] Hanschke, I.: Strategisches Management der IT-Landschaft. Hanser Verlag, 2010.
+- [[[hanschkeb,Hanschke2012]]] Hanschke, I.: Enterprise Architecture Management – Einfach und Effektiv. Hanser Verlag, 2012.
+
+**I**
+
+- [[[itil,ITIL]]] Cabinet Office at Her Majesty's Government (HMG), Online: http://www.itil-officialsite.com/
+
+**J**
+
+- [[[johannsen,Johannsen2010]]] Johannsen, W., Goeken, M.: Referenzmodelle für IT-Governance. dpunkt Verlag, 2010.
 
 **K**
 
-- [[[kruchten,Kruchten 1995]]] Kruchten, P.: Architectural Blueprints – The 4-1 View Model of Architecture. IEEE Software November 1995; 12(6), p. 42-50.
+- [[[keller,Keller2012]]] Keller, W.: IT-Unternehmensarchitektur. dpunkt Verlag 2012.
+
+**M**
+
+- [[[modaf,MODAF]]] Ministry of Defence (MOD)at Her Majesty's Government(HMG), Online: http://www.mod.uk/DefenceInternet/AboutDefence/WhatWeDo/InformationManagement/MODAF/
+
+**R**
+
+- [[[reynolds,Reynolds10]]] Reynolds, C., Introduction to Business Architecture, Course Technology 2010.
+- [[[reussner,Reussner2008]]] Reussner, R., Hasselbring, W.: Handbuch der Software-Architektur. dpunkt Verlag, 2008.
+- [[[risk,RISK IT]]] Information Systems Audit and Control Association(ISACA),Online: http://www.isaca.org/Knowledge-Center/Risk-IT-IT-Risk-Management/Pages/Risk-IT1.aspx
 
 **S**
 
-- [[[starke,Starke 2011]]] Starke, G. (2011): Effektive Software-Architekturen - Ein praktischer Leitfaden. 5. Auflage 2011, Carl Hanser Verlag, München.
+- [[[schmelzer,Schmelzer2010]]] Schmelzer, H., Sesselmann, W.: Geschäftsprozessmanagement in der Praxis. Hanser Wirtschaft Verlag, 2010.
 
+**T**
+
+- [[[tiemeyer,Tiemeyer2011]]] Tiemeyer, E.: Handbuch IT-Management – Konzepte, Methoden, Lösungen und Arbeitshilfen für die Praxis. Hanser Verlag, 2011.
+- [[[togaf,TOGAF]]] The Open Group, Online: http://www.opengroup.org/togaf/
+
+**V**
+
+- [[[vogel,Vogel2005]]] Vogel, O., Arnold, I.: Software-Architekturen Grundlagen – Konzepte. Spektrum Akademischer Verlag, 2005.
+- [[[val,VAL IT]]] Information Systems Audit and Control Association(ISACA),Online: http://www.isaca.org/Knowledge-Center/Val-IT-IT-Value-Delivery-/Pages/Val-IT1.aspx
+
+**W**
+
+- [[[weill,Weill2004]]] Weill, P., Ross, J.: IT Governance. Mcgraw-Hill Professional, 2004.

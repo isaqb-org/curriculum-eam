@@ -1,0 +1,55 @@
+=== {learning-goals}
+
+
+// tag::DE[]
+[[LZ-6-1]]
+==== LZ 6-1: Was sollen die Teilnehmer können?
+* Anforderungen und Nutzen von Unternehmensarchitektur-Framework benennen und erklären.
+* Arten von Architektur-Frameworks unterscheiden und erklären können: 
+** Operationelle Frameworks (z.B. TOGAF)
+** Konzeptionelle Frameworks (z.B. Zachmann)
+** Branchenframeworks (z.B. TM Forum Frameworx) 
+* Einsatzgebiete, Verwendungszwecke und Zielgruppen der verschiedenen Arten von Architektur-Frameworks benennen und erklären. 
+* Abgrenzung der verschiedenen Arten von Architektur-Frameworks benennen und erklären
+* Bedeutung von Referenzmodellen und –architekturen in den verschiedenen Architektur-Frameworks benennen und erklären.
+
+[[LZ-6-2]]
+==== LZ 6-2: Was sollen die Teilnehmer verstehen?
+* Wesentliche Inhalte des TOGAF
+* Wesentliche Inhalte des COBIT-Frameworks
+* Wesentliche Inhalte des Zachman-Frameworks
+* Berücksichtigung von „klassischen“ IT-Disziplinen wie Software-Architektur, Geschäftsprozessmodellierung und Software-Entwicklung in Unternehmensarchitektur-Frameworks
+* Herausforderungen beim Einsatz eines Unternehmensarchitektur-Frameworks
+* Auswahl und Tailoring eines Unternehmensarchitektur-Frameworks für ein Unternehmen
+
+[[LZ-6-3]]
+==== LZ 6-3: Was sollen die Teilnehmer kennen?
+* TOGAF Architecture Development Methode (ADM)
+* TOGAF Architecture Content Framework
+* TOGAF Architecture Capability Framework
+* TOGAF Architecture Governance
+* Beispiele für den Anpassungsaufwand bei der Verwendung eines Frameworks für ein konkretes Unternehmen
+* Zachman Framework
+* ARIS-Methode
+* Common Information Model (CIM)
+* TM Forum Frameworx
+* Department of Defence Architecture Framework (DoDAF)
+* Ministry of Defence Architectual Framework (MoDAF)
+// end::DE[]
+
+// tag::EN[]
+[[LG-5-1]]
+==== LG 5-1: TBD
+tbd.
+
+[[LG-5-2]]
+==== LG 5-2: TBD
+tbd.
+// end::EN[]
+
+// tag::REMARK[]
+[NOTE]
+====
+Die einzelnen Lernziele müssen nicht als einfache Aufzählungen mit Unterpunkten aufgeführt werden, sondern können auch gerne in ganzen Sätzen formuliert werden, welche die einzelnen Punkte (sofern möglich) integrieren.
+====
+// end::REMARK[]

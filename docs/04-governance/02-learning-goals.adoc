@@ -1,0 +1,61 @@
+=== {learning-goals}
+
+// tag::DE[]
+[[LZ-4-1]]
+==== LZ 4-1: Was sollen die Teilnehmer können?
+* Aufgaben von IT-Governance benennen und erklären. 
+* Organisationsmodelle für IT-Governance benennen und erklären. 
+* Funktion, Aufgabe und Zusammensetzung des Architectureboards darstellen und erklären. 
+* Funktion, Aufgaben und Zusammensetzung der Governanceboards darstellen und erklären. 
+* Best Practices, Architekturrichtlinien und Prinzipien als Vorgaben für Ziele, Vorgehen, Lösungsräume, etc. benennen und erklären. 
+* Unterschied zwischen Best Practices, Architekturrichtlinien und Prinzipien benennen und erklären.
+* Aufgaben eines Governance-Reviews benennen und erklären anhand von COBIT. 
+* Modell zur Überwachung und Beurteilung der IT-Compliance darstellen und erklären (z.B. Irrelevant, Consistent, Compliant, Conformant, Fully Conformant, Non-Conformant nach TOGAF).
+* Reifegradmodelle für Unternehmensarchitektur-Entwicklung darstellen und erklären. 
+* Typische Reifegradstufen für Unternehmensarchitektur-Entwicklung benennen und erklären
+* COBIT darstellen und erklären. 
+* Ziele und Nutzen von COBIT darstellen und erklären. 
+* Zentrale Governance-Prinzipien von COBIT darstellen und erklären. 
+* Zusammenspiel zwischen COBIT und anderen Frameworks (z.B. TOGAF und ITIL) darstellen und erklären. 
+
+[[LZ-4-2]]
+==== LZ 4-2: Was sollen die Teilnehmer verstehen?
+* Einordnung der IT-Governance in die Corporate Governance
+* Einordnung der IT-Governance in die IT-Unternehmensarchitektur
+* IT-Governance spielt mit Prinzipien auf Unternehmens- und Architekturebene zusammen
+* Zusammenspiel Change-Management und IT-Governance
+* Ablauf eines IT-Governance-Reviews∑Weiterentwicklung einer IT-Governance
+* Funktion von Change Management und IT-Governance für das Business IT-Alignement
+* Bedeutung der IT-Governance für das Risikomanagement
+* Bedeutung der IT-Governance für die iterative Weiterentwicklung der IT-Landschaft
+
+[[LZ-4-3]]
+==== LZ 4-3: Was sollen die Teilnehmer kennen?
+* Beispiel einer organisatorischen Aufstellung von IT-Governance 
+* Beispiele für Herausforderungen und Aufgaben der IT-Governance
+* IT-Governance Best Practices (z.B. Empfehlungen für Rollen, Verantwortliche, Gremien, Prozesse und Konzepte sowie deren Integration)
+* Definition der Begriffe Qualität und Qualitätsmanagement
+* Beispiele für typische Kennzahlen
+* Beispiele für Unternehmensarchitektur-Reifegradmodelle: 
+** EAMMF der GAO
+** OMB EA Assessment Framework
+** Gartner EA Maturity Assessment Framework
+
+// end::DE[]
+
+// tag::EN[]
+[[LG-4-1]]
+==== LG 4-1: TBD
+tbd.
+
+[[LG-4-2]]
+==== LG 4-2: TBD
+tbd.
+// end::EN[]
+
+// tag::REMARK[]
+[NOTE]
+====
+Die einzelnen Lernziele müssen nicht als einfache Aufzählungen mit Unterpunkten aufgeführt werden, sondern können auch gerne in ganzen Sätzen formuliert werden, welche die einzelnen Punkte (sofern möglich) integrieren.
+====
+// end::REMARK[]

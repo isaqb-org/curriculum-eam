@@ -1,5 +1,6 @@
 === {references}
 
+<<dodaf>>, <<hanschkeb>>, <<modaf>>, <<tiemeyer>>, <<togaf>>
 
 // tag::REMARK[]
 [NOTE]

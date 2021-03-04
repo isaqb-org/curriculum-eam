@@ -1,7 +1,6 @@
 === {references}
 
-<<bass>>, <<bachmann>>, <<kruchten>>, <<starke>>
-
+<<cobit>>, <<hanschkea>>, <<johannsen>>, <<togaf>>, <<weill>>
 
 
 // tag::REMARK[]

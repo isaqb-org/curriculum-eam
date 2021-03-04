@@ -1,7 +1,6 @@
 === {references}
 
-<<kruchten>>
-
+<<cobit>>, <<gharbi>>, <<hanschkea>>, <<hanschkeb>>, <<itil>>, <<keller>>, <<reussner>>, <<tiemeyer>>, <<togaf>>, <<vogel>>
 
 
 // tag::REMARK[]
