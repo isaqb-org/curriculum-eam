@@ -69,7 +69,8 @@
 * The ARIS approach
 * The Common Information Model (CIM)
 * The TM Forum Frameworx
-* The Department of Defense Architecture Framework (DoDAF)∑The Ministry of Defence Architectural Framework (MoDAF)
+* The Department of Defense Architecture Framework (DoDAF)
+* The Ministry of Defence Architectural Framework (MoDAF)
 // end::EN[]
 
 // tag::REMARK[]

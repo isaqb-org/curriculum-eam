@@ -41,7 +41,7 @@
 [[LG-1-1]]
 ==== LG 1-1: What should the participants be able to do?
 * List and explain the objectives, positive impacts and tasks of EAM. 
-* Describe and explain the interaction between EAM and other strategic management tasks (e. g., corporate planning, portfolio management, production management, etc.). 
+* Describe and explain the interaction between EAM and other strategic management tasks (e.g., corporate planning, portfolio management, production management, etc.). 
 * Explain the difference between EAM and E(IT)AM. 
 * Describe the interaction between (IT) strategy and EAM. 
 * Strategic Application Portfolio Management: Current, target and planned IT enterprise architecture. 
@@ -64,7 +64,7 @@
 * The functions of IT risk management, compliance and IT security
 * The relationship between change management and EAM
 * The use of a repository for management and standardisation of the company’s IT
-* The differences between different enterprise architecture frameworks (e. g., TOGAF, COBIT, ITIL, TM Forum Frameworx, etc.).
+* The differences between different enterprise architecture frameworks (e.g., TOGAF, COBIT, ITIL, TM Forum Frameworx, etc.).
 
 [[LG-1-3]]
 ==== LG 1-3: What should the participants know?

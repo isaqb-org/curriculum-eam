@@ -22,7 +22,7 @@
 
 [cols="<,>", options="header"]
 |===
-| Inhalt | Empfohlene Mindestdauer (min)
+| Content | Recommended minimum duration (minutes)
 | 1. Basic terms used in Enterprise Architecture Management | 120
 | 2. Procedures in EAM  | 390
 | 3. Repositories and meta models | 180

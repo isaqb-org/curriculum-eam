@@ -46,7 +46,7 @@
 ** Architecture metamodel
 ** Documentation of current, future and target architectures
 ** Standards (industry standards etc.)
-** Reference library (reference architecture(s), rules, templates, models, etc.)using the TOGAF reference models as an example. 
+** Reference library (reference architecture(s), rules, templates, models, etc.) using the TOGAF reference models as an example. 
 * Describe and explain the differences between the different types of information. 
 * Describe and explain the need for historization of the information. 
 * Describe and explain how an EAM repository is used and managed. 
@@ -65,7 +65,7 @@
 
 [[LG-3-3]]
 ==== LG 3-3: What should the participants know?
-* Examples of metamodels from architecture frameworks (e. g., TOGAF) 
+* Examples of metamodels from architecture frameworks (e.g., TOGAF) 
 * Examples of reference architecture models: 
 ** The reference model of the Java EE reference architecture
 ** The reference model of the SOA reference architecture
