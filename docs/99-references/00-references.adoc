@@ -51,7 +51,7 @@ ATTENTION: labels have to be non-numeric.
 
 **I**
 
-- [[[itil,ITIL]]] Cabinet Office at Her Majesty's Government (HMG), Online: http://www.itil-officialsite.com/
+- [[[itil,ITIL]]] Cabinet Office at His Majesty's Government (HMG), Online: http://www.itil-officialsite.com/
 
 **J**
 
