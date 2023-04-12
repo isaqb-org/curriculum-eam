@@ -10,11 +10,3 @@ Die Erarbeitung einer realen Unternehmensarchitektur mit deren Vor- und Nachteil
 Discussion of the development of a real enterprise architecture, and its advantages and disadvantages.
 // end::EN[]
 
-
-// tag::REMARK[]
-
-[NOTE]
-====
-KURZE ERKLÄRUNG ZU DEN ZIELEN DIESER LERNEINHEIT
-====
-// end::REMARK[]

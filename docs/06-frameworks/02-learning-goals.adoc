@@ -5,11 +5,11 @@
 [[LZ-6-1]]
 ==== LZ 6-1: Was sollen die Teilnehmer können?
 * Anforderungen und Nutzen von Unternehmensarchitektur-Framework benennen und erklären.
-* Arten von Architektur-Frameworks unterscheiden und erklären können: 
+* Arten von Architektur-Frameworks unterscheiden und erklären können:
 ** Operationelle Frameworks (z.B. TOGAF)
 ** Konzeptionelle Frameworks (z.B. Zachmann)
-** Branchenframeworks (z.B. TM Forum Frameworx) 
-* Einsatzgebiete, Verwendungszwecke und Zielgruppen der verschiedenen Arten von Architektur-Frameworks benennen und erklären. 
+** Branchenframeworks (z.B. TM Forum Frameworx)
+* Einsatzgebiete, Verwendungszwecke und Zielgruppen der verschiedenen Arten von Architektur-Frameworks benennen und erklären.
 * Abgrenzung der verschiedenen Arten von Architektur-Frameworks benennen und erklären
 * Bedeutung von Referenzmodellen und –architekturen in den verschiedenen Architektur-Frameworks benennen und erklären.
 
@@ -40,13 +40,13 @@
 // tag::EN[]
 [[LG-6-1]]
 ==== LG 6-1: What should the participants be able to do?
-* List and explain requirements on and benefits of enterprise architecture frameworks. 
-* Differentiate between and explain the types of architecture frameworks: 
+* List and explain requirements on and benefits of enterprise architecture frameworks.
+* Differentiate between and explain the types of architecture frameworks:
 ** Operational frameworks (e.g., TOGAF)
 ** Conceptional frameworks (e.g., Zachmann)
-** Business sector frameworks (e.g., TM Forum Frameworx). 
-* List and explain application areas, purposes and target groups of the different types of architecture frameworks. 
-* Explain the differences between the different types of architecture frameworks. 
+** Business sector frameworks (e.g., TM Forum Frameworx).
+* List and explain application areas, purposes and target groups of the different types of architecture frameworks.
+* Explain the differences between the different types of architecture frameworks.
 * Explain the significance of reference models and architectures in the different architecture frameworks.
 
 [[LG-6-2]]
@@ -73,9 +73,4 @@
 * The Ministry of Defence Architectural Framework (MoDAF)
 // end::EN[]
 
-// tag::REMARK[]
-[NOTE]
-====
-Die einzelnen Lernziele müssen nicht als einfache Aufzählungen mit Unterpunkten aufgeführt werden, sondern können auch gerne in ganzen Sätzen formuliert werden, welche die einzelnen Punkte (sofern möglich) integrieren.
-====
-// end::REMARK[]
+

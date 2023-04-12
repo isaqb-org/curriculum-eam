@@ -3,20 +3,20 @@
 // tag::DE[]
 [[LZ-4-1]]
 ==== LZ 4-1: Was sollen die Teilnehmer können?
-* Aufgaben von IT-Governance benennen und erklären. 
-* Organisationsmodelle für IT-Governance benennen und erklären. 
-* Funktion, Aufgabe und Zusammensetzung des Architectureboards darstellen und erklären. 
-* Funktion, Aufgaben und Zusammensetzung der Governanceboards darstellen und erklären. 
-* Best Practices, Architekturrichtlinien und Prinzipien als Vorgaben für Ziele, Vorgehen, Lösungsräume, etc. benennen und erklären. 
+* Aufgaben von IT-Governance benennen und erklären.
+* Organisationsmodelle für IT-Governance benennen und erklären.
+* Funktion, Aufgabe und Zusammensetzung des Architectureboards darstellen und erklären.
+* Funktion, Aufgaben und Zusammensetzung der Governanceboards darstellen und erklären.
+* Best Practices, Architekturrichtlinien und Prinzipien als Vorgaben für Ziele, Vorgehen, Lösungsräume, etc. benennen und erklären.
 * Unterschied zwischen Best Practices, Architekturrichtlinien und Prinzipien benennen und erklären.
-* Aufgaben eines Governance-Reviews benennen und erklären anhand von COBIT. 
+* Aufgaben eines Governance-Reviews benennen und erklären anhand von COBIT.
 * Modell zur Überwachung und Beurteilung der IT-Compliance darstellen und erklären (z.B. Irrelevant, Consistent, Compliant, Conformant, Fully Conformant, Non-Conformant nach TOGAF).
-* Reifegradmodelle für Unternehmensarchitektur-Entwicklung darstellen und erklären. 
+* Reifegradmodelle für Unternehmensarchitektur-Entwicklung darstellen und erklären.
 * Typische Reifegradstufen für Unternehmensarchitektur-Entwicklung benennen und erklären
-* COBIT darstellen und erklären. 
-* Ziele und Nutzen von COBIT darstellen und erklären. 
-* Zentrale Governance-Prinzipien von COBIT darstellen und erklären. 
-* Zusammenspiel zwischen COBIT und anderen Frameworks (z.B. TOGAF und ITIL) darstellen und erklären. 
+* COBIT darstellen und erklären.
+* Ziele und Nutzen von COBIT darstellen und erklären.
+* Zentrale Governance-Prinzipien von COBIT darstellen und erklären.
+* Zusammenspiel zwischen COBIT und anderen Frameworks (z.B. TOGAF und ITIL) darstellen und erklären.
 
 [[LZ-4-2]]
 ==== LZ 4-2: Was sollen die Teilnehmer verstehen?
@@ -32,12 +32,12 @@
 
 [[LZ-4-3]]
 ==== LZ 4-3: Was sollen die Teilnehmer kennen?
-* Beispiel einer organisatorischen Aufstellung von IT-Governance 
+* Beispiel einer organisatorischen Aufstellung von IT-Governance
 * Beispiele für Herausforderungen und Aufgaben der IT-Governance
 * IT-Governance Best Practices (z.B. Empfehlungen für Rollen, Verantwortliche, Gremien, Prozesse und Konzepte sowie deren Integration)
 * Definition der Begriffe Qualität und Qualitätsmanagement
 * Beispiele für typische Kennzahlen
-* Beispiele für Unternehmensarchitektur-Reifegradmodelle: 
+* Beispiele für Unternehmensarchitektur-Reifegradmodelle:
 ** EAMMF der GAO
 ** OMB EA Assessment Framework
 ** Gartner EA Maturity Assessment Framework
@@ -47,20 +47,20 @@
 // tag::EN[]
 [[LG-4-1]]
 ==== LG 4-1: What should the participants be able to do?
-* List and explain the tasks of IT governance. 
-* List and explain organisational models for IT governance. 
-* Describe and explain the function, tasks and composition of the Architecture Board. 
-* Describe and explain the function, tasks and composition of the Governance Board. 
+* List and explain the tasks of IT governance.
+* List and explain organisational models for IT governance.
+* Describe and explain the function, tasks and composition of the Architecture Board.
+* Describe and explain the function, tasks and composition of the Governance Board.
 * List and explain best practices, architecture guidelines/directives and principles as input requirements for objectives, procedures, solution spaces, etc.
-* Explain the differences between best practices, architecture guidelines/directives and principles. 
-* List and explain the tasks of a governance review using COBIT as an example. 
-* Describe and explain a model for monitoring and evaluating IT compliance (e.g., irrelevant, consistent, compliant, conformant, fully conformant, non-conformant as defined in TOGAF). 
-* Describe and explain maturity models for enterprise architecture development. 
+* Explain the differences between best practices, architecture guidelines/directives and principles.
+* List and explain the tasks of a governance review using COBIT as an example.
+* Describe and explain a model for monitoring and evaluating IT compliance (e.g., irrelevant, consistent, compliant, conformant, fully conformant, non-conformant as defined in TOGAF).
+* Describe and explain maturity models for enterprise architecture development.
 * List and explain typical levels of maturity for enterprise architecture development.
-* Explain what COBIT is. 
-* Describe and explain the objectives and benefits of COBIT. 
-* Describe and explain the central governance principles of COBIT. 
-* Describe and explain the interaction between COBIT and other frameworks (e.g., TOGAF and ITIL). 
+* Explain what COBIT is.
+* Describe and explain the objectives and benefits of COBIT.
+* Describe and explain the central governance principles of COBIT.
+* Describe and explain the interaction between COBIT and other frameworks (e.g., TOGAF and ITIL).
 
 [[LG-4-2]]
 ==== LG 4-2: What should the participants understand?
@@ -76,20 +76,15 @@
 
 [[LG-4-3]]
 ==== LG 4-3: What should the participants know?
-* An example of organisational structure of IT governance 
+* An example of organisational structure of IT governance
 * Examples of challenges and tasks of IT governance
-* IT governance best practices (e.g., recommendations for roles, the responsible persons, boards/committees, processes and concepts and their integration) 
+* IT governance best practices (e.g., recommendations for roles, the responsible persons, boards/committees, processes and concepts and their integration)
 * Definition of the terms quality and quality management
 * Examples of typical key indicators
-* An example of an enterprise architecture maturity model: 
+* An example of an enterprise architecture maturity model:
 ** The EAMMF from the GAO
 ** The OMB EA Assessment Framework
 ** The Gartner EA Maturity Assessment Framework
 // end::EN[]
 
-// tag::REMARK[]
-[NOTE]
-====
-Die einzelnen Lernziele müssen nicht als einfache Aufzählungen mit Unterpunkten aufgeführt werden, sondern können auch gerne in ganzen Sätzen formuliert werden, welche die einzelnen Punkte (sofern möglich) integrieren.
-====
-// end::REMARK[]
+

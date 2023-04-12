@@ -4,13 +4,13 @@
 // tag::DE[]
 [[LZ-5-1]]
 ==== LZ 5-1: Was sollen die Teilnehmer können?
-* Grundlegende Einführungspfade für ein EAM darstellen und erklären. 
-* Organisation der Einführung und Optimierung eines EAM darstellen und erklären. 
-* Herausforderungen und Erfolgsfaktoren bei der Einführung eines EAM darstellen und erklären. 
-* Stakeholder-Analyse für eine EAM-Einführung darstellen und erklären. 
+* Grundlegende Einführungspfade für ein EAM darstellen und erklären.
+* Organisation der Einführung und Optimierung eines EAM darstellen und erklären.
+* Herausforderungen und Erfolgsfaktoren bei der Einführung eines EAM darstellen und erklären.
+* Stakeholder-Analyse für eine EAM-Einführung darstellen und erklären.
 * Zweck und Nutzen einer EAM-Einführung an Stakeholder kommunizieren.
-* Migrationspfade für die Einführung eines EAM in eine bestehende IT-Landschaft darstellen und erklären. 
-* Iteratives Vorgehen bei der Einführung eines EAM in eine bestehende IT-Landschaft darstellen und erklären. 
+* Migrationspfade für die Einführung eines EAM in eine bestehende IT-Landschaft darstellen und erklären.
+* Iteratives Vorgehen bei der Einführung eines EAM in eine bestehende IT-Landschaft darstellen und erklären.
 * Grenzen bei der Einführung eines EAM in eine bestehende IT-Landschaft darstellen und erklären.
 
 [[LZ-5-2]]
@@ -28,12 +28,12 @@
 // tag::EN[]
 [[LG-5-1]]
 ==== LG 5-1: What should the participants be able to do?
-* Describe and explain fundamental implementation paths for an EAM system. 
-* Describe and explain the organisation of introduction and optimisation of an EAM system. 
-* Describe and explain the challenges and success factors associated with introduction of an EAM system. 
-* Describe and explain stakeholder analysis for introduction of EAM. 
-* Communicate the purpose and benefits of introducing EAM. 
-* Describe and explain migration paths for the introduction of EAM into an existing IT landscape. 
+* Describe and explain fundamental implementation paths for an EAM system.
+* Describe and explain the organisation of introduction and optimisation of an EAM system.
+* Describe and explain the challenges and success factors associated with introduction of an EAM system.
+* Describe and explain stakeholder analysis for introduction of EAM.
+* Communicate the purpose and benefits of introducing EAM.
+* Describe and explain migration paths for the introduction of EAM into an existing IT landscape.
 * Describe and explain the iterative procedure for the introduction of EAM into an existing IT landscape. Describe and explain limitations on the introduction of EAM into an existing IT landscape.
 
 [[LG-5-2]]
@@ -48,9 +48,4 @@
 * The target landscape.
 // end::EN[]
 
-// tag::REMARK[]
-[NOTE]
-====
-Die einzelnen Lernziele müssen nicht als einfache Aufzählungen mit Unterpunkten aufgeführt werden, sondern können auch gerne in ganzen Sätzen formuliert werden, welche die einzelnen Punkte (sofern möglich) integrieren.
-====
-// end::REMARK[]
+

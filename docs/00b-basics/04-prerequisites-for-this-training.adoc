@@ -4,7 +4,7 @@
 Teilnehmerinnen und Teilnehmer **sollten** folgende Kenntnisse und/oder Erfahrung mitbringen:
 
 - Grundlagen der Architekturentwicklung: Bedeutung und Abgrenzung von Architektur, Vorgehen, Einflüsse und Anforderungen, Architekturentscheidungen, Muster und Dokumentation mit Sichten, wie im CPSA-F Foundation Level vermittelt.
-- Grundlagen der Betriebswirtschaftslehre: Entwicklung von Strategien und Geschäftsmodellen, Geschäftsprozessmanagement, Organisation. 
+- Grundlagen der Betriebswirtschaftslehre: Entwicklung von Strategien und Geschäftsmodellen, Geschäftsprozessmanagement, Organisation.
 - Wünschenswert für das Verständnis einiger Konzepte ist praktische Erfahrung im Architekturbereich und Einblick in mindestens eine moderne Technologie oder Plattform zur Entwicklung von verteilten Anwendungen
 
 **Hilfreich** für das Verständnis einiger Konzepte sind darüber hinaus:
@@ -30,19 +30,13 @@ Participants **should** have the following prerequisite knowledge:
 
 Knowledge in the following areas may be **helpful** for understanding some concepts:
 
-- Knowledge of typical challenges in the field of enterprise architectures: 
+- Knowledge of typical challenges in the field of enterprise architectures:
 ** Definition of (IT) enterprise objectives
 ** Strategic (IT) planning
-** (IT) portfolio management. 
-- Additional business management knowledge: 
+** (IT) portfolio management.
+- Additional business management knowledge:
 ** Controlling
 ** Cost-benefit analysis
 ** Investment analysis.
 // end::EN[]
 
-// tag::REMARK[]
-[NOTE]
-====
-Kenntnisgruppen sowie Voraussetzungen bitte entsprechend ausformulieren!
-====
-// end::REMARK[]
