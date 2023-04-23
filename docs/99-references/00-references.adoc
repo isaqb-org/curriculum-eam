@@ -13,6 +13,37 @@ Dieser Abschnitt enthält Quellenangaben, die ganz oder teilweise im Curriculum 
 This section contains references that are cited in the curriculum.
 // end::EN[]
 
+<<<<<<< Updated upstream
+=======
+// tag::REMARK[]
+[NOTE]
+====
+Aufbau eines Eintrags-Ankers:
+```
+- [[[label,Text der erscheint]]]
+```
+ACHTUNG: Die Labels dürfen nur Buchstaben beinhalten, keine Zahlen oder Sonderzeichen
+
+= = =
+
+Structure of an anchor:
+```
+- [[[label,text that will be shown]]]
+```
+ATTENTION: labels have to be non-numeric.
+====
+// end::REMARK[]
+
+**A**
+
+- [[[ambok,AMBoK2013]]] Architecture Management Body Of Knowledge. IT Architecture Management Institute Inc. 21013. ISBN: 978-0-9868626-1-8.
+
+**B**
+
+- [[[bente,Bente2012]]] Bente, Stefan. Collaborative Enterprise Architecture – Enriching EA with Lean, Agile, and Enterprise 2.0 Practices. Morgan Kaufmann Verlag. 2012. ISBN 978-0-12-415934-1.
+- [[[burlton,Burlton2022]]] Burlton, Roger: Business Architecture – Collecting, Connecting, and Correcting the Dots. Technics Publications. 2022.
+
+>>>>>>> Stashed changes
 **C**
 
 - [[[cobit,COBIT]]] Information Systems Audit and Control Association(ISACA),Online: http://www.isaca.org/COBIT/Pages/default.aspx
@@ -24,6 +55,8 @@ This section contains references that are cited in the curriculum.
 **G**
 
 - [[[gharbi,Gharbi2012]]] Gharbi, M., Koschel, A., Rausch, A., Starke, G.: Basiswissen für Software-Architekten: Aus- und Weiterbildung zum Certified Professional for Software Architecture Foundation Level nach iSAQB-Standard, dpunkt Verlag, 2012.
+- [[[greefhorst,Greefhorst2011]]] Greefhorst, Danny. Architecture Principles – The Cornerstones of Enterprise Architecture. Springer Verlag. 2011. ISBN 978-3-642-20278-0.
+- [[[grigoriu,Grigoriu2011]]] Grigoriu, Adrian. An Enterprise Architecture Development Framework – The Enterprise Reference Maps, Single Page Business Architecture, Metamodel SOA Design, Business Case and Strategic Planning for your Enterprise. 2011.
 
 **H**
 
@@ -42,15 +75,25 @@ This section contains references that are cited in the curriculum.
 
 - [[[keller,Keller2012]]] Keller, W.: IT-Unternehmensarchitektur. dpunkt Verlag 2012.
 
+**L**
+
+- [[[lankhorst,Lankhorst2013]]] Lankhorst, Marc. Enterprise Architecture at Work – Modelling, Communication and Analysis. Springer Verlag. 2013. ISBN: 978-3-642-29650-5.
+
 **M**
 
 - [[[modaf,MODAF]]] Ministry of Defence (MOD)at Her Majesty's Government(HMG), Online: http://www.mod.uk/DefenceInternet/AboutDefence/WhatWeDo/InformationManagement/MODAF/
+- [[[morris,Morris2013]]] Morris, Bernard. Business Architecture Made Easy: A Journey from Complexity to Simplicity. Book Baby. 2013.
+
+**O**
+
+- [[[optland,Op’tLand 2009]]], Op’t Land, Martin et. al. Enterprise Architecture – Creating Value by Informed Governance. Springer Verlag. 2009. ISBN: 978-3-540-85231-5.]]
 
 **R**
 
 - [[[reynolds,Reynolds10]]] Reynolds, C., Introduction to Business Architecture, Course Technology 2010.
 - [[[reussner,Reussner2008]]] Reussner, R., Hasselbring, W.: Handbuch der Software-Architektur. dpunkt Verlag, 2008.
 - [[[risk,RISK IT]]] Information Systems Audit and Control Association(ISACA),Online: http://www.isaca.org/Knowledge-Center/Risk-IT-IT-Risk-Management/Pages/Risk-IT1.aspx
+- [[[ross,Ross2006]]] Ross, Jeann W. et. al. Enterprise Architecture as Strategy – Creating a Foundation for Business Execution. Harvard Business School Press. 2006. ISBN: 978-1-4221-4817-4.
 
 **S**
 
@@ -59,7 +102,12 @@ This section contains references that are cited in the curriculum.
 **T**
 
 - [[[tiemeyer,Tiemeyer2011]]] Tiemeyer, E.: Handbuch IT-Management – Konzepte, Methoden, Lösungen und Arbeitshilfen für die Praxis. Hanser Verlag, 2011.
+- [[[tiwary,Tiwary2019]]] Amit Tiwary et. al.: Outcome-Driven Business Architecture – Synergizing Strategies and Intelligence with Architecture. CRC Press 2019.]]
 - [[[togaf,TOGAF]]] The Open Group, Online: http://www.opengroup.org/togaf/
+
+**U**
+
+- [[[ulrich,Ulrich2011]]] Ulrich, William et.al.: Business Architecture: The Art and Practice of Business Transformation. MK Press. 2011.]]
 
 **V**
 
@@ -69,3 +117,10 @@ This section contains references that are cited in the curriculum.
 **W**
 
 - [[[weill,Weill2004]]] Weill, P., Ross, J.: IT Governance. Mcgraw-Hill Professional, 2004.
+<<<<<<< Updated upstream
+=======
+
+**Z**
+
+- [[[ziemann,Ziemann2022]]] Ziemann, Jörg. Fundamentals of Enterprise Architecture Management - Foundations for Steering the Enterprise-Wide Digital System. Springer Verlag. 2022. ISBN: 978-3-030-96733-8.
+>>>>>>> Stashed changes

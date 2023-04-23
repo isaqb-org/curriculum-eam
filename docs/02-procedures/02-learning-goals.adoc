@@ -1,7 +1,9 @@
 === {learning-goals}
 
 // tag::DE[]
+
 [[LZ-2-1]]
+<<<<<<< Updated upstream
 ==== LZ 2-1: Was sollen die Teilnehmer können?
 * Vorgehensweise zur Formulierung einer Architekturvision darstellen und erklären.
 * Vorgehensweise zur Architekturplanung darstellen und erklären.
@@ -32,15 +34,71 @@
 * EAM als Brücke zwischen der strategischen Unternehmensplanung und den Anwendungsprojekten
 * Unternehmensarchitektur-Mittel zur Standardisierung zwischen Anwendungsprojekten
 * Vorgehensweisen zur Erstellung und Fortschreibung einer Unternehmensarchitektur (Capability-Analyse, Geschäftsprozessmodellierung, etc.).
+=======
+=== LZ 2-1: allgemeine Vorgehensweise zur (Weiter-)Entwicklung einer Unternehmensarchitektur
+* Die Beteiligung des Softwarearchitekten bei der Ableitung der IT-Unternehmensarchitektur aus der Unternehmensstrategie kennen.
+* Verschiedene Instrumente und Verfahren zur Bewertung von vorhandenen Architekturen kennen, z. B. Reifegradanalyse, GAP-Analyse, Impact-Analyse, Risiko-Analyse, Szenario-basierte Bewertung.
+* Typische EAM-Visualisierungen, wie z. B. Bebauungsplan-Grafik, Portfolio-Grafik, Informationsfluss-Grafik, Cluster-Grafik oder Masterplan-Grafik kennen.
+* Verstehen, dass unterschiedliche Architekturentscheidungen getroffen werden könnten, wenn sie aus Sicht des Unternehmensarchitekten oder aus Sicht des Softwarearchitekten betrachtet werden.
+* Verschiedene Vorgehensweisen zur (Weiter-)Entwicklung von Unternehmensarchitekturen kennen, z. B.:
+** Prozessorientiertes Vorgehen, z. B. TOGAF ADM
+** Capability-Based Planning
+** Application-Portfolio-Management
+** Musterorientiertes Vorgehen, z.B. SEBIS Technische Universität München
+** Risikogesteuerte Weiterentwicklung
+* Einordnung der Softwarearchitektur in den verschiedenen Vorgehensweisen kennen.
+
+[[LZ-2-2]]
+=== LZ 2-2: Business-Capabilities als Brücke zu Domain-Driven-Design
+* Definition, Nutzen und Anwendungsbereiche von Business-Capabilities erklären.
+* Zusammenhang zwischen Business-Capabilities und Architekturdomänen kennen.
+* Bezug von Business-Capabilities zu Domain-Driven-Design kennen.
+>>>>>>> Stashed changes
 
 [[LZ-2-3]]
-==== LZ 2-3: Was sollen die Teilnehmer kennen?
-* Verschiedene Methoden und Vorgehensmodelle zur Erstellung und Fortschreibung einer Unternehmensarchitektur
-* Business Motivation Model (BMM) und die entsprechenden Andockpunkte
-* Die Microsoft Services Business Architecture (MSBA)
-* TOGAF-Architekturprinzipienkatalog
-* Verschiedene Instrumente und Verfahren zur Bewertung von vorhandenen Architekturen (z.B. SWOT-Analyse, Maturitätsanalyse, Nutzwertanalyse, GAP-Analyse, Impact-Analyse, Risiko-Analyse, Szenario-basierte Bewertung)
-* Verschiedene Werkzeuge für die Erarbeitung und Verwaltung einer Unternehmensarchitektur
+=== LZ-2-3: Methoden zur Aufnahme und Analyse der Ist-Architektur
+* Herausforderungen bei der Beschreibung und Modellierung der Ist-Architektur kennen.
+* Ansätze zur Analyse der Ist-Architektur verstehen, z. B. Risikoanalyse, Reifegradanalyse, Kosten-Nutzen-Analyse usw.
+
+[[LZ-2-4]]
+=== LZ 2-4: Methoden zur (Weiter-)Entwicklung der Ziel-Architektur
+* Analyse der Geschäftstreiber, -strategie und -anforderungen als Basis für die Ziel-Architektur
+* Entwicklung der applikationsübergreifende Zielarchitektur darstellen und erklären.
+* Notwendigkeit zur kontinuierlichen Fortschreibung der Ziel-Architektur.
+
+[[LZ-2-5]]
+=== LZ 2-5: Methoden zur (Weiter-)Entwicklung der Architektur-Roadmap
+* Ableitung der Soll-Architektur aus Ist- und Zielarchitektur verstehen.
+* Impact- und Gap-Analyse kennen.
+* Vorgehensweise zur Architekturplanung (Roadmap) erklären können.
+* Notwendigkeit zur kontinuierlichen Fortschreibung der Roadmap.
+
+[[LZ-2-6]]
+=== LZ 2-6: Architekturprinzipien
+* Architekturprinzipien als Bestandteil der Unternehmensarchitektur verstehen.
+* Kategorisierung von Architekturprinzipien kennen.
+* TOGAF-Architekturprinzipienkatalog kennen.
+
+[[LZ-2-7]]
+=== LZ 2-7: Referenzmodelle bzw. -architekturen
+* Standards, Referenzmodelle, Best Practices, Architekturrichtlinien und -Prinzipien als Vorgaben für Ziele, Vorgehen, Lösungsräume, etc. als Treiber für Qualität verstehen.
+* Definition und Einsatz von Referenzarchitekturen benennen und erklären.
+* Beispiele für Referenzarchitekturmodelle kennen, z.B.:
+** TOGAF-Referenzmodelle
+** Branchenspezifische Referenzmodelle, z. B. TM-Forum, BIAN, Frameworx, etc.
+** Systemübergreifende Architekturmuster, z. B. Microservices, Event- bzw. Message-Driven, Composable Architecture usw.
+** Integrationsmuster
+* Abgrenzung und Zusammenhänge zwischen Referenzmodellen auf der Unternehmens- und der Softwarearchitektur-Ebene kennen.
+
+[[LZ-2-8]]
+=== LZ 2-8: EAM-Reifegrad:
+* Beispiel eines Unternehmensarchitektur-Reifegradmodelle kennen, z.B.:
+** CMMI
+** EAMMF der GAO
+**  OMB EA Assessment Framework
+** Gartner EA Maturity Assessment Framework
+* Zusammenhänge zwischen dem EAM-Reifegrad und der Handlungsmöglichkeiten verstehen.
+
 // end::DE[]
 
 // tag::EN[]
