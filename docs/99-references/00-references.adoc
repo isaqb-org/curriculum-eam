@@ -13,6 +13,9 @@ Dieser Abschnitt enthält Quellenangaben, die ganz oder teilweise im Curriculum 
 This section contains references that are cited in the curriculum.
 // end::EN[]
 
+**A**
+- [[[ambok,AMBoK2013]]] Architecture Management Body Of Knowledge. IT Architecture Management Institute Inc. 21013. ISBN: 978-0-9868626-1-8
+
 **C**
 
 - [[[cobit,COBIT]]] Information Systems Audit and Control Association(ISACA),Online: http://www.isaca.org/COBIT/Pages/default.aspx
