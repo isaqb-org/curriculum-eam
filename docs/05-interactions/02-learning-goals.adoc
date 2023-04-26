@@ -6,6 +6,7 @@
 ==== LZ 5-1: Einflüsse von der Unternehmensarchitektur auf die Softwarearchitektur
 * Einflüsse von der Unternehmensstrategie und den -anforderungen auf die IT-Landschaft und entsprechenden Softwarearchitekturen erkennen und berücksichtigen, z. B.:
 ** Neue Strategien, Geschäftsmodelle usw.
+** Gesetzliche Änderungen, z.B. DSGVO
 ** Wirtschaftliche Lage des Unternehmens
 * Einflüsse von Trends auf die IT-Landschaft und entsprechenden Softwarearchitekturen erkennen und berücksichtigen, z.B.:
 ** Markt-Trends (Konkurrenz, Preise, Kundenpräferenzen usw.)
