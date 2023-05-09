@@ -3,7 +3,7 @@
 // ====================================================
 
 // tag::DE[]
-== Governance und Change Management
+== Architektur-Governance
 // end::DE[]
 
 // tag::EN[]
