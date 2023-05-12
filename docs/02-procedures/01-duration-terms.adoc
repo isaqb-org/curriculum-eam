@@ -4,7 +4,7 @@
 |===
 
 === Begriffe und Konzepte
-Architekturprinzipien, Ist-, Soll- und Ziel-Architekturen, Anwendungsportfolio-Management, TOGAF Architecture Development Method (ADM), Reifegradanalyse, GAP-Analyse, Impact-Analyse, Architekturroadmap, Risiko-Analyse, Business-Capability, Capability-Analyse, Geschäftsszenario, EAM-Visualisierungsarten, Agile-Frameworks, Domain-Driven Design, Referenzmodell.
+Architekturprinzipien, Ist-, Soll- und Ziel-Architekturen, Anwendungsportfolio-Management, TOGAF Architecture Development Method (ADM), Reifegradanalyse, Gap-Analyse, Impact-Analyse, Architekturroadmap, Risiko-Analyse, Business-Capability, Capability-Analyse, Geschäftsszenario, EAM-Visualisierungsarten, Agile-Frameworks, Domain-Driven Design, Referenzmodell.
 // end::DE[]
 
 // tag::EN[]
