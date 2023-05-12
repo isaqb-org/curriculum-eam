@@ -4,7 +4,7 @@
 |===
 
 === Begriffe und Konzepte
-Unternehmensstrategie, Architekturprinzip, Architekturentscheidung, applikationsübergreifende Architekturthemen (Querschnittskonzepte)
+Unternehmensstrategie, Architekturprinzip, Architekturentscheidung, applikationsübergreifende Architekturthemen (Querschnittskonzepte).
 
 // end::DE[]
 
@@ -14,7 +14,7 @@ Unternehmensstrategie, Architekturprinzip, Architekturentscheidung, applikations
 |===
 
 === Terms and Principles
-
+Corporate strategy, architecture principle, architecture decision, architectural aspects that impact multiple applications (cross-cutting concerns / concepts).
 
 // end::EN[]
 
