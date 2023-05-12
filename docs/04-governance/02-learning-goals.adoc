@@ -3,10 +3,11 @@
 // tag::DE[]
 [[LZ-4-1]]
 ==== LZ 4-1: Governance Begriffe und Konzepte
+* Überblick, Ziele und Nutzen der Architektur-Governance kennen
 * Einordnung der Architektur-Governance in die IT-Unternehmensarchitektur kennen.
 * Abgrenzung zwischen Architektur-Governance und Corporate- und IT-Governance kennen.
+* Bezug auf EAM von Governance-Frameworks (z.B. COBIT, TOGAF Architecture Capability Framework) kennen.
 * Aufgaben von Architektur-Governance verstehen, z.B. Risikomanagement.
-* Ziele, Nutzen und Überblick sowie Bezug auf EAM von Governance-Frameworks (z.B. COBIT, TOGAF Architecture Capability Framework) kennen.
 * Bezug und Abgrenzung zwischen Governance und Compliance kennen.
 
 [[LZ-4-2]]
@@ -14,7 +15,7 @@
 * Funktion, Aufgabe und Zusammensetzung von Architekturgremien erklären.
 * Definition von unterschiedlichen Architektenrollen (z. B. Unternehmensarchitekt, Solution-Architekt und Softwarearchitekt) und -verantwortungen sowie deren Abgrenzungen und Zusammenhänge verstehen.
 * Die Architektur- und Geschäftsdomänenübergreifende    Zusammenarbeit als Erfolgsfaktor verstehen, z.B. durch Architektur-Communities.
-* Wechselwirkung zwischen dem Unternehmensarchitekt und dem Softwarearchitekt, z. B.:
+* Die Wechselwirkung zwischen dem Unternehmensarchitekt und dem Softwarearchitekt kennen, z. B.:
 ** Unterstützung bei Architekturentscheidungen
 ** Erfahrungen aus den Projekten
 ** Austausch über neue Technologien
@@ -22,51 +23,35 @@
 [[LZ-4-3]]
 ==== LZ 4-3: Compliance
 * Anforderungen und Akzeptanzkriterien als Basis für die Compliance verstehen.
-* Modell zur Überwachung und Beurteilung der Architektur-Compliance verstehen, z. B. nach TOGAF.
+* Methoden zur Überwachung und Beurteilung der Architektur-Compliance verstehen, z. B. nach TOGAF.
 * Aufgaben und Ablauf eines Compliance-Reviews kennen, z. B. nach COBIT bzw. TOGAF.
 // end::DE[]
 
 // tag::EN[]
-[[LG-4-1]]
-==== LG 4-1: What should the participants be able to do?
-* List and explain the tasks of IT governance.
-* List and explain organisational models for IT governance.
-* Describe and explain the function, tasks and composition of the Architecture Board.
-* Describe and explain the function, tasks and composition of the Governance Board.
-* List and explain best practices, architecture guidelines/directives and principles as input requirements for objectives, procedures, solution spaces, etc.
-* Explain the differences between best practices, architecture guidelines/directives and principles.
-* List and explain the tasks of a governance review using COBIT as an example.
-* Describe and explain a model for monitoring and evaluating IT compliance (e.g., irrelevant, consistent, compliant, conformant, fully conformant, non-conformant as defined in TOGAF).
-* Describe and explain maturity models for enterprise architecture development.
-* List and explain typical levels of maturity for enterprise architecture development.
-* Explain what COBIT is.
-* Describe and explain the objectives and benefits of COBIT.
-* Describe and explain the central governance principles of COBIT.
-* Describe and explain the interaction between COBIT and other frameworks (e.g., TOGAF and ITIL).
+[[LZ-4-1]]
+==== LZ 4-1: Governance Terms and Concepts
+* Know the overview, objectives, and benefits of architecture governance
+* Know how architecture governance relates to IT enterprise architecture.
+* Know the distinction between architecture governance and corporate and IT governance.
+* Know the relation between governance frameworks (e.g. COBIT, TOGAF Architecture Capability Framework) and EAM.
+* Understand the tasks of architecture governance, e.g. risk management.
+* Know the relationship and distinction between governance and compliance.
 
-[[LG-4-2]]
-==== LG 4-2: What should the participants understand?
-* Integration of IT governance into corporate governance
-* Integration of IT governance into the IT enterprise architecture
-* That IT governance interacts with principles at the enterprise and architecture levels
-* The interaction between change management and IT governance
-* The sequence of an IT governance review
-* Further development of IT governance
-* The function of change management and IT governance for business IT alignment
-* The importance of IT governance for risk management
-* The importance of IT governance for iterative further development of the IT landscape
+[[LZ-4-2]]
+==== LZ 4-2: Governance organization, roles, and responsibilities.
+* Explain the function, role, and composition of architecture boards.
+* Understand the different architect roles (e.g. enterprise architect, solution architect and software architect) and responsibilities, as well as their boundaries and interrelationships.
+* Understand collaboration as a success factor across architecture and business domains, e.g. through architecture communities.
+* Understand the Interaction between the enterprise architect and the software architect, e.g.:
+** Support in architecture decisions.
+** Experiences from projects
+** Discussions about new technologies
 
-[[LG-4-3]]
-==== LG 4-3: What should the participants know?
-* An example of organisational structure of IT governance
-* Examples of challenges and tasks of IT governance
-* IT governance best practices (e.g., recommendations for roles, the responsible persons, boards/committees, processes and concepts and their integration)
-* Definition of the terms quality and quality management
-* Examples of typical key indicators
-* An example of an enterprise architecture maturity model:
-** The EAMMF from the GAO
-** The OMB EA Assessment Framework
-** The Gartner EA Maturity Assessment Framework
+[[LZ-4-3]]
+==== LZ 4-3: Compliance
+* Understand that requirements and acceptance criteria are a basis for compliance.
+* Understand methods for monitoring and assessing architecture compliance, e.g. according to TOGAF.
+* Know the tasks and process of a compliance reviews, e.g. according to COBIT or TOGAF.
 // end::EN[]
 
 
