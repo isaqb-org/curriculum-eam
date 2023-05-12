@@ -17,9 +17,17 @@ This section contains references that are cited in the curriculum.
 
 - [[[ambok,AMBoK2013]]] Architecture Management Body Of Knowledge. IT Architecture Management Institute Inc. 21013. ISBN: 978-0-9868626-1-8
 
+**B**
+
+- [[[bentea,Bente2012a]]] Information Systems Audit and Control Association(ISACA),Online: http://www.isaca.org/COBIT/Pages/default.aspx
+- [[[benteb,Bente2012b]]] Bente, Stefan. Collaborative Enterprise Architecture – Enriching EA with Lean, Agile, and Enterprise 2.0 Practices. Morgan Kaufmann Verlag. 2012. ISBN 978-0-12-415934-1.
+- [[[burlton,Burlton2022]]] Burlton, Roger: Business Architecture – Collecting, Connecting, and Correcting the Dots. Technics Publications. 2022.
+
 **C**
 
 - [[[cobit,COBIT]]] Information Systems Audit and Control Association(ISACA),Online: http://www.isaca.org/COBIT/Pages/default.aspx
+- [[[cox,Cox2014]]] Cox, Iain R. Enterprise Architecture: How to get EA-Optimised. 2014.
+- [[[cretu,Cretu2012]]] Cretu, Liviu Gabriel. Designing Enterprise Architecture Framework – Integrating Business Processes with IT Infrastructure. Apple Academic Press. 2014. ISBN: 978-1-4822-4057-3.
 
 **D**
 
@@ -52,24 +60,39 @@ This section contains references that are cited in the curriculum.
 
 - [[[keller,Keller2012]]] Keller, W.: IT-Unternehmensarchitektur. dpunkt Verlag 2012.
 
+**L**
+- [[[lankhorst,Lankhorst2013]]] Lankhorst, Marc. Enterprise Architecture at Work – Modelling, Communication and Analysis. Springer Verlag. 2013. ISBN: 978-3-642-29650-5.
+
 **M**
 
+- [[[matthes,Matthes2011]]] Matthes, Dirk. Enterprise Architecture Frameworks Kompendium – Über 50 Rahmenwerke für das IT-Management. Springer Verlag. 2011. ISBN: 978-3-642-12954-4.
 - [[[modaf,MODAF]]] Ministry of Defence (MOD)at Her Majesty's Government(HMG), Online: http://www.mod.uk/DefenceInternet/AboutDefence/WhatWeDo/InformationManagement/MODAF/
+- [[[morris,Morris2013]]] Morris, Bernard. Business Architecture Made Easy: A Journey from Complexity to Simplicity. Book Baby. 2013.
+
+**O**
+- [[[optland,OptLand2009]]] Opt Land, Martin et. al. Enterprise Architecture – Creating Value by Informed Governance. Springer Verlag. 2009. ISBN: 978-3-540-85231-5.
 
 **R**
 
 - [[[reynolds,Reynolds10]]] Reynolds, C., Introduction to Business Architecture, Course Technology 2010.
 - [[[reussner,Reussner2008]]] Reussner, R., Hasselbring, W.: Handbuch der Software-Architektur. dpunkt Verlag, 2008.
 - [[[risk,RISK IT]]] Information Systems Audit and Control Association(ISACA),Online: http://www.isaca.org/Knowledge-Center/Risk-IT-IT-Risk-Management/Pages/Risk-IT1.aspx
+- [[[ross,Ross2006]]] Ross, Jeann W. et. al. Enterprise Architecture as Strategy – Creating a Foundation for Business Execution. Harvard Business School Press. 2006. ISBN: 978-1-4221-4817-4.
 
 **S**
 
+- [[[schekkerman,Schekkerman2004]]] Schekkerman, Jaap. How to Survive in the Jungle of Enterprise Architecture Frameworks. Trafford Verlag. 2004.
 - [[[schmelzer,Schmelzer2010]]] Schmelzer, H., Sesselmann, W.: Geschäftsprozessmanagement in der Praxis. Hanser Wirtschaft Verlag, 2010.
+- [[[schwarzer,Schwarzer2009]]] Schwarzer, Bettina. Einführung in das Enterprise Architecture Management - Verstehen, Planen, Umsetzen. ISBN: 978-3837021226.
 
 **T**
 
 - [[[tiemeyer,Tiemeyer2011]]] Tiemeyer, E.: Handbuch IT-Management – Konzepte, Methoden, Lösungen und Arbeitshilfen für die Praxis. Hanser Verlag, 2011.
+- [[[tiwary,Tiwary2019]]] Amit Tiwary et. al.: Outcome-Driven Business Architecture – Synergizing Strategies and Intelligence with Architecture. CRC Press 2019.
 - [[[togaf,TOGAF]]] The Open Group, Online: http://www.opengroup.org/togaf/
+
+**U**
+- [[[ulrich,Ulrich2011]]] Ulrich, William et.al.: Business Architecture: The Art and Practice of Business Transformation. MK Press. 2011.
 
 **V**
 
@@ -79,3 +102,6 @@ This section contains references that are cited in the curriculum.
 **W**
 
 - [[[weill,Weill2004]]] Weill, P., Ross, J.: IT Governance. Mcgraw-Hill Professional, 2004.
+
+**Z**
+- [[[ziemann,Ziemann2022]]] Ziemann, Jörg. Fundamentals of Enterprise Architecture Management - Foundations for Steering the Enterprise-Wide Digital System. Springer Verlag. 2022. ISBN: 978-3-030-96733-8.
