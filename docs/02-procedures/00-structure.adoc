@@ -3,7 +3,7 @@
 // ====================================================
 
 // tag::DE[]
-== Vorgehen im E(IT)AM
+== EAM-Vorgehen und -Methoden
 // end::DE[]
 
 // tag::EN[]
