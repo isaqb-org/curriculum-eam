@@ -4,19 +4,15 @@
 Teilnehmerinnen und Teilnehmer **sollten** folgende Kenntnisse und/oder Erfahrung mitbringen:
 
 - Grundlagen der Architekturentwicklung: Bedeutung und Abgrenzung von Architektur, Vorgehen, Einflüsse und Anforderungen, Architekturentscheidungen, Muster und Dokumentation mit Sichten, wie im CPSA-F Foundation Level vermittelt.
-- Grundlagen der Betriebswirtschaftslehre: Entwicklung von Strategien und Geschäftsmodellen, Geschäftsprozessmanagement, Organisation.
-- Wünschenswert für das Verständnis einiger Konzepte ist praktische Erfahrung im Architekturbereich und Einblick in mindestens eine moderne Technologie oder Plattform zur Entwicklung von verteilten Anwendungen
 
 **Hilfreich** für das Verständnis einiger Konzepte sind darüber hinaus:
-
+- Praktische Erfahrung im Architekturbereich und Einblick in mindestens eine moderne Technologie oder Plattform zur Entwicklung von verteilten Anwendungen
 - Kenntnis typischer Herausforderungen im Bereich von Unternehmensarchitekturen:
-  * Definition von (IT-)Unternehmenszielen
-  * Strategische (IT-)Planung
-  * (IT-)Portfolio-Management
-- Weiterführende Kenntnisse in Betriebswirtschaftslehre:
-  * Controlling
-  * Kosten-Nutzen-Rechnung
-  * Investitionsrechnung
+ ** Definition von (IT-)Unternehmenszielen
+ ** Strategische (IT-)Planung
+ ** (IT-)Portfolio-Management
+ ** Applicaiton Lifecycle Management
+ ** IT-Infrastructure-Library (ITIL)
 // end::DE[]
 
 // tag::EN[]
@@ -25,18 +21,14 @@ Teilnehmerinnen und Teilnehmer **sollten** folgende Kenntnisse und/oder Erfahrun
 Participants **should** have the following prerequisite knowledge:
 
 - Fundamentals of architecture development: Importance and delimitation ofarchitecture, procedures, influences and requirements, architecture decisions, models and documentation with views, as taught at the CPSA-F Foundation Level.
-- Fundamentals of business management: Development of strategies and business models, business process management, organisation
-- Desirable for an understanding of some concepts: Practical experience in the architecture field and an insight into at least one modern technology or platform for development of distributed applications.
 
 Knowledge in the following areas may be **helpful** for understanding some concepts:
-
+- Practical experience in the architecture field and an insight into at least one modern technology or platform for development of distributed applications.
 - Knowledge of typical challenges in the field of enterprise architectures:
 ** Definition of (IT) enterprise objectives
 ** Strategic (IT) planning
 ** (IT) portfolio management.
-- Additional business management knowledge:
-** Controlling
-** Cost-benefit analysis
-** Investment analysis.
+** Applicaiton Lifecycle Management
+** IT-Infrastructure-Library (ITIL)
 // end::EN[]
 
