@@ -4,7 +4,7 @@
 |===
 
 === Begriffe und Konzepte
-Enterprise Architecture Management (EAM), Solution-Architektur, Softwarearchitektur, Unternehmensstrategie, IT-Strategie, Architektur-Governance, Architekturdomänen (Geschäftsarchitektur, Informationssystem-Architektur, Datenarchitektur, Infrastrukturarchitektur), Architektur-Roadmap, Migrationsplanung, Capabilities, Architektur-Frameworks (z.B. TOGAF, etc.), Repository
+Enterprise Architecture Management (EAM), Solution-Architektur, Softwarearchitektur, Unternehmensstrategie, IT-Strategie, Architektur-Governance, Architekturdomänen (Geschäftsarchitektur, Applikationsarchitektur, Datenarchitektur, Infrastrukturarchitektur), Architektur-Roadmap, Migrationsplanung, Capabilities, Architektur-Frameworks (z.B. TOGAF, etc.), Repository
 
 // end::DE[]
 
@@ -14,7 +14,7 @@ Enterprise Architecture Management (EAM), Solution-Architektur, Softwarearchitek
 |===
 
 === Terms and Principles
-Enterprise Architecture Management (EAM), Solution Architecture, Software Architecture, Corporate Strategy, IT Strategy, Architecture Governance, Architecture Domains (Business Architecture, Information System Architecture, Data Architecture, Infrastructure Architecture), Architecture Roadmap, Migration Planning, Capabilities, Architecture Frameworks (e.g. TOGAF, etc.), Repository
+Enterprise Architecture Management (EAM), Solution Architecture, Software Architecture, Corporate Strategy, IT Strategy, Architecture Governance, Architecture Domains (Business Architecture, Application Architecture, Data Architecture, Infrastructure Architecture), Architecture Roadmap, Migration Planning, Capabilities, Architecture Frameworks (e.g. TOGAF, etc.), Repository
 // end::EN[]
 
 
