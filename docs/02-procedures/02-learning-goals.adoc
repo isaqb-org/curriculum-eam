@@ -3,38 +3,6 @@
 // tag::DE[]
 
 [[LZ-2-1]]
-<<<<<<< Updated upstream
-==== LZ 2-1: Was sollen die Teilnehmer können?
-* Vorgehensweise zur Formulierung einer Architekturvision darstellen und erklären.
-* Vorgehensweise zur Architekturplanung darstellen und erklären.
-* Unterschied zwischen verschiedenen Entwicklungsmodellen benennen und erklären.
-* Analyse der Ist-Architektur darstellen und erklären.
-* Entwicklung der Zielarchitektur darstellen und erklären.
-* Ableitung der Soll-Architektur aus Ist- und Zielarchitektur darstellen und erklären.
-* Ableitung der Unternehmensarchitektur aus der Unternehmensstrategie darstellen und erklären.
-* Berücksichtigung von Unternehmensprinzipien in der Unternehmensarchitektur darstellen und erklären.
-* Bedeutung der Unternehmensarchitektur als Ordnungsrahmen für die IT-Strategien darstellen und erklären.
-* Bedeutung der Unternehmensarchitektur als Grundlage für die Capability-basierte Planung
-* Anforderungen und Rahmenbedingungen an die Unternehmensarchitektur erheben und dokumentieren (Business-Szenarien).
-* Governance und Bewertung von Umsetzungsprojekten darstellen und erklären.
-* Funktion und Nutzen des Change Management darstellen und erklären.
-
-[[LZ-2-2]]
-==== LZ 2-2: Was sollen die Teilnehmer verstehen?
-* Architekturprinzipien als Bestandteil der Unternehmensarchitektur
-* Kategorisierung von Architekturprinzipien
-* Detaillierung der Architekturprinzipien anhand eines Templates
-* Verschiedene Teilarchitekturen
-** Geschäftsarchitektur (inkl. wesentlicher Elemente)
-** Informationssystem-Architektur (inkl. wesentlicher Elemente)
-** Daten-Architektur (inkl. wesentlicher Elemente)
-** Technische Architektur (inkl. wesentlicher Elemente)
-* Abgrenzung der verschiedenen Teilarchitekturen
-* Verschiedene Dokumentationsformen für Teilarchitekturen
-* EAM als Brücke zwischen der strategischen Unternehmensplanung und den Anwendungsprojekten
-* Unternehmensarchitektur-Mittel zur Standardisierung zwischen Anwendungsprojekten
-* Vorgehensweisen zur Erstellung und Fortschreibung einer Unternehmensarchitektur (Capability-Analyse, Geschäftsprozessmodellierung, etc.).
-=======
 === LZ 2-1: allgemeine Vorgehensweise zur (Weiter-)Entwicklung einer Unternehmensarchitektur
 * Die Beteiligung des Softwarearchitekten bei der Ableitung der IT-Unternehmensarchitektur aus der Unternehmensstrategie kennen.
 * Verschiedene Instrumente und Verfahren zur Bewertung von vorhandenen Architekturen kennen, z. B. Reifegradanalyse, GAP-Analyse, Impact-Analyse, Risiko-Analyse, Szenario-basierte Bewertung.
@@ -53,7 +21,6 @@
 * Definition, Nutzen und Anwendungsbereiche von Business-Capabilities erklären.
 * Zusammenhang zwischen Business-Capabilities und Architekturdomänen kennen.
 * Bezug von Business-Capabilities zu Domain-Driven-Design kennen.
->>>>>>> Stashed changes
 
 [[LZ-2-3]]
 === LZ-2-3: Methoden zur Aufnahme und Analyse der Ist-Architektur
@@ -102,46 +69,7 @@
 // end::DE[]
 
 // tag::EN[]
-[[LG-2-1]]
-==== LG 2-1: What should the participants be able to do?
-* Describe and explain the procedure for formulation of an architecture vision.
-* Describe and explain the procedure for architecture planning.
-* State and explain the differences between different development models.
-* Describe and explain the analysis of the current architecture.
-* Describe and explain the development of the target architecture.
-* Describe and explain the derivation of the planned architecture from the current and target architectures.
-* Describe and explain the derivation of the enterprise architecture from the corporate strategy.
-* Describe and explain the observance of corporate principles in the enterprise architecture.
-* Describe and explain the importance of the enterprise architecture as a regulatory framework for the IT strategies.
-* Describe the importance of the enterprise architecture as the basis for the capability-based planning
-* Specify and document the requirements on and conditions & constraints for the enterprise architecture (business scenarios).
-* Describe and explain governance and reviewing of implementation projects.
-* Describe and explain the function and benefits of change management.
 
-[[LG-2-2]]
-==== LG 2-2: What should the participants understand?
-* Architecture principles as component elements of the enterprise architecture
-* Categorisation of architecture principles
-* Detailing of architecture principles with the aid of a template
-* Different sub-architectures
-** Business architecture (incl. its key elements)
-** Information system architecture (incl. its key elements)
-** Data architecture (incl. its key elements)
-** Technical architecture (incl. its key elements).
-* Delimitation of the various sub-architectures
-* Different forms of documentation for sub-architectures
-* EAM as a link between the strategic corporate planning and the application projects
-* Enterprise architecture resources for standardisation between application projects
-* Procedures for development and updating of an enterprise architecture (capabilityanalysis, business process modelling, etc.).
-
-[[LG-2-3]]
-==== LG 2-3: What should the participants know?
-* Different methods and procedure models for the development and updating of an enterprise architecture
-* The Business Motivation Model (BMM) and the corresponding docking points
-* The Microsoft Services Business Architecture (MSBA)
-* The TOGAF architecture framework
-* Different instruments and methods for evaluation of existing architectures (e.g. SWOT analysis, maturity analysis, benefit analysis, GAP analysis, impact analysis, risk analysis, scenario-based evaluation)
-* Different tools for development and management of an enterprise architecture.
 // end::EN[]
 
 
