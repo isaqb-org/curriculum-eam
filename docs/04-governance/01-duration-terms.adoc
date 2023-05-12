@@ -13,7 +13,7 @@ Governance, Ebenen von Governance (Corporate, IT, Architecture), Architekturgrem
 |===
 
 === Terms and Principles
-Governance, levels of governance (corporate, IT, architecture, SOA), change management, Architecture Board, architecture guidelines/directives, best practices, key indicators, criteria, conformance, compliance, TOGAF, maturity model, COBIT, governance reviews, architecture planning and adaptation, architecture implementation.
+Governance, levels of governance (corporate, IT, architecture), architecture boards, architecture guidelines, metrics, compliance, COBIT.
 // end::EN[]
 
 
