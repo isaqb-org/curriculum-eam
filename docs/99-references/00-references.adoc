@@ -13,6 +13,10 @@ Dieser Abschnitt enthält Quellenangaben, die ganz oder teilweise im Curriculum 
 This section contains references that are cited in the curriculum.
 // end::EN[]
 
+**A**
+
+- [[[ambok,AMBoK2013]]] Architecture Management Body Of Knowledge. IT Architecture Management Institute Inc. 2013.
+
 **C**
 
 - [[[cobit,COBIT]]] Information Systems Audit and Control Association(ISACA),Online: http://www.isaca.org/COBIT/Pages/default.aspx
@@ -24,11 +28,17 @@ This section contains references that are cited in the curriculum.
 **G**
 
 - [[[gharbi,Gharbi2012]]] Gharbi, M., Koschel, A., Rausch, A., Starke, G.: Basiswissen für Software-Architekten: Aus- und Weiterbildung zum Certified Professional for Software Architecture Foundation Level nach iSAQB-Standard, dpunkt Verlag, 2012.
+- [[[greefhorst,Greefhorst2011]]] Greefhorst, D.: Architecture Principles – The Cornerstones of Enterprise Architecture. Springer Verlag, 2011. 
+- [[[grigoriu,Grigoriu2011]]] Grigoriu, A.: An Enterprise Architecture Development Framework – The Enterprise Reference Maps, Single Page Business Architecture, Metamodel SOA Design, Business Case and Strategic Planning for your Enterprise. 2011. 
 
 **H**
 
 - [[[hanschkea,Hanschke2010]]] Hanschke, I.: Strategisches Management der IT-Landschaft. Hanser Verlag, 2010.
 - [[[hanschkeb,Hanschke2012]]] Hanschke, I.: Enterprise Architecture Management – Einfach und Effektiv. Hanser Verlag, 2012.
+- [[[hanschkec,Hanschke2022]]] Hanschke, I.: Enterprise Architecture Management – Einfach und Effektiv. 3., überarbeitete und erweiterte Auflage. Hanser Verlag, 2022.
+- [[[hanschked,Hanschke2013]]] Hanschke, I.: Strategisches Management der IT-Landschaft. 3., aktualisierte und erweiterte Auflage. Hanser Verlag, 2013.
+- [[[hohmann,Hohmann2003]]] Hohmann, L.: Beyond Software Architecture – Creating and sustaining Winning Solutions. Addison-Wesley Professional, 2003.
+- [[[hohpe,Hohpe2020]]] Hohpe, G.: The Software Architect Elevator. O'Reilly Media, Inc., 2020.
 
 **I**
 

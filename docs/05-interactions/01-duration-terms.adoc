@@ -1,0 +1,23 @@
+// tag::DE[]
+|===
+| Dauer: 90 Min. | Übungszeit: 30 Min.
+|===
+
+=== Begriffe und Konzepte
+Unternehmensstrategie, Architekturprinzip, Architekturentscheidung, applikationsübergreifende Architekturthemen (Querschnittskonzepte)
+
+// end::DE[]
+
+// tag::EN[]
+|===
+| Duration: 90 min | Practice time: 30 min
+|===
+
+=== Terms and Principles
+
+
+// end::EN[]
+
+
+
+
