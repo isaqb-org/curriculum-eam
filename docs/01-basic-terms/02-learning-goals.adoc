@@ -64,7 +64,7 @@
 * Know architecture principles and their benefits and consequences.
 * Know the definition of capabilities (a.k.a. business domains).
 * Know what an enterprise architecture roadmap is.
-** Know current, target, and transition IT enterprise architectures.
+** Know baseline, target, and transition IT enterprise architectures.
 ** Differentiate between an enterprise and software system implementation roadmap.
 
 [[LZ-1-3]]
