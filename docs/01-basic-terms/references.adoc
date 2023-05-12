@@ -1,6 +1,6 @@
 === {references}
 
-<<cobit>>, <<gharbi>>, <<hanschkea>>, <<hanschkeb>>, <<itil>>, <<keller>>, <<reussner>>, <<tiemeyer>>, <<togaf>>, <<vogel>>
+<<ambok>>, <<cobit>>, <<gharbi>>, <<hanschkea>>, <<hanschkeb>>, <<itil>>, <<keller>>, <<reussner>>, <<tiemeyer>>, <<togaf>>, <<vogel>>
 
 
 

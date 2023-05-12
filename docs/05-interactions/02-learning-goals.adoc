@@ -1,0 +1,50 @@
+=== {learning-goals}
+
+
+// tag::DE[]
+[[LZ-5-1]]
+==== LZ 5-1: Einflüsse von der Unternehmensarchitektur auf die Softwarearchitektur
+* Einflüsse von der Unternehmensstrategie und den -anforderungen auf die IT-Landschaft und entsprechenden Softwarearchitekturen erkennen und berücksichtigen, z. B.:
+** Neue Strategien, Geschäftsmodelle usw.
+** Gesetzliche Änderungen, z.B. DSGVO
+** Wirtschaftliche Lage des Unternehmens
+* Einflüsse von Trends auf die IT-Landschaft und entsprechenden Softwarearchitekturen erkennen und berücksichtigen, z.B.:
+** Markt-Trends (Konkurrenz, Preise, Kundenpräferenzen usw.)
+** Methoden-Trends (z.B. Agilität und die Auswirkung auf Entscheidungsvorgehen und -befugnisse)
+** Architektur- und Technologietrends (z.B. Blockchain, Microservices usw.)
+** Internationalisierung (nicht zuletzt die subtilen Themen, wie bspw. kulturelle Unterschiede)
+** Demographischer Wandel
+* Einflüsse von den Unternehmensarchitekturvorgaben auf die IT-Landschaft und entsprechenden Softwarearchitekturen erkennen und berücksichtigen, z. B.:
+** Flexibilität, Anpassbarkeit auf der IT-Landschaftsebene
+** EA-Prinzipien, z.B. Bezos API Mandate
+** Veränderungen der Domänen bzw. Capabilities
+
+
+[[LZ-5-2]]
+==== LZ 5-2: Einflüsse von der Softwarearchitektur auf die Unternehmensarchitektur
+* Einflüsse von Softwarearchitektur-Entscheidungen auf die Unternehmensarchitektur kennen, vor allem bzgl. der verschiedenen Aspekte in den Architekturdomänen, inkl. Geschäftsdomänen, Organisationsstrukturen, Prozesse, Daten, Infrastruktur usw.
+** z.B. Die Auswirkung des Microservices-Ansatzes auf Entscheidungsvorgehen, Prozesse, Standardisierung, Organisationsstruktur, Integration, Komposition, Bounded-Contexts, Datenschutz und -verantwortung, Sicherheit usw.
+* Einflüsse von Softwarearchitektur-Prinzipien auf die IT-Landschaft erkennen
+* Einflüsse von Softwarearchitektur-Entscheidungen auf die Unternehmens- und IT-Strategie kennen
+* Einflüsse von Applikationsänderungen (in Abgrenzung zur Neuentwicklung) an die Unternehmensarchitektur kennen
+
+[[LZ-5-3]]
+==== LZ 5-3: Applikationsübergreifende Architekturthemen (Querschnittskonzepte)
+* Architektur-Themen kennen, die mehrere Applikationen betreffen, z.B. Schnittstellen, Integration, Internationalisierung, Sicherheit, Administration, Monitoring, Transaktionsmanagement, Benutzerinteraktion, Ablaufsteuerung, Zuverlässigkeit usw.
+* Aufteilung der Verantwortungen für die systemübergreifende Themen entscheiden können
+* Wechselwirkung der applikationsübergreifenden Themen zwischen der Unternehmensarchitektur und der Softwarearchitektur verstehen
+// end::DE[]
+
+// tag::EN[]
+[[LG-5-1]]
+==== LG 5-1: 
+
+[[LG-5-2]]
+==== LG 5-2: 
+
+[[LG-5-3]]
+==== LG 5-3: 
+
+// end::EN[]
+
+
