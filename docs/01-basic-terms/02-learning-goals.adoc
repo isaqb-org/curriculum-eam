@@ -17,7 +17,7 @@
 * Architekturdomänen verstehen, inkl. wesentlicher Elemente der Domänen, z. B.:
 ** Geschäftsarchitektur
 ** Applikationsarchitektur
-** Informationssystem-Architektur (a.b.a. Applikationsarchitektur)
+** Applikationsarchitektur (a.b.a. Informationssystem-Architektur)
 ** Daten-Architektur (a.b.a. Information-Architektur)
 ** Technologie-Architektur (a.b.a. Infrastruktur-Architektur)
 * Abgrenzung und Zusammenhänge zwischen den Architekturdomänen verstehen.
@@ -56,7 +56,7 @@
 * Understand architecture domains, including essential elements of the domains, e.g:
 ** Business architecture
 ** Application architecture
-** Information system architecture (a.k.a. application architecture)
+** Application architecture (a.k.a. Information system architecture)
 ** Data architecture (a.k.a. information architecture)
 ** Technology architecture (a.k.a. infrastructure architecture)
 * Understand the distinction and interrelationships between architectural domains.
