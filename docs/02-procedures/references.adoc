@@ -1,13 +1,10 @@
 === {references}
 
-<<ambok>>, <<bente>>, <<burlton>>, <<gharbi>>, <<greefhorst>>, <<grigoriu>>, <<hanschkeb>>, <<lankhorst>>, <<morris>>, <<optland>>, <<reussner>>, <<ross>>, <<tiemeyer>>, <<tiwary>>, <<togaf>>, <<ulrich>>, <<weill>>, <<ziemann>>
+<<ambok>>, <<bentea>>, <<benteb>>, <<burlton>>, <<gharbi>>, <<greefhorst>>, <<grigoriu>>, <<hanschkeb>>, <<lankhorst>>, <<morris>>, <<optland>>, <<reussner>>, <<ross>>, <<tiemeyer>>, <<tiwary>>, <<togaf>>, <<ulrich>>, <<weill>>, <<ziemann>>
 
-<<<<<<< Updated upstream
-
-=======
 // tag::REMARK[]
 [NOTE]
-====
+
 // tag::DE[]
 Eine Quelle wird über `<<label>>` referenziert. Dieses muss in `99-references/00-references.adoc` definiert sein.
 // end::DE[]
@@ -15,6 +12,5 @@ Eine Quelle wird über `<<label>>` referenziert. Dieses muss in `99-references/0
 // tag::EN[]
 A reference source is referenced via `<<label>>`. The label has to be defined in `99-references/00-references.adoc`.
 // end::EN[]
-====
+
 // end::REMARK[]
->>>>>>> Stashed changes
