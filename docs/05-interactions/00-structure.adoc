@@ -7,7 +7,7 @@
 // end::DE[]
 
 // tag::EN[]
-== Implementation of Enterprise Architecture Management
+== Interaction between software architecture and enterprise architecture management
 // end::EN[]
 
 include::01-duration-terms.adoc[{include_configuration}]
