@@ -9,11 +9,13 @@
 * Typische EAM-Visualisierungen, wie z. B. Bebauungsplan-Grafik, Portfolio-Grafik, Informationsfluss-Grafik, Cluster-Grafik oder Masterplan-Grafik kennen.
 * Verstehen, dass unterschiedliche Architekturentscheidungen getroffen werden könnten, wenn sie aus Sicht des Unternehmensarchitekten oder aus Sicht des Softwarearchitekten betrachtet werden.
 * Verschiedene Vorgehensweisen zur (Weiter-)Entwicklung von Unternehmensarchitekturen kennen, z. B.:
+** Top-Down, Bottom-Up
 ** Prozessorientiertes Vorgehen, z. B. TOGAF ADM
 ** Capability-Based Planning
 ** Application-Portfolio-Management
 ** Musterorientiertes Vorgehen, z.B. SEBIS Technische Universität München
 ** Risikogesteuerte Weiterentwicklung
+* Die Auswirkung der Unternehmenskultur auf die Vorgehensweise kennen.
 * Einordnung der Softwarearchitektur in den verschiedenen Vorgehensweisen kennen.
 
 [[LZ-2-2]]
