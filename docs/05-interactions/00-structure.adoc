@@ -3,7 +3,7 @@
 // ====================================================
 
 // tag::DE[]
-== Einführung von Enterprise Architecture Management
+== Wechselwirkung zwischen Softwarearchitektur und Unternehmensarchitektur
 // end::DE[]
 
 // tag::EN[]
