@@ -19,10 +19,10 @@
 * Einordnung der Softwarearchitektur in den verschiedenen Vorgehensweisen kennen.
 
 [[LZ-2-2]]
-=== LZ 2-2: Business-Capabilities als Brücke zu Domain-Driven-Design
+=== LZ 2-2: Business-Capabilities als Brücke zwischen Geschäfts- und Softwarearchitektur
 * Definition, Nutzen und Anwendungsbereiche von Business-Capabilities erklären.
 * Zusammenhang zwischen Business-Capabilities und Architekturdomänen kennen.
-* Bezug von Business-Capabilities zu Domain-Driven-Design kennen.
+* Bezug von Business-Capabilities zu Softwarearchitekturmethoden, z.B. Domain-Driven-Design kennen.
 
 [[LZ-2-3]]
 === LZ-2-3: Methoden zur Aufnahme und Analyse der Ist-Architektur
@@ -57,6 +57,8 @@
 ** Branchenspezifische Referenzmodelle, z. B. TM-Forum, BIAN, Frameworx, etc.
 ** Systemübergreifende Architekturmuster, z. B. Microservices, Event- bzw. Message-Driven, Composable Architecture usw.
 ** Integrationsmuster
+* Referenzmodelle als Mittel zum Wissensmanagement / -transfer kennen.
+* Die Herausforderungen (z.B. Abstraktionsgrad, Rahmenbedingungen) bei der Weiterentwicklung der Referenzmodelle kennen.
 * Abgrenzung und Zusammenhänge zwischen Referenzmodellen auf der Unternehmens- und der Softwarearchitektur-Ebene kennen.
 
 [[LZ-2-8]]
