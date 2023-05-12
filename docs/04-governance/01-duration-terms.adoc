@@ -4,8 +4,7 @@
 |===
 
 === Begriffe und Konzepte
-Governance, Ebenen von Governance (Corporate, IT, Architecture, SOA), Change Management, Architektur-Board, Architekturrichtlinien, Best-Practice, Kennzahlen, Kriterien, Conformance, Compliance, TOGAF, Reifegradmodell, COBIT, Governance-Reviews, Architekturplanung und –anpassung, Architekturumsetzung.
-
+Governance, Ebenen von Governance (Corporate, IT, Architecture), Architekturgremien, Architekturrichtlinien, Kennzahlen, Compliance, COBIT
 // end::DE[]
 
 // tag::EN[]

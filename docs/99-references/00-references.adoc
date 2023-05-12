@@ -15,7 +15,7 @@ This section contains references that are cited in the curriculum.
 
 **A**
 
-- [[[ambok,AMBoK2013]]] Architecture Management Body Of Knowledge. IT Architecture Management Institute Inc. 2013.
+- [[[ambok,AMBoK2013]]] Architecture Management Body Of Knowledge. IT Architecture Management Institute Inc. 21013. ISBN: 978-0-9868626-1-8
 
 **C**
 
