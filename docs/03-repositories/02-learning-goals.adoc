@@ -1,79 +1,45 @@
 === {learning-goals}
 
 // tag::DE[]
+
 [[LZ-3-1]]
-==== LZ 3-1: Was sollen die Teilnehmer können?
-* Funktion und Nutzen von EAM-Repositories darstellen und erklären.
-* Informationsarten eines EAM-Repositories benennen und erklären.
-** Architektur-Metamodell
-** Dokumentation von Ist-, Soll- und Zielarchitekturen
-** Standards (Industriestandards, etc.)
-** Referenzbibliothek (Referenzarchitektur(en), Vorschriften, Vorlagen, Muster, etc.) am Beispiel der TOGAF-Referenzmodelle
-* Abgrenzung der verschiedenen Informationsarten darstellen erklären.
-* Notwendigkeit der Historisierung der Informationen darstellen und erklären.
-* Nutzung und Verwaltung eines EAM-Repositories darstellen und erklären.
-* Definition und Einsatz von Referenzarchitekturen benennen und erklären.
-* Erstellung und Fortschreibung von Referenzarchitekturen darstellen und erklären.
+==== LZ 3-1: EAM-Repository
+* Funktion und Nutzen von EAM-Repositories verstehen, z.B. Historisierung, Deltaermittlung und Versionierung.
+* Herausforderungen bei der Pflege und die Aktualisierung der Daten in der Repository kennen.
+* Verschiedene Werkzeuge für die Erarbeitung und Verwaltung einer Unternehmensarchitektur kennen.
+* Herausforderungen bei der Beschreibung der unterschiedlichen Architekturdomänen (z.B. Geschäfts-, Informations-, Applikations- und Technologe-Domäne) sowie Architekturebenen (z. B. Übergänge zwischen Unternehmensarchitektur, Solution-Architektur und Softwarearchitektur) verstehen.
 
 [[LZ-3-2]]
-==== LZ 3-2: Was sollen die Teilnehmer verstehen?
-* Herausforderungen bei dezentraler Nutzung und zentraler Verwaltung eines EAM-Repositories
-* Berührungspunkte zwischen den Entwicklungsprozessen und den Governance-Prozessen
-* Funktion und Nutzen von Metamodellen
-* Funktion des EAM-Repositories bei der Wiederverwendung von Architekturen
-* Anpassung von Metamodellen an ein Unternehmen
-* Technische Umsetzung eines EAM-Repositories mit Werkzeugen kennen und planen können
-* Technische Umsetzung eines EAM-Repositories mit Werkzeugen
+==== LZ 3-2: Metamodelle
+* Funktion und Nutzen von Metamodellen kennen.
+* Verknüpfung zwischen Softwarearchitekturen und EA-Metamodellen (z. B. TOGAF) kennen.
+* Informationsarten in einem EAM-Repository benennen können, z.B.:
+** Architektur-Metamodell, z.B. vom TOGAF Architecture Content Framework
+** Dokumentation von Ist-, Soll- und Zielarchitekturen
+** Standards (Industriestandards, etc.)
+** Referenzbibliothek (Referenzarchitekturen, Vorlagen, Muster, etc.), z.B. TOGAF-Referenzmodelle
 
-[[LZ-3-3]]
-==== LZ 3-3: Was sollen die Teilnehmer kennen?
-* Beispiele für Metamodelle aus Architekturframeworks (z.B. TOGAF)
-* Beispiele für Referenzarchitekturmodelle:
-** Referenzmodell der Java-EE-Referenzarchitektur
-** Referenzmodell der SOA-Referenzarchitektur
-** .NET-Referenzmodell nach Application Architecture Guide
-** TOGAF-Referenzmodelle
-** Branchenspezifische Referenzmodelle (TM Forum Frameworx, etc.)
-* Praxisbeispiele für Referenzarchitekturen
-* Beispiele für Architekturrichtlinien
 // end::DE[]
 
 // tag::EN[]
-[[LG-3-1]]
-==== LG 3-1: What should the participants be able to do?
-* Describe and explain the function and benefits of EAM repositories.
-* List and explain the types of information stored in an EAM repository:
-** Architecture metamodel
-** Documentation of current, future and target architectures
-** Standards (industry standards etc.)
-** Reference library (reference architecture(s), rules, templates, models, etc.) using the TOGAF reference models as an example.
-* Describe and explain the differences between the different types of information.
-* Describe and explain the need for historization of the information.
-* Describe and explain how an EAM repository is used and managed.
-* Describe and explain how reference architectures are defined and used.
-* Describe and explain how reference architectures are created and updated.
 
-[[LG-3-2]]
-==== LG 3-2: What should the participants understand?
-* The challenges associated with decentral use and central management of an EAMrepository
-* Contact points of the development processes and governance processes
-* The function and benefits of metamodels
-* The function of the EAM repository during reuse of architectures
-* Customisation of metamodels for a company
-* Technical implementation of an EAM repository with the aid of tools, and how to plan it
-* Technical implementation of an EAM repository with the aid of tools.
+[[LZ-3-1]]
+==== LZ 3-1: EAM Repository
+* Understand the function and benefits of EAM repositories, e.g., maintaining a history of changes, determining the delta (differences), and versioning.
+* Know the challenges in maintaining and updating data in the repository.
+* Know the different tools for elaborating and managing an enterprise architecture.
+* Understand the challenges in describing different architectural domains (e.g., business, information, application, and technology domains) and architectural layers (e.g., transitions between enterprise architecture, solution architecture, and software architecture).
 
-[[LG-3-3]]
-==== LG 3-3: What should the participants know?
-* Examples of metamodels from architecture frameworks (e.g., TOGAF)
-* Examples of reference architecture models:
-** The reference model of the Java EE reference architecture
-** The reference model of the SOA reference architecture
-** The .NET reference model as defined in the Application Architecture Guide
-** TOGAF reference models
-** Sector-specific reference models (TM Forum Frameworx, etc.)
-* Practical examples of reference architectures
-* Examples of architecture guidelines/directives.
+[[LZ-3-2]]
+==== LZ 3-2: Metamodels
+* Know the function and utility of metamodels.
+* Know the relation between software architectures and EA metamodels (e.g., TOGAF).
+* Be able to name the types of information in an EAM repository, e.g.:
+** Architecture metamodel, e.g. from the TOGAF Architecture Content Framework
+** Documentation of baseline, transition, and target architectures
+** Standards (industry standards, etc.)
+** Reference library (reference architectures, templates, patterns, etc.), e.g., TOGAF reference models
+
 // end::EN[]
 
 
