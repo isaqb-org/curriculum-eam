@@ -4,8 +4,7 @@
 |===
 
 === Begriffe und Konzepte
-Mission, Vision, Architekturvision, Unternehmensprinzipien, Architekturprinzipien, Geschäftsmodell, Geschäftsarchitektur, Ordnungsrahmen für IT-Strategie,Anwendungsportfolio-Management, Informationssystem-Architektur, Daten-Architektur, Technische Architektur, Geschäftsprozessmodellierung, Business Motivation Model (BMM), TOGAF Architecture Development Method (ADM), SWOT-Analyse, Maturitätsanalyse, Nutzwertanalyse, GAP-Analyse, Impact-Analyse, Risiko-Analyse, Capability Analyse, Capability-basierte Planung, Szenario-basierte Bewertung.
-
+Architekturprinzipien, Ist-, Soll- und Ziel-Architekturen, Anwendungsportfolio-Management, TOGAF Architecture Development Method (ADM), Reifegradanalyse, GAP-Analyse, Impact-Analyse, Architekturroadmap, Risiko-Analyse, Business-Capability, Capability-Analyse, Geschäftsszenario, EAM-Visualisierungsarten, Agile-Frameworks, Domain-Driven Design, Referenzmodell.
 // end::DE[]
 
 // tag::EN[]
