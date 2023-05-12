@@ -13,7 +13,7 @@ Architekturprinzipien, Ist-, Soll- und Ziel-Architekturen, Anwendungsportfolio-M
 |===
 
 === Terms and Principles
-Mission, vision, architecture vision, corporate principles, architecture principles, business model, business architecture, regulatory framework for the IT strategy, application portfolio management, information system architecture, data architecture, technical architecture, business process modelling, Business Motivation Model (BMM), TOGAF Architecture Development Method (ADM), SWOT analysis, maturity analysis, benefit analysis, GAPanalysis, impact analysis, risk analysis, capability analysis, capability-based planning, scenario-based evaluation.
+Architecture principles, current, target, and transition architectures, application portfolio management, TOGAF Architecture Development Method (ADM), maturity analysis, gap analysis, impact analysis, architecture roadmap, risk analysis, business capability, capability analysis, business scenario, EAM visualisation types, agile frameworks, domain-driven design, reference model.
 
 // end::EN[]
 
