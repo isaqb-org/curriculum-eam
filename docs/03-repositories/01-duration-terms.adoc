@@ -4,7 +4,7 @@
 |===
 
 === Begriffe und Konzepte
-Repository, Metamodell, Ist-Architektur, Soll-Architektur und Zielarchitektur, Industriestandards, Referenzbibliothek, Referenzarchitektur, Vorschrift, Vorlage, Muster.
+Repository, Metamodell, Ist-Architektur, Soll-Architektur, Zielarchitektur, Industriestandards, Referenzbibliothek, Referenzarchitektur.
 
 // end::DE[]
 
@@ -14,7 +14,7 @@ Repository, Metamodell, Ist-Architektur, Soll-Architektur und Zielarchitektur, I
 |===
 
 === Terms and Principles
-Repository, metamodel, current architecture, planned architecture and target architecture, industry standards, reference library, reference architecture, rule, template, model.
+Repository, metamodel, baseline architecture, transition architecture, target architecture, industry standards, reference library, reference architecture.
 
 // end::EN[]
 
