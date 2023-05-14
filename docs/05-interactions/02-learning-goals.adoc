@@ -1,21 +1,22 @@
 === {learning-goals}
 
-
 // tag::DE[]
+
 [[LZ-5-1]]
 ==== LZ 5-1: Einflüsse von der Unternehmensarchitektur auf die Softwarearchitektur
 * Einflüsse von der Unternehmensstrategie und den -anforderungen auf die IT-Landschaft und entsprechenden Softwarearchitekturen erkennen und berücksichtigen, z. B.:
 ** Neue Strategien, Geschäftsmodelle usw.
-** Gesetzliche Änderungen, z.B. DSGVO
+** Gesetzliche Änderungen, z.B. Datenschutz
 ** Wirtschaftliche Lage des Unternehmens
+** Organisationsumstrukturierungen
 * Einflüsse von Trends auf die IT-Landschaft und entsprechenden Softwarearchitekturen erkennen und berücksichtigen, z.B.:
 ** Markt-Trends (Konkurrenz, Preise, Kundenpräferenzen usw.)
-** Methoden-Trends (z.B. Agilität und die Auswirkung auf Entscheidungsvorgehen und -befugnisse)
-** Architektur- und Technologietrends (z.B. Blockchain, Microservices usw.)
+** Methoden-Trends (z.B. die Auswirkung von Agilität auf Entscheidungsvorgehen und -befugnisse)
+** Architektur- und Technologietrends (z.B. Blockchain, Microservices, Cloud usw.)
 ** Internationalisierung (nicht zuletzt die subtilen Themen, wie bspw. kulturelle Unterschiede)
 ** Demographischer Wandel
 * Einflüsse von den Unternehmensarchitekturvorgaben auf die IT-Landschaft und entsprechenden Softwarearchitekturen erkennen und berücksichtigen, z. B.:
-** Flexibilität, Anpassbarkeit auf der IT-Landschaftsebene
+** Flexibilität und Anpassbarkeit auf der IT-Landschaftsebene
 ** EA-Prinzipien, z.B. Bezos API Mandate
 ** Veränderungen der Domänen bzw. Capabilities
 
@@ -30,20 +31,44 @@
 
 [[LZ-5-3]]
 ==== LZ 5-3: Applikationsübergreifende Architekturthemen (Querschnittskonzepte)
-* Architektur-Themen kennen, die mehrere Applikationen betreffen, z.B. Schnittstellen, Integration, Internationalisierung, Sicherheit, Administration, Monitoring, Transaktionsmanagement, Benutzerinteraktion, Ablaufsteuerung, Zuverlässigkeit usw.
-* Aufteilung der Verantwortungen für die systemübergreifende Themen entscheiden können
+* Unternehmensarchitektur-Themen kennen, die mehrere Applikationen betreffen, z.B. Schnittstellen, Integration, Internationalisierung, Sicherheit, Administration, Monitoring, Transaktionsmanagement, Benutzerinteraktion, Ablaufsteuerung, Zuverlässigkeit usw.
+* Aufteilung der Verantwortungen für die applicationsübergreifende Themen entscheiden können
 * Wechselwirkung der applikationsübergreifenden Themen zwischen der Unternehmensarchitektur und der Softwarearchitektur verstehen
+
 // end::DE[]
 
 // tag::EN[]
 [[LG-5-1]]
-==== LG 5-1: 
+==== LZ 5-1: Influences from the enterprise architecture on the software architecture.
+* Identify and account for influences from enterprise strategy and requirements on the IT landscape and the corresponding software architectures, e.g.:
+** New strategies, business models, etc.
+** Legal changes, e.g. data protection
+** Economic situation of the company
+** Organizational resructuring
+* Recognize and account for influences of trends on the IT landscape and corresponding software architectures, e.g.:
+** Market trends (competition, prices, customer preferences, etc.)
+** Methodology trends (e.g., the impact of agile approaches on the decision-making processes and authority)
+** Architecture and technology trends (e.g., blockchain, microservices, cloud, etc.)
+** Internationalization (including the subtle issues, such as cultural differences)
+** Demographic change
+* Recognize and account for influences from the enterprise architecture specifications on the IT landscape and corresponding software architectures, e.g.:
+** Flexibility and adaptability at the IT-landscape level.
+** EA principles, e.g. Bezos API mandates
+** Changes in domains or capabilities
 
 [[LG-5-2]]
-==== LG 5-2: 
+==== LZ 5-2: Influences of the Software Architecture on the Enterprise Architecture
+* Know that software architecture decisions influence the enterprise architecture, especially regarding the different aspects in the architecture domains, including business domains, organizational structures, processes, data, infrastructure, etc.
+** e.g. the microservices approach can influence decision making, processes, standardization, organizational structure, integration, composition, bounded contexts, privacy and accountability, security, etc.
+* Identify influences of software architecture principles on the IT landscape.
+* Know that software architecture decisions influence the business and IT strategy.
+* Know that application changes (not just new development) influence enterprise architecture.
 
 [[LG-5-3]]
-==== LG 5-3: 
+==== LZ 5-3: Architectural aspects that impact multiple applications (crosscutting concerns or concepts).
+* Know architectural aspects that affect multiple applications, e.g., interfaces, integration, internationalization, security, administration, monitoring, transaction management, user interaction, flow control, reliability, etc.
+* Be able to decide on the division of responsibilities for aspects that impact multiple applications.
+* Understand the interrelationship between enterprise architecture and software architecture regarding these aspects.
 
 // end::EN[]
 
