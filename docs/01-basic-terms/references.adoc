@@ -1,6 +1,7 @@
 === {references}
 
-<<ambok>>, <<cobit>>, <<gharbi>>, <<hanschkea>>, <<hanschkeb>>, <<itil>>, <<keller>>, <<reussner>>, <<tiemeyer>>, <<togaf>>, <<vogel>>
+<<ambok>>, <<benteb>>, <<burlton>>, <<cobit>>, <<gharbi>>, <<greefhorst>>, <<grigoriu>>, <<hanschkeb>>, <<hanschkec>>, <<itil>>, <<keller>>, <<morris>>, <<optland>>, <<reussner>>, <<ross>>, <<schekkerman>>, <<schwarzer>>, <<tiemeyer>>, <<tiwary>>, <<togaf>>, <<ulrich>>, <<vogel>>, <<ziemann>>
+
 
 
 
