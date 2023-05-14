@@ -9,7 +9,7 @@
 
 Die unten genannten Zeiten sind Empfehlungen. Die Dauer einer Schulung zum Modul {curriculum-short}
 sollte mindestens {recommended-duration-in-days} Tage betragen, kann aber länger sein.
-Anbieter können sich durch Dauer, Didaktik, Art und Aufbau der Übungen sowie der detaillierten Kursgliederung voneinander unterscheiden.
+Trainingsanbieter können sich durch Dauer, Didaktik, Art und Aufbau der Übungen sowie der detaillierten Kursgliederung voneinander unterscheiden.
 Insbesondere die Art der Beispiele und Übungen lässt der Lehrplan komplett offen.
 
 Lizenzierte Schulungen zu {curriculum-short} tragen zur Zulassung zur abschließenden Advanced-Level-Zertifizierungsprüfung folgende Credit Points) bei:
@@ -26,9 +26,9 @@ Lizenzierte Schulungen zu {curriculum-short} tragen zur Zulassung zur abschließ
 // tag::EN[]
 === Duration, Teaching Method and Further Details
 
-The times stated below are recommendations.
+The times stated are recommendations.
 The duration of a training course on the {curriculum-short} module should be at least {recommended-duration-in-days} days, but may be longer.
-Providers may differ in terms of duration, teaching method, type and structure of the exercises and the detailed course structure.
+Training providers may differentiate themselves by changing the duration, teaching method, type and structure of the exercises, course structure, etc.
 In particular, the curriculum provides no specifications on the nature of the examples and exercises.
 
 Licensed training courses for the {curriculum-short} module contribute the following credit points towards admission to the final Advanced Level certification exam:
