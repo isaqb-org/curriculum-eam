@@ -3,7 +3,7 @@
 // tag::DE[]
 [[LZ-4-1]]
 ==== LZ 4-1: Governance Begriffe und Konzepte
-* Überblick, Ziele und Nutzen der Architektur-Governance kennen
+* Definition, Ziele und Nutzen der Architektur-Governance kennen
 * Einordnung der Architektur-Governance in die IT-Unternehmensarchitektur kennen.
 * Abgrenzung zwischen Architektur-Governance und Corporate- und IT-Governance kennen.
 * Bezug auf EAM von Governance-Frameworks (z.B. COBIT, TOGAF Architecture Capability Framework) kennen.
@@ -14,7 +14,7 @@
 ==== LZ 4-2: Governance-Organisation, -Rollen und -Verantwortungen
 * Funktion, Aufgabe und Zusammensetzung von Architekturgremien erklären.
 * Definition von unterschiedlichen Architektenrollen (z. B. Unternehmensarchitekt, Solution-Architekt und Softwarearchitekt) und -verantwortungen sowie deren Abgrenzungen und Zusammenhänge verstehen.
-* Die Architektur- und Geschäftsdomänenübergreifende    Zusammenarbeit als Erfolgsfaktor verstehen, z.B. durch Architektur-Communities.
+* Die Architektur- und Geschäftsdomänenübergreifende Zusammenarbeit als Erfolgsfaktor verstehen, z.B. durch Architektur-Communities.
 * Die Wechselwirkung zwischen dem Unternehmensarchitekt und dem Softwarearchitekt kennen, z. B.:
 ** Unterstützung bei Architekturentscheidungen
 ** Erfahrungen aus den Projekten
@@ -30,7 +30,7 @@
 // tag::EN[]
 [[LZ-4-1]]
 ==== LZ 4-1: Governance Terms and Concepts
-* Know the overview, objectives, and benefits of architecture governance
+* Know the definition, objectives, and benefits of architecture governance
 * Know how architecture governance relates to IT enterprise architecture.
 * Know the distinction between architecture governance and corporate and IT governance.
 * Know the relation between governance frameworks (e.g. COBIT, TOGAF Architecture Capability Framework) and EAM.
@@ -40,7 +40,7 @@
 [[LZ-4-2]]
 ==== LZ 4-2: Governance organization, roles, and responsibilities.
 * Explain the function, role, and composition of architecture boards.
-* Understand the different architect roles (e.g. enterprise architect, solution architect and software architect) and responsibilities, as well as their boundaries and interrelationships.
+* Understand the different architect roles (e.g. enterprise architect, solution architect and software architect) and responsibilities, as well as their delineation and interrelationships.
 * Understand collaboration as a success factor across architecture and business domains, e.g. through architecture communities.
 * Understand the Interaction between the enterprise architect and the software architect, e.g.:
 ** Support in architecture decisions.

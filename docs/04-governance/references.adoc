@@ -1,6 +1,6 @@
 === {references}
 
-<<cobit>>, <<hanschkea>>, <<johannsen>>, <<togaf>>, <<weill>>
+<<cobit>>, <<hanschkea>>, <<johannsen>>, <<optland>>, <<togaf>>, <<weill>>, <<ziemann>>
 
 
 
