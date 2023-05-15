@@ -7,7 +7,7 @@
 // end::DE[]
 
 // tag::EN[]
-== Procedures in E(IT)AM
+== EAM Approaches
 // end::EN[]
 
 include::01-duration-terms.adoc[{include_configuration}]
