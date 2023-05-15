@@ -2,6 +2,7 @@
 === Voraussetzungen
 
 Teilnehmerinnen und Teilnehmer **sollten** folgende Kenntnisse und/oder Erfahrung mitbringen:
+
 * Grundlagen der Architekturentwicklung: Bedeutung und Abgrenzung von Architektur, Vorgehen, Einflüsse und Anforderungen, Architekturentscheidungen, Muster und Dokumentation mit Sichten, wie im CPSA-F Foundation Level vermittelt.
 
 **Hilfreich** für das Verständnis einiger Konzepte sind darüber hinaus:
@@ -19,7 +20,8 @@ Teilnehmerinnen und Teilnehmer **sollten** folgende Kenntnisse und/oder Erfahrun
 === Prerequisites
 
 Participants **should** have the following prerequisite knowledge:
-- Fundamentals of architecture development: Importance and delimitation ofarchitecture, procedures, influences and requirements, architecture decisions, models and documentation with views, as taught at the CPSA-F Foundation Level.
+
+* Fundamentals of architecture development: Importance and delimitation ofarchitecture, procedures, influences and requirements, architecture decisions, models and documentation with views, as taught at the CPSA-F Foundation Level.
 
 Knowledge in the following areas may be **helpful** for understanding some concepts:
 
