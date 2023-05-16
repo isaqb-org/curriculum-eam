@@ -1,5 +1,0 @@
-=== {references}
-
-<<dodaf>>, <<hanschkeb>>, <<modaf>>, <<tiemeyer>>, <<togaf>>
-
-
