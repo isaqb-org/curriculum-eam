@@ -17,7 +17,7 @@
 * Architekturdomänen verstehen, inkl. wesentlicher Elemente der Domänen, z. B.:
 ** Geschäftsarchitektur
 ** Applikationsarchitektur
-** Informationssystem-Architektur (a.b.a. Applikationsarchitektur)
+** Applikationsarchitektur (a.b.a. Informationssystem-Architektur)
 ** Daten-Architektur (a.b.a. Information-Architektur)
 ** Technologie-Architektur (a.b.a. Infrastruktur-Architektur)
 * Abgrenzung und Zusammenhänge zwischen den Architekturdomänen verstehen.
@@ -55,7 +55,7 @@
 * Be able to explain the terms used in ISO 42010: Stakeholders, Concerns, Architecture Views, Architecture Models.
 * Understand architecture domains, including essential elements of the domains, e.g:
 ** Business architecture
-** Application architecture
+** Application architecture (a.k.a. Information system architecture)
 ** Information system architecture (a.k.a. application architecture)
 ** Data architecture (a.k.a. information architecture)
 ** Technology architecture (a.k.a. infrastructure architecture)
