@@ -16,7 +16,6 @@
 * Die Begrifflichkeiten der ISO 42010 erklären können: Stakeholder, Concerns, Architecture Views, Architecture Models
 * Architekturdomänen verstehen, inkl. wesentlicher Elemente der Domänen, z. B.:
 ** Geschäftsarchitektur
-** Applikationsarchitektur
 ** Applikationsarchitektur (a.b.a. Informationssystem-Architektur)
 ** Daten-Architektur (a.b.a. Information-Architektur)
 ** Technologie-Architektur (a.b.a. Infrastruktur-Architektur)
