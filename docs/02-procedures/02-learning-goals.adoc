@@ -3,7 +3,7 @@
 // tag::DE[]
 
 [[LZ-2-1]]
-=== LZ 2-1: allgemeine Vorgehensweise zur (Weiter-)Entwicklung einer Unternehmensarchitektur
+==== LZ 2-1: allgemeine Vorgehensweise zur (Weiter-)Entwicklung einer Unternehmensarchitektur
 * Die Beteiligung des Softwarearchitekten bei der Ableitung der IT-Unternehmensarchitektur aus der Unternehmensstrategie kennen.
 * Verschiedene Instrumente und Verfahren zur Bewertung von vorhandenen Architekturen kennen, z. B. Reifegradanalyse, Gap-Analyse, Impact-Analyse, Risiko-Analyse, Szenario-basierte Bewertung.
 * Typische EAM-Visualisierungen, wie z. B. Bebauungsplan-Grafik, Portfolio-Grafik, Informationsfluss-Grafik, Cluster-Grafik oder Roadmap-Grafik kennen.
@@ -19,37 +19,37 @@
 * Die Berücksichtigung von Softwarearchitektur in den verschiedenen Vorgehensweisen kennen.
 
 [[LZ-2-2]]
-=== LZ 2-2: Business-Capabilities als Brücke zwischen Geschäfts- und Softwarearchitektur
+==== LZ 2-2: Business-Capabilities als Brücke zwischen Geschäfts- und Softwarearchitektur
 * Definition, Nutzen und Anwendungsbereiche von Business-Capabilities erklären.
 * Zusammenhang zwischen Business-Capabilities und Architekturdomänen kennen.
 * Bezug von Business-Capabilities zu Softwarearchitekturmethoden, z.B. Domain-Driven-Design kennen.
 
 [[LZ-2-3]]
-=== LZ-2-3: Methoden zur Aufnahme und Analyse der Ist-Architektur
+==== LZ-2-3: Methoden zur Aufnahme und Analyse der Ist-Architektur
 * Herausforderungen bei der Beschreibung und Modellierung der Ist-Architektur kennen.
 * Ansätze zur Analyse der Ist-Architektur verstehen, z. B. Risikoanalyse, Reifegradanalyse, Kosten-Nutzen-Analyse usw.
 
 [[LZ-2-4]]
-=== LZ 2-4: Methoden zur (Weiter-)Entwicklung der Ziel-Architektur
+==== LZ 2-4: Methoden zur (Weiter-)Entwicklung der Ziel-Architektur
 * Analyse der Geschäftstreiber, -strategie und -anforderungen als Basis für die Ziel-Architektur verstehen.
 * Entwicklung der applikationsübergreifende Zielarchitektur darstellen und erklären.
 * Notwendigkeit zur kontinuierlichen Fortschreibung der Ziel-Architektur verstehen.
 
 [[LZ-2-5]]
-=== LZ 2-5: Methoden zur (Weiter-)Entwicklung der Architektur-Roadmap
+==== LZ 2-5: Methoden zur (Weiter-)Entwicklung der Architektur-Roadmap
 * Ableitung der Soll-Architektur aus Ist- und Zielarchitektur verstehen.
 * Impact- und Gap-Analyse kennen.
 * Vorgehensweise zur Architekturplanung (Roadmap) erklären können.
 * Notwendigkeit zur kontinuierlichen Fortschreibung der Roadmap verstehen.
 
 [[LZ-2-6]]
-=== LZ 2-6: Architekturprinzipien
+==== LZ 2-6: Architekturprinzipien
 * Architekturprinzipien als Bestandteil der Unternehmensarchitektur verstehen.
 * Kategorisierung von Architekturprinzipien kennen.
 * TOGAF-Architekturprinzipienkatalog kennen.
 
 [[LZ-2-7]]
-=== LZ 2-7: Referenzmodelle bzw. -architekturen
+==== LZ 2-7: Referenzmodelle bzw. -architekturen
 * Standards, Referenzmodelle, Best Practices, Architekturrichtlinien und -Prinzipien als Treiber für Qualität verstehen.
 * Definition und Einsatz von Referenzarchitekturen kennen.
 * Beispiele für Referenzarchitekturmodelle kennen, z.B.:
@@ -62,7 +62,7 @@
 * Abgrenzung und Zusammenhänge zwischen Referenzmodellen auf der Unternehmens- und der Softwarearchitektur-Ebene kennen.
 
 [[LZ-2-8]]
-=== LZ 2-8: EAM-Reifegrad:
+==== LZ 2-8: EAM-Reifegrad:
 * Beispiel eines Unternehmensarchitektur-Reifegradmodelle kennen, z.B.:
 ** CMMI
 ** EAMMF der GAO
@@ -73,7 +73,8 @@
 // end::DE[]
 
 // tag::EN[]
-=== LZ 2-1: General approaches for developing and enhancing an enterprise architecture.
+[[LZ-2-1]]
+==== LZ 2-1: General approaches for developing and enhancing an enterprise architecture.
 * Know how the software architects are involved in deriving the IT enterprise architecture from the enterprise strategy.
 * Know different tools and approaches to assess existing architectures, e.g. maturity analysis, gap analysis, impact analysis, risk analysis, scenario-based assessment.
 * Know typical EAM visualisations, such as blueprints, portfolio graphic, information flow graphic, cluster graphic, or roadmap graphic.
@@ -89,37 +90,37 @@
 * Know how software architecture is addressed in the different approaches.
 
 [[LZ-2-2]]
-=== LZ 2-2: Business capabilities as a link between business and software architecture.
+==== LZ 2-2: Business capabilities as a link between business and software architecture.
 * Explain the definition, benefits, and uses of business capabilities.
 * Know the relationship between business capabilities and architecture domains.
 * Know the relation of business capabilities to software architecture methodologies, e.g., domain-driven design.
 
 [[LZ-2-3]]
-=== LZ-2-3: Methods for specifying and analyzing the baseline architecture.
+==== LZ-2-3: Methods for specifying and analyzing the baseline architecture.
 * Know the challenges in describing and modeling the baseline architecture.
 * Understand the approaches to analyzing the baseline architecture, e.g., risk analysis, maturity analysis, cost-benefit analysis, etc.
 
 [[LZ-2-4]]
-=== LZ 2-4: Methods for developing and changing the target architecture.
+==== LZ 2-4: Methods for developing and changing the target architecture.
 * Understand that the analysis of the business drivers, strategy, and requirements are a basis for the target architecture.
 * Present and explain the evolution of a target architecture that impacts multiple applications.
 * Understand the need to continuously update the target architecture.
 
 [[LZ-2-5]]
-=== LZ 2-5: Methods for developing and changing the architecture roadmap.
+==== LZ 2-5: Methods for developing and changing the architecture roadmap.
 * Understand how to derive transition architectures from the baseline and target architectures.
 * Know impact and gap analysis.
 * Be able to explain the approach for architecture planning (roadmap).
 * Understand the need to continuously update roadmap.
 
 [[LZ-2-6]]
-=== LZ 2-6: Architecture Principles
+==== LZ 2-6: Architecture Principles
 * Understand architecture principles as a part of enterprise architecture.
 * Know how to categorize architecture principles.
 * Know the TOGAF architecture principles catalog.
 
 [[LZ-2-7]]
-=== LZ 2-7: Reference models or architectures.
+==== LZ 2-7: Reference models or architectures.
 * Understand standards, reference models, best practices, architecture guidelines, and principles as drivers of quality.
 * Know the definition and use of reference architectures.
 * Know examples of reference architecture models, e.g.:
@@ -132,7 +133,7 @@
 * Know the differences and relationships between reference models at the enterprise and software architecture levels.
 
 [[LZ-2-8]]
-=== LZ 2-8: EAM Maturity Level:
+==== LZ 2-8: EAM Maturity Level:
 * Know an example of an enterprise architecture maturity model, e.g.:
 ** CMMI
 ** GAO EAMMF
