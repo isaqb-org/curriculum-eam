@@ -1,6 +1,6 @@
 === {references}
 
-<<ambok>>, <<bentea>>, <<benteb>>, <<burlton>>, <<gharbi>>, <<greefhorst>>, <<grigoriu>>, <<hanschkeb>>, <<lankhorst>>, <<morris>>, <<optland>>, <<reussner>>, <<ross>>, <<tiemeyer>>, <<tiwary>>, <<togaf>>, <<ulrich>>, <<weill>>, <<ziemann>>
+<<ambok>>, <<benteb>>, <<burlton>>, <<gharbi>>, <<greefhorst>>, <<grigoriu>>, <<hanschkeb>>, <<lankhorst>>, <<morris>>, <<optland>>, <<reussner>>, <<ross>>, <<tiemeyer>>, <<tiwary>>, <<togaf>>, <<ulrich>>, <<weill>>, <<ziemann>>
 
 // tag::REMARK[]
 // [NOTE]

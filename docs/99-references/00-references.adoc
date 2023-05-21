@@ -16,15 +16,19 @@ This section contains references that are cited in the curriculum.
 // tag::REMARK[]
 [NOTE]
 // tag::DE[]
+////
 Aufbau eines Eintrags-Ankers:
 - [[[label,Text der erscheint]]]
 ACHTUNG: Die Labels dürfen nur Buchstaben beinhalten, keine Zahlen oder Sonderzeichen
+////
 // end::DE[]
 
 // tag::EN[]
+////
 Structure of an anchor:
 - [[[label,text that will be shown]]]
 ATTENTION: labels have to be non-numeric.
+////
 // end::EN[]
 
 // end::REMARK[]
@@ -35,12 +39,12 @@ ATTENTION: labels have to be non-numeric.
 
 **B**
 
-- [[[bentea,Bente2012a]]] Information Systems Audit and Control Association(ISACA),Online: http://www.isaca.org/COBIT/Pages/default.aspx
 - [[[benteb,Bente2012b]]] Bente, Stefan. Collaborative Enterprise Architecture – Enriching EA with Lean, Agile, and Enterprise 2.0 Practices. Morgan Kaufmann Verlag. 2012. ISBN 978-0-12-415934-1.
 - [[[burlton,Burlton2022]]] Burlton, Roger: Business Architecture – Collecting, Connecting, and Correcting the Dots. Technics Publications. 2022.
 
 
 **C**
+
 - [[[cox,Cox2014]]] Cox, Iain R. Enterprise Architecture: How to get EA-Optimised. 2014.
 - [[[cretu,Cretu2012]]] Cretu, Liviu Gabriel. Designing Enterprise Architecture Framework – Integrating Business Processes with IT Infrastructure. Apple Academic Press. 2014. ISBN: 978-1-4822-4057-3.
 - [[[cobit,COBIT]]] Information Systems Audit and Control Association(ISACA),Online: http://www.isaca.org/COBIT/Pages/default.aspx
