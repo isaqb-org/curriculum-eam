@@ -61,15 +61,6 @@
 * Die Herausforderungen (z.B. Abstraktionsgrad, Rahmenbedingungen) bei der Weiterentwicklung der Referenzmodelle kennen.
 * Abgrenzung und Zusammenhänge zwischen Referenzmodellen auf der Unternehmens- und der Softwarearchitektur-Ebene kennen.
 
-[[LZ-2-8]]
-==== LZ 2-8: EAM-Reifegrad:
-* Beispiel eines Unternehmensarchitektur-Reifegradmodelle kennen, z.B.:
-** CMMI
-** EAMMF der GAO
-**  OMB EA Assessment Framework
-** Gartner EA Maturity Assessment Framework
-* Zusammenhänge zwischen dem EAM-Reifegrad und den Handlungsmöglichkeiten verstehen.
-
 // end::DE[]
 
 // tag::EN[]
@@ -131,15 +122,6 @@
 * Know reference models as a means of knowledge management / transfer.
 * Know the challenges (e.g., level of abstraction, constraints) in evolving reference models.
 * Know the differences and relationships between reference models at the enterprise and software architecture levels.
-
-[[LZ-2-8]]
-==== LZ 2-8: EAM Maturity Level:
-* Know an example of an enterprise architecture maturity model, e.g.:
-** CMMI
-** GAO EAMMF
-** OMB EA Assessment Framework
-** Gartner EA Maturity Assessment Framework
-* Understand how EAM maturity levels relate to possible change activities.
 
 // end::EN[]
 
