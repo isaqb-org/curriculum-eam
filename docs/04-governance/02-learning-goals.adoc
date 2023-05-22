@@ -4,15 +4,14 @@
 [[LZ-4-1]]
 ==== LZ 4-1: Governance Begriffe und Konzepte
 * Definition, Ziele und Nutzen der Architektur-Governance kennen
-* Einordnung der Architektur-Governance in die IT-Unternehmensarchitektur kennen.
-* Abgrenzung zwischen Architektur-Governance und Corporate- und IT-Governance kennen.
-* Bezug auf EAM von Governance-Frameworks (z.B. COBIT, TOGAF Architecture Capability Framework) kennen.
-* Aufgaben von Architektur-Governance verstehen, z.B. Risikomanagement.
-* Bezug und Abgrenzung zwischen Governance und Compliance kennen.
+* Aufgaben von Architektur-Governance verstehen, z.B. Risikomanagement, Compliance.
+* Schnittmengen zwischen Unternehmensarchitektur und Softwarearchitektur bzgl. Governance verstehen.
+* Funktion, Aufgabe und Zusammensetzung von Architekturgremien erklären.
+* Anforderungen und Akzeptanzkriterien als Basis für die Compliance verstehen.
+* Methoden zur Überwachung und Beurteilung der Architektur-Compliance verstehen, z. B. nach TOGAF.
 
 [[LZ-4-2]]
-==== LZ 4-2: Governance-Organisation, -Rollen und -Verantwortungen
-* Funktion, Aufgabe und Zusammensetzung von Architekturgremien erklären.
+==== LZ 4-2: Governance-Rollen und -Verantwortungen
 * Definition von unterschiedlichen Architektenrollen (z. B. Unternehmensarchitekt, Solution-Architekt und Softwarearchitekt) und -verantwortungen sowie deren Abgrenzungen und Zusammenhänge verstehen.
 * Die Architektur- und Geschäftsdomänenübergreifende Zusammenarbeit als Erfolgsfaktor verstehen, z.B. durch Architektur-Communities.
 * Die Wechselwirkung zwischen dem Unternehmensarchitekt und dem Softwarearchitekt kennen, z. B.:
@@ -20,26 +19,20 @@
 ** Erfahrungen aus den Projekten
 ** Austausch über neue Technologien
 
-[[LZ-4-3]]
-==== LZ 4-3: Compliance
-* Anforderungen und Akzeptanzkriterien als Basis für die Compliance verstehen.
-* Methoden zur Überwachung und Beurteilung der Architektur-Compliance verstehen, z. B. nach TOGAF.
-* Aufgaben und Ablauf eines Compliance-Reviews kennen, z. B. nach COBIT bzw. TOGAF.
 // end::DE[]
 
 // tag::EN[]
 [[LZ-4-1]]
 ==== LZ 4-1: Governance Terms and Concepts
 * Know the definition, objectives, and benefits of architecture governance
-* Know how architecture governance relates to IT enterprise architecture.
-* Know the distinction between architecture governance and corporate and IT governance.
-* Know the relation between governance frameworks (e.g. COBIT, TOGAF Architecture Capability Framework) and EAM.
-* Understand the tasks of architecture governance, e.g. risk management.
-* Know the relationship and distinction between governance and compliance.
+* Understand the tasks of architecture governance, e.g. risk management, compliance.
+* Understand the correlation between enterprise architecture and software architecture in terms of governance.
+* Explain the function, role, and composition of architecture boards.
+* Understand that requirements and acceptance criteria are a basis for compliance.
+* Understand methods for monitoring and assessing architecture compliance, e.g. according to TOGAF.
 
 [[LZ-4-2]]
-==== LZ 4-2: Governance organization, roles, and responsibilities.
-* Explain the function, role, and composition of architecture boards.
+==== LZ 4-2: Governance roles and responsibilities.
 * Understand the different architect roles (e.g. enterprise architect, solution architect and software architect) and responsibilities, as well as their delineation and interrelationships.
 * Understand collaboration as a success factor across architecture and business domains, e.g. through architecture communities.
 * Understand the Interaction between the enterprise architect and the software architect, e.g.:
@@ -47,11 +40,6 @@
 ** Experiences from projects
 ** Discussions about new technologies
 
-[[LZ-4-3]]
-==== LZ 4-3: Compliance
-* Understand that requirements and acceptance criteria are a basis for compliance.
-* Understand methods for monitoring and assessing architecture compliance, e.g. according to TOGAF.
-* Know the tasks and process of a compliance reviews, e.g. according to COBIT or TOGAF.
 // end::EN[]
 
 
