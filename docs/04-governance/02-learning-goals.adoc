@@ -22,8 +22,8 @@
 // end::DE[]
 
 // tag::EN[]
-[[LZ-3-1]]
-==== LZ 3-1: Governance Terms and Concepts
+[[LG-3-1]]
+==== LG 3-1: Governance Terms and Concepts
 * Know the definition, objectives, and benefits of architecture governance
 * Understand the tasks of architecture governance, e.g. risk management, compliance.
 * Understand the correlation between enterprise architecture and software architecture in terms of governance.
@@ -31,8 +31,8 @@
 * Understand that requirements and acceptance criteria are a basis for compliance.
 * Understand methods for monitoring and assessing architecture compliance, e.g. according to TOGAF.
 
-[[LZ-3-2]]
-==== LZ 3-2: Governance roles and responsibilities.
+[[LG-3-2]]
+==== LG 3-2: Governance roles and responsibilities.
 * Understand the different architect roles (e.g. enterprise architect, solution architect and software architect) and responsibilities, as well as their delineation and interrelationships.
 * Understand collaboration as a success factor across architecture and business domains, e.g. through architecture communities.
 * Understand the Interaction between the enterprise architect and the software architect, e.g.:
