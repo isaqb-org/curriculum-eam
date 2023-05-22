@@ -1,6 +1,0 @@
-=== {references}
-
-<<hanschkeb>>, <<reussner>>, <<tiemeyer>>, <<togaf>>
-
-
-
