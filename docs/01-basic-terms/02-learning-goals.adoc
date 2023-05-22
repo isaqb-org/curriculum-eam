@@ -13,7 +13,7 @@
 
 [[LZ-1-2]]
 ==== LZ 1-2: EAM-Grundbegriffe
-* Die Begrifflichkeiten der ISO 42010 erklären können: Stakeholder, Concerns, Architecture Views, Architecture Models
+* Stakeholdergerechte Dokumentation der Unternehmensarchitektur anhand von Views, Architecture Models etc. verstehen, z.B. wie im ISO-42010-Standard beschrieben.
 * Architekturdomänen verstehen, inkl. wesentlicher Elemente der Domänen, z. B.:
 ** Geschäftsarchitektur
 ** Applikationsarchitektur (a.b.a. Informationssystem-Architektur)
@@ -51,7 +51,7 @@
 
 [[LZ-1-2]]
 ==== LZ 1-2: EAM basic terms.
-* Be able to explain the terms used in ISO 42010: Stakeholders, Concerns, Architecture Views, Architecture Models.
+* Understand stakeholder-oriented documentation of the enterprise architecture using Views, Architecture Models, etc., e.g., as described in the ISO-42010 standard.
 * Understand architecture domains, including essential elements of the domains, e.g:
 ** Business architecture
 ** Application architecture (a.k.a. Information system architecture)
