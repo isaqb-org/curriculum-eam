@@ -5,7 +5,6 @@
 [[LZ-2-1]]
 ==== LZ 2-1: allgemeine Vorgehensweise zur (Weiter-)Entwicklung einer Unternehmensarchitektur
 * Die Beteiligung des Softwarearchitekten bei der Ableitung der IT-Unternehmensarchitektur aus der Unternehmensstrategie kennen.
-* Verschiedene Instrumente und Verfahren zur Bewertung von vorhandenen Architekturen kennen, z. B. Reifegradanalyse, Gap-Analyse, Impact-Analyse, Risiko-Analyse, Szenario-basierte Bewertung.
 * Typische EAM-Visualisierungen, wie z. B. Bebauungsplan-Grafik, Portfolio-Grafik, Informationsfluss-Grafik, Cluster-Grafik oder Roadmap-Grafik kennen.
 * Verstehen, dass unterschiedliche Architekturentscheidungen getroffen werden könnten, wenn sie aus Sicht des Unternehmensarchitekten oder aus Sicht des Softwarearchitekten betrachtet werden.
 * Verschiedene Vorgehensweisen zur (Weiter-)Entwicklung von Unternehmensarchitekturen kennen, z. B.:
@@ -27,7 +26,7 @@
 [[LZ-2-3]]
 ==== LZ-2-3: Methoden zur Aufnahme und Analyse der Ist-Architektur
 * Herausforderungen bei der Beschreibung und Modellierung der Ist-Architektur kennen.
-* Ansätze zur Analyse der Ist-Architektur verstehen, z. B. Risikoanalyse, Reifegradanalyse, Kosten-Nutzen-Analyse usw.
+* Verschiedene Instrumente und Verfahren zur Analyse und Bewertung von vorhandenen Architekturen kennen, z. B. Reifegradanalyse, Gap-Analyse, Impact-Analyse, Risiko-Analyse, Szenario-basierte Bewertung, Kosten-Nutzen-Analyse usw.
 
 [[LZ-2-4]]
 ==== LZ 2-4: Methoden zur (Weiter-)Entwicklung der Ziel-Architektur
@@ -76,7 +75,6 @@
 [[LZ-2-1]]
 ==== LZ 2-1: General approaches for developing and enhancing an enterprise architecture.
 * Know how the software architects are involved in deriving the IT enterprise architecture from the enterprise strategy.
-* Know different tools and approaches to assess existing architectures, e.g. maturity analysis, gap analysis, impact analysis, risk analysis, scenario-based assessment.
 * Know typical EAM visualisations, such as blueprints, portfolio graphic, information flow graphic, cluster graphic, or roadmap graphic.
 * Understand that different architectural decisions could be made when viewed from the enterprise architect's perspective or from the software architect's perspective.
 * Know the different approaches to develop or enhance enterprise architectures, e.g.:
@@ -98,7 +96,7 @@
 [[LZ-2-3]]
 ==== LZ-2-3: Methods for specifying and analyzing the baseline architecture.
 * Know the challenges in describing and modeling the baseline architecture.
-* Understand the approaches to analyzing the baseline architecture, e.g., risk analysis, maturity analysis, cost-benefit analysis, etc.
+* Know the various tools and techniques for analyzing and evaluating the baseline architectures, e.g., maturity analysis, gap analysis, impact analysis, risk analysis, scenario-based assessment, cost-benefit analysis, etc.
 
 [[LZ-2-4]]
 ==== LZ 2-4: Methods for developing and changing the target architecture.
