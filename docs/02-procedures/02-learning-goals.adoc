@@ -64,7 +64,7 @@
 [[LZ-2-8]]
 ==== LZ 2-8: EAM-Repository
 * Funktion und Nutzen von EAM-Repositories verstehen, z.B. Historisierung, Deltaermittlung und Versionierung.
-* Herausforderungen bei der Pflege und die Aktualisierung der Daten in der Repository kennen.
+* Herausforderungen bei der Pflege und die Aktualisierung der Daten in das Repository kennen.
 * Herausforderungen bei der Beschreibung der unterschiedlichen Architekturdomänen (z.B. Geschäfts-, Informations-, Applikations- und Technologe-Domäne) sowie Architekturebenen (z. B. Übergänge zwischen Unternehmensarchitektur, Solution-Architektur und Softwarearchitektur) verstehen.
 * Informationsarten in einem EAM-Repository benennen können, z.B.:
 ** Architektur-Metamodell, z.B. vom TOGAF Architecture Content Framework
