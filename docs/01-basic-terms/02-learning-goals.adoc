@@ -13,7 +13,7 @@
 
 [[LZ-1-2]]
 ==== LZ 1-2: EAM-Grundbegriffe
-* Die Begrifflichkeiten der ISO 42010 erklären können: Stakeholder, Concerns, Architecture Views, Architecture Models
+* Stakeholdergerechte Dokumentation der Unternehmensarchitektur anhand von Views, Architecture Models etc. verstehen, z.B. wie im ISO-42010-Standard beschrieben.
 * Architekturdomänen verstehen, inkl. wesentlicher Elemente der Domänen, z. B.:
 ** Geschäftsarchitektur
 ** Applikationsarchitektur (a.b.a. Informationssystem-Architektur)
@@ -40,8 +40,8 @@
 // end::DE[]
 
 // tag::EN[]
-[[LZ-1-1]]
-==== LZ 1-1: EAM definition and the relation to other management areas.
+[[LG-1-1]]
+==== LG 1-1: EAM definition and the relation to other management areas.
 * Be able to name and explain the goals and benefits of EAM.
 * Understand EAM as a bridge between strategic business planning and application projects.
 * Understand the interaction of EAM and other strategic management tasks (e.g. corporate and strategic planning, IT strategy, IT management, process management, project management, innovation management, change management, etc.).
@@ -49,9 +49,9 @@
 * Explain the distinction between EAM and other architecture areas, e.g. IT architecture, solution architecture and software architecture.
 * Know and distinguish roles and tasks of architecture management, e.g. enterprise architect, domain architect, solution architect, software architect.
 
-[[LZ-1-2]]
-==== LZ 1-2: EAM basic terms.
-* Be able to explain the terms used in ISO 42010: Stakeholders, Concerns, Architecture Views, Architecture Models.
+[[LG-1-2]]
+==== LG 1-2: EAM basic terms.
+* Understand stakeholder-oriented documentation of the enterprise architecture using Views, Architecture Models, etc., e.g., as described in the ISO-42010 standard.
 * Understand architecture domains, including essential elements of the domains, e.g:
 ** Business architecture
 ** Application architecture (a.k.a. Information system architecture)
@@ -66,8 +66,8 @@
 ** Know baseline, target, and transition IT enterprise architectures.
 ** Differentiate between an enterprise and software system implementation roadmap.
 
-[[LZ-1-3]]
-==== LZ 1-3: Overview of EAM frameworks and tools.
+[[LG-1-3]]
+==== LG 1-3: Overview of EAM frameworks and tools.
 * Know different enterprise architecture frameworks and their benefits, e.g. TOGAF.
 * Know architecture repositories and their use, benefits, and challenges in enterprise architecture.
 * Know different architecture frameworks and their classification, e.g.:

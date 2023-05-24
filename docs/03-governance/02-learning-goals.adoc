@@ -1,0 +1,45 @@
+=== {learning-goals}
+
+// tag::DE[]
+[[LZ-3-1]]
+==== LZ 3-1: Governance Begriffe und Konzepte
+* Definition, Ziele und Nutzen der Architektur-Governance kennen
+* Aufgaben von Architektur-Governance verstehen, z.B. Risikomanagement, Compliance.
+* Schnittmengen zwischen Unternehmensarchitektur und Softwarearchitektur bzgl. Governance verstehen.
+* Funktion, Aufgabe und Zusammensetzung von Architekturgremien erklären.
+* Anforderungen und Akzeptanzkriterien als Basis für die Compliance verstehen.
+* Methoden zur Überwachung und Beurteilung der Architektur-Compliance verstehen, z. B. nach TOGAF.
+
+[[LZ-3-2]]
+==== LZ 3-2: Governance-Rollen und -Verantwortungen
+* Definition von unterschiedlichen Architektenrollen (z. B. Unternehmensarchitekt, Solution-Architekt und Softwarearchitekt) und -verantwortungen sowie deren Abgrenzungen und Zusammenhänge verstehen.
+* Die Architektur- und Geschäftsdomänenübergreifende Zusammenarbeit als Erfolgsfaktor verstehen, z.B. durch Architektur-Communities.
+* Die Wechselwirkung zwischen dem Unternehmensarchitekt und dem Softwarearchitekt kennen, z. B.:
+** Unterstützung bei Architekturentscheidungen
+** Erfahrungen aus den Projekten
+** Austausch über neue Technologien
+
+// end::DE[]
+
+// tag::EN[]
+[[LG-3-1]]
+==== LG 3-1: Governance Terms and Concepts
+* Know the definition, objectives, and benefits of architecture governance
+* Understand the tasks of architecture governance, e.g. risk management, compliance.
+* Understand the correlation between enterprise architecture and software architecture in terms of governance.
+* Explain the function, role, and composition of architecture boards.
+* Understand that requirements and acceptance criteria are a basis for compliance.
+* Understand methods for monitoring and assessing architecture compliance, e.g. according to TOGAF.
+
+[[LG-3-2]]
+==== LG 3-2: Governance roles and responsibilities.
+* Understand the different architect roles (e.g. enterprise architect, solution architect and software architect) and responsibilities, as well as their delineation and interrelationships.
+* Understand collaboration as a success factor across architecture and business domains, e.g. through architecture communities.
+* Understand the Interaction between the enterprise architect and the software architect, e.g.:
+** Support in architecture decisions.
+** Experiences from projects
+** Discussions about new technologies
+
+// end::EN[]
+
+

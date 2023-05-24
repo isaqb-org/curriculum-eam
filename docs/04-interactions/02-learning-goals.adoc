@@ -2,8 +2,8 @@
 
 // tag::DE[]
 
-[[LZ-5-1]]
-==== LZ 5-1: Einflüsse von der Unternehmensarchitektur auf die Softwarearchitektur
+[[LZ-4-1]]
+==== LZ 4-1: Einflüsse von der Unternehmensarchitektur auf die Softwarearchitektur
 * Einflüsse von der Unternehmensstrategie und den -anforderungen auf die IT-Landschaft und entsprechenden Softwarearchitekturen erkennen und berücksichtigen, z. B.:
 ** Neue Strategien, Geschäftsmodelle usw.
 ** Gesetzliche Änderungen, z.B. Datenschutz
@@ -21,16 +21,16 @@
 ** Veränderungen der Domänen bzw. Capabilities
 
 
-[[LZ-5-2]]
-==== LZ 5-2: Einflüsse von der Softwarearchitektur auf die Unternehmensarchitektur
+[[LZ-4-2]]
+==== LZ 4-2: Einflüsse von der Softwarearchitektur auf die Unternehmensarchitektur
 * Einflüsse von Softwarearchitektur-Entscheidungen auf die Unternehmensarchitektur kennen, vor allem bzgl. der verschiedenen Aspekte in den Architekturdomänen, inkl. Geschäftsdomänen, Organisationsstrukturen, Prozesse, Daten, Infrastruktur usw.
 ** z.B. Die Auswirkung des Microservices-Ansatzes auf Entscheidungsvorgehen, Prozesse, Standardisierung, Organisationsstruktur, Integration, Komposition, Bounded-Contexts, Datenschutz und -verantwortung, Sicherheit usw.
 * Einflüsse von Softwarearchitektur-Prinzipien auf die IT-Landschaft erkennen
 * Einflüsse von Softwarearchitektur-Entscheidungen auf die Unternehmens- und IT-Strategie kennen
 * Einflüsse von Applikationsänderungen (in Abgrenzung zur Neuentwicklung) an die Unternehmensarchitektur kennen
 
-[[LZ-5-3]]
-==== LZ 5-3: Applikationsübergreifende Architekturthemen (Querschnittskonzepte)
+[[LZ-4-3]]
+==== LZ 4-3: Applikationsübergreifende Architekturthemen (Querschnittskonzepte)
 * Unternehmensarchitektur-Themen kennen, die mehrere Applikationen betreffen, z.B. Schnittstellen, Integration, Internationalisierung, Sicherheit, Administration, Monitoring, Transaktionsmanagement, Benutzerinteraktion, Ablaufsteuerung, Zuverlässigkeit usw.
 * Aufteilung der Verantwortungen für die applicationsübergreifende Themen entscheiden können
 * Wechselwirkung der applikationsübergreifenden Themen zwischen der Unternehmensarchitektur und der Softwarearchitektur verstehen
@@ -38,8 +38,8 @@
 // end::DE[]
 
 // tag::EN[]
-[[LG-5-1]]
-==== LZ 5-1: Influences from the enterprise architecture on the software architecture.
+[[LG-4-1]]
+==== LG 4-1: Influences from the enterprise architecture on the software architecture.
 * Identify and account for influences from enterprise strategy and requirements on the IT landscape and the corresponding software architectures, e.g.:
 ** New strategies, business models, etc.
 ** Legal changes, e.g. data protection
@@ -56,16 +56,16 @@
 ** EA principles, e.g. Bezos API mandates
 ** Changes in domains or capabilities
 
-[[LG-5-2]]
-==== LZ 5-2: Influences of the Software Architecture on the Enterprise Architecture
+[[LG-4-2]]
+==== LG 4-2: Influences of the Software Architecture on the Enterprise Architecture
 * Know that software architecture decisions influence the enterprise architecture, especially regarding the different aspects in the architecture domains, including business domains, organizational structures, processes, data, infrastructure, etc.
 ** e.g. the microservices approach can influence decision making, processes, standardization, organizational structure, integration, composition, bounded contexts, privacy and accountability, security, etc.
 * Identify influences of software architecture principles on the IT landscape.
 * Know that software architecture decisions influence the business and IT strategy.
 * Know that application changes (not just new development) influence enterprise architecture.
 
-[[LG-5-3]]
-==== LZ 5-3: Architectural aspects that impact multiple applications (crosscutting concerns or concepts).
+[[LG-4-3]]
+==== LG 4-3: Architectural aspects that impact multiple applications (crosscutting concerns or concepts).
 * Know architectural aspects that affect multiple applications, e.g., interfaces, integration, internationalization, security, administration, monitoring, transaction management, user interaction, flow control, reliability, etc.
 * Be able to decide on the division of responsibilities for aspects that impact multiple applications.
 * Understand the interrelationship between enterprise architecture and software architecture regarding these aspects.
