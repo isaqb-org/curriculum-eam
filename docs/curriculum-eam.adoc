@@ -47,19 +47,13 @@ include::01-basic-terms/00-structure.adoc[{include_configuration}]
 include::02-procedures/00-structure.adoc[{include_configuration}]
 
 <<<
-include::03-repositories/00-structure.adoc[{include_configuration}]
+include::03-governance/00-structure.adoc[{include_configuration}]
 
 <<<
-include::04-governance/00-structure.adoc[{include_configuration}]
+include::04-interactions/00-structure.adoc[{include_configuration}]
 
 <<<
-include::05-interactions/00-structure.adoc[{include_configuration}]
-
-<<<
-include::06-frameworks/00-structure.adoc[{include_configuration}]
-
-<<<
-include::98-examples/00-examples.adoc[{include_configuration}]
+include::98-examples/00-structure.adoc[{include_configuration}]
 
 <<<
 include::99-references/00-references.adoc[{include_configuration}]
