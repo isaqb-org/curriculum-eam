@@ -3,5 +3,16 @@
 <<ambok>>, <<benteb>>, <<burlton>>, <<cobit>>, <<gharbi>>, <<greefhorst>>, <<grigoriu>>, <<hanschkeb>>, <<hanschkec>>, <<itil>>, <<keller>>, <<morris>>, <<optland>>, <<reussner>>, <<ross>>, <<schekkerman>>, <<schwarzer>>, <<tiemeyer>>, <<tiwary>>, <<togaf>>, <<ulrich>>, <<vogel>>, <<ziemann>>
 
 
+// tag::DE[]
+////
+Eine Quelle wird über `<<label>>` referenziert. Dieses muss in `99-references/00-references.adoc` definiert sein.
+////
+// end::DE[]
 
+
+// tag::EN[]
+////
+A reference source is referenced via `<<label>>`. The label has to be defined in `99-references/00-references.adoc`.
+////
+// end::EN[]
 

@@ -3,3 +3,13 @@
 <<ambok>>, <<greefhorst>>, <<grigoriu>>, <<hohmann>>
 
 
+// tag::DE[]
+////
+Eine Quelle wird über `<<label>>` referenziert. Dieses muss in `99-references/00-references.adoc` definiert sein.
+////
+// end::DE[]
+
+
+// tag::EN[]
+
+// end::EN[]
