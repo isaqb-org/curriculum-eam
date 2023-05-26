@@ -1,6 +1,6 @@
 // tag::DE[]
 |===
-| Dauer: 120 Min. | Übungszeit: 100 Min.
+| Gesamtdauer: 220 Min. | Übungszeit: 100 Min.
 |===
 
 === Begriffe und Konzepte
@@ -10,7 +10,7 @@ Enterprise Architecture Management (EAM), Solution-Architektur, Softwarearchitek
 
 // tag::EN[]
 |===
-| Duration: 120 min | Practice time: 100 min
+| Total duration: 220 min | Practice time: 100 min
 |===
 
 === Terms and Principles
