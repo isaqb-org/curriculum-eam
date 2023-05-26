@@ -87,7 +87,7 @@ ATTENTION: labels have to be non-numeric.
 **M**
 
 - [[[matthes,Matthes2011]]] Matthes, Dirk. Enterprise Architecture Frameworks Kompendium – Über 50 Rahmenwerke für das IT-Management. Springer Verlag. 2011. ISBN: 978-3-642-12954-4.
-- [[[modaf,MODAF]]] Ministry of Defence (MOD)at Her Majesty's Government(HMG), Online: http://www.mod.uk/DefenceInternet/AboutDefence/WhatWeDo/InformationManagement/MODAF/
+- [[[modaf,MODAF]]] Ministry of Defence (MOD)at Her Majesty's Government(HMG), Online: https://www.gov.uk/government/publications/modaf-website-download
 - [[[morris,Morris2013]]] Morris, Bernard. Business Architecture Made Easy: A Journey from Complexity to Simplicity. Book Baby. 2013.
 
 **O**
