@@ -4,12 +4,12 @@
 [cols="<,>", options="header"]
 |===
 | Inhalt | Empfohlene Mindestdauer (min)
-| 1. Grundbegriffe des Enterprise Architecture Managements | 120
-| 2. EAM-Vorgehen und -Methoden  | 390
-| 3. Architektur-Governance | 210
-| 4. Wechselwirkung zwischen Softwarearchitektur und Unternehmensarchitektur   | 150
+| 1. Grundbegriffe des Enterprise Architecture Managements | 220
+| 2. EAM-Vorgehen und -Methoden  | 540
+| 3. Architektur-Governance | 120
+| 4. Wechselwirkung zwischen Softwarearchitektur und Unternehmensarchitektur   | 200
 | |
-| Summe | 960 (16h)
+| Summe | 1080 (18h)
 
 |===
 (Zeiten jeweils inklusive Übungen)
@@ -21,12 +21,12 @@
 [cols="<,>", options="header"]
 |===
 | Content | Recommended minimum duration (minutes)
-| 1. Basic terms used in Enterprise Architecture Management | 120
-| 2. EAM Approaches  | 390
-| 3. Architecture Governance  | 210
-| 4. Interaction Between Software Architecture and Enterprise Architecture | 150
+| 1. Basic terms used in Enterprise Architecture Management | 220
+| 2. EAM Approaches  | 540
+| 3. Architecture Governance  | 120
+| 4. Interaction Between Software Architecture and Enterprise Architecture | 200
 | |
-| Total | 960 (16h)
+| Total | 1080 (18h)
 
 |===
 (All times include exercises.)
