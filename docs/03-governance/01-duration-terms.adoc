@@ -1,6 +1,6 @@
 // tag::DE[]
 |===
-| Dauer: 60 Min. | Übungszeit: 60 Min.
+| Gesamtdauer: 120 Min. | Übungszeit: 60 Min.
 |===
 
 === Begriffe und Konzepte
@@ -9,7 +9,7 @@ Governance, Ebenen von Governance (Corporate, IT, Architecture), Architekturgrem
 
 // tag::EN[]
 |===
-| Duration: 60 min | Practice time: 60 min
+| Total duration: 120 min | Practice time: 60 min
 |===
 
 === Terms and Principles
