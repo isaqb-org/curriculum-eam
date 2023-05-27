@@ -1,6 +1,6 @@
 // tag::DE[]
 |===
-| Dauer: 90 Min. | Übungszeit: 30 Min.
+| Gesamtdauer: 200 Min. | davon Übungszeit: 90 Min.
 |===
 
 === Begriffe und Konzepte
@@ -10,7 +10,7 @@ Unternehmensstrategie, Architekturprinzip, Architekturentscheidung, applikations
 
 // tag::EN[]
 |===
-| Duration: 90 min | Practice time: 30 min
+| Total duration: 200 min | Practice time: 90 min
 |===
 
 === Terms and Principles

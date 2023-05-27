@@ -1,6 +1,6 @@
 // tag::DE[]
 |===
-| Dauer: 270 Min. | Übungszeit: 120 Min.
+| Gesamtdauer: 540 Min. | Übungszeit: 240 Min.
 |===
 
 === Begriffe und Konzepte
@@ -9,7 +9,7 @@ Architekturprinzipien, Ist-, Soll- und Ziel-Architekturen, Anwendungsportfolio-M
 
 // tag::EN[]
 |===
-| Duration: 270 min | Practice time: 120 min
+| Total duration: 540 min | Practice time: 240 min
 |===
 
 === Terms and Principles
