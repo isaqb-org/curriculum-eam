@@ -15,12 +15,12 @@
 :curriculum-short: EAM
 
 ifeval::["{language}" == "DE"]
-:curriculum-name: Enterprise Architecture Management
+:curriculum-name: Enterprise Architecture Management (EAM) für Softwarearchitekten
 :curriculum-header-title: iSAQB-Curriculum für Advanced Level: {curriculum-short}
 endif::[]
 
 ifeval::["{language}" == "EN"]
-:curriculum-name: Enterprise Architecture Management
+:curriculum-name: Enterprise Architecture Management (EAM) for Software Architects
 :curriculum-header-title: iSAQB curriculum for Advanced Level: {curriculum-short}
 endif::[]
 
