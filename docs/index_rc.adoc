@@ -27,6 +27,6 @@ image:https://img.shields.io/github/commits-since/isaqb-org/curriculum-eam/lates
 
 |===
 
-== Changes compared to XXX
+== Changes compared to previous version
 - link:https://github.com/isaqb-org/curriculum-eam/blob/main/CHANGELOG.md[CHANGELOG.md on GitHub]
 // - link: [HTML diff to the latest curriculum] T.B.A.
