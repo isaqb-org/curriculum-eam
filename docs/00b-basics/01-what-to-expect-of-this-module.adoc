@@ -1,46 +1,45 @@
 // tag::DE[]
 === Was vermittelt das Modul „{curriculum-short}“?
-
-=== Was ist das Ziel des Kurses?
 Der Kurs "EAM: Enterprise Architecture Management für Softwarearchitekten" hat zum Ziel, die für einen Softwarearchitekten relevanten Themen aus dem Bereich EAM zu vermitteln.
 
 Warum ist dieses Wissen für einen Softwarearchitekten von Bedeutung?
-Die Informationssysteme in Organisationen werden kleinteiliger und zahlreicher. Dadurch steigt der Bedarf für Überblick und passende Gestaltung der Interaktionen. Prozess-Schritte (manuell oder automatisiert) werden unternehmensweit enger und kleinteiliger miteinander verzahnt. Deshalb müssen Organisationen einen Überblick über die verschiedenen Aspekte auf der Unternehmensebene bewahren und die Zusammenhänge zwischen diesen Aspekten erkennen und erklären können. Ein Treiber dafür sind auch die steigenden Compliance-Anforderungen in den Unternehmen, denn in einigen Branchen (z.B. Finanzindistrie) sind Unterlassungen in diesem Bereich sogar mit Gefängnis-Strafen belegt.
+Die Informationssysteme in Organisationen werden kleinteiliger und zahlreicher. Dadurch steigt der Bedarf für Überblick und passende Gestaltung der Interaktionen. Prozess-Schritte (manuell oder automatisiert) werden unternehmensweit enger und kleinteiliger miteinander verzahnt. Deshalb müssen Organisationen einen Überblick über die verschiedenen Aspekte auf der Unternehmensebene bewahren und die Zusammenhänge zwischen diesen Aspekten erkennen und erklären können. Ein Treiber dafür sind auch die steigenden Compliance-Anforderungen in den Unternehmen, denn in einigen Branchen (z.B. Finanzindustrie) sind Unterlassungen in diesem Bereich sogar mit Gefängnisstrafen belegt.
 
-Auf der anderen Seite hat sich der Aufgabenbereich von EAM in den letzten Jahren gewandelt: EAM verantwortet inzwischen, dass Veränderungen in verschiedenen Bereichen (Strategie, Geschäftsfähigkeiten, Wertströme, Technologien, Informationssysteme) zu einander kosistent sind und, dass dies bei der Architektur von Anwendungen entsprechend berücksichtigt wird.
+Auf der anderen Seite hat sich der Aufgabenbereich von EAM in den letzten Jahren gewandelt: EAM verantwortet inzwischen, dass Veränderungen in verschiedenen Bereichen (Strategie, Geschäftsfähigkeiten, Wertströme, Technologien, Informationssysteme) zueinander konsistent sind und, dass dies bei der Architektur von Anwendungen entsprechend berücksichtigt wird.
 
 Zusammenfassend kann man also sagen, dass Enterprisearchitektur eines Unternehmens und die Softwarearchitektur einer Anwendung Hand in Hand gehen müssen. Themen, die sich daraus für einen Softwarearchitekten ergeben sind z.B.:
 * Voraussetzungen für Architekturen mit loser Kopplung, d.h. z.B. DDD, APIs etc.
-* Anwendungsübergreifende Themen wie z.B. Anwendungs-Integration, anwendungsübergreifende Prozess wie Logging, Sicherheit, etc.
+* Anwendungsübergreifende Themen wie z.B. Anwendungsintegration, anwendungsübergreifende Prozess wie Logging, Sicherheit, etc.
 * Auswirkungen von Entscheidungen in der Softwarearchitektur auf die Enterprisearchitektur und umgekehrt
 * Einbettung einer Anwendung in einen unternehmensweiten Rahmen (u.a. Anforderungen aus dem Bereich Compliance bzw. Unternehmensstrategie) und Berücksichtigung der Abhängigkeiten bzw. Einflüsse in beide Richtungen
 
-=== Abgrenzung
-Der Kurs hat nicht primär die Enterprisearchitektur als Ziel sondern er soll den Software-Architekten aus ihrer Sicht einen Überblick zum Thema EAM bieten und die gegenseitige Beeinflussung dieser beiden Architekturbereiche und Schnittstellen zwischen ihnen behandeln. Dadurch mag er aber auch für Enterprisearchitekten interessant sein, die einen Außenblick auf das Thema EAM bekommen wollen um optimal mit Softwarearchitekten zusammenzuarbeiten.
+==== Abgrenzung
+Der Kurs hat nicht primär die Enterprisearchitektur als Ziel, sondern er soll den Software-Architekten aus ihrer Sicht einen Überblick zum Thema EAM bieten und die gegenseitige Beeinflussung dieser beiden Architekturbereiche und Schnittstellen zwischen ihnen behandeln. Dadurch mag er aber auch für Enterprisearchitekten interessant sein, die einen Außenblick auf das Thema EAM bekommen wollen, um optimal mit Softwarearchitekt:innen zusammenzuarbeiten.
 
-=== Voraussetzungen
-Teilnehmerinnen und Teilnehmer sollten folgende Kenntnisse und/oder Erfahrung mitbringen:
-* Grundlagen der Architekturentwicklung: Bedeutung und Abgrenzung von Architektur, Vorgehen, Einflüsse und Anforderungen, Architekturentscheidungen, Muster und Dokumentation mit Sichten, usw. wie im iSAQB-CPSA-Foundation-Level-Kurs vermittelt.
+==== Voraussetzungen
+Teilnehmer:innen sollten folgende Kenntnisse und/oder Erfahrung mitbringen:
 
-=== Hilfreich für das Verständnis einiger Konzepte sind darüber hinaus:
+* Grundlagen der Architekturentwicklung: Bedeutung und Abgrenzung von Architektur, Vorgehen, Einflüsse und Anforderungen, Architekturentscheidungen, Muster und Dokumentation mit Sichten, usw. wie im Kurs iSAQB CPSA Foundation Level vermittelt.
+
+==== Hilfreich für das Verständnis einiger Konzepte sind darüber hinaus:
 * Praktische Erfahrung im Architekturbereich und Einblick in mindestens eine moderne Technologie oder Plattform zur Entwicklung von verteilten Anwendungen
 * Kenntnis typischer Herausforderungen im Bereich von Unternehmensarchitekturen:
 ** Definition von (IT-)Unternehmenszielen
 ** Strategische (IT-)Planung
 ** IT-Portfolio-Management
-** Applicaiton Lifecycle Management
+** Application Lifecycle Management
 ** IT-Infrastructure-Library (ITIL)
 
 // end::DE[]
 
 // tag::EN[]
-=== What is the aim of the course?
+=== What does the module “{curriculum-short}” convey?
 The course "EAM: Enterprise Architecture Management for Software Architects" teaches the topics relevant to a software architect in the field of EAM.
 
 Why is this knowledge important for a software architect?
 The information systems in organizations are becoming more fragmented and numerous. This increases the need for an overview and appropriate design of interactions. Process steps (manual or automated) are becoming more closely and intricately interlinked throughout the company. Organizations must therefore maintain an overview of the various aspects at the enterprise level and be able to recognize and explain the relationships between these aspects. One driver for this is the increasing compliance requirements in companies, since in some sectors (e.g. the financial industry) omissions in this area are even punishable by prison sentences.
 
-On the other hand, the respsonsibilities of EAM have changed in recent years: EAM is now responsible for ensuring that changes in different areas (strategy, business capabilities, value streams , technologies, information systems) are cosistent with each other and that this is taken into account accordingly in the application architectures.
+On the other hand, the responsibilities of EAM have changed in recent years: EAM is now responsible for ensuring that changes in different areas (strategy, business capabilities, value streams , technologies, information systems) are cosistent with each other and that this is taken into account accordingly in the application architectures.
 
 In summary, it can be said that the enterprise architecture of a company and the software architecture of an application unit must go hand in hand. Topics that arise from this for a software architect are e.g:
 * Requirements for architectures with loose coupling, i.e. e.g. DDD, APIs etc.
@@ -48,14 +47,14 @@ In summary, it can be said that the enterprise architecture of a company and the
 * Effects of decisions in the software architecture on the enterprise architecture and vice versa
 * Embedding an application in a company-wide framework (e.g. requirements from the area of compliance or corporate strategy) and consideration of dependencies or influences in both directions
 
-=== Demarcation
+==== Demarcation
 The course is not primarily aimed at enterprise architecture but is intended to provide software architects with an overview of the topic of EAM from their perspective and to deal with the mutual influence of these two architecture areas and the interfaces between them. However, it may also be of interest to enterprise architects who want to gain an external perspective on the topic of EAM in order to work optimally with software architects.
 
-=== Prerequisites
+==== Prerequisites
 Participants should have the following knowledge and/or experience:
 * Basics of architecture development: meaning and differentiation of architecture, approach, influences and requirements, architecture decisions, patterns and documentation with views, etc. as taught in the iSAQB CPSA Foundation Level course.
 
-=== It is also helpful to understand some concepts:
+==== It is also helpful to understand some concepts:
 * Practical experience in architecture and insight into at least one modern technology or platform for developing distributed applications.
 * Knowledge of typical challenges in the area of enterprise architectures:
 ** Definition of (IT) business goals
