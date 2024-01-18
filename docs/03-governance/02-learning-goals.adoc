@@ -13,7 +13,7 @@
 [[LZ-3-2]]
 ==== LZ 3-2: Governance-Rollen und -Verantwortungen
 * Definition von unterschiedlichen Architektenrollen (z. B. Unternehmensarchitekt, Solution-Architekt und Softwarearchitekt) und -verantwortungen sowie deren Abgrenzungen und Zusammenhänge verstehen.
-* Die Architektur- und Geschäftsdomänenübergreifende Zusammenarbeit als Erfolgsfaktor verstehen, z.B. durch Architektur-Communities.
+* Die architektur- und geschäftsdomänenübergreifende Zusammenarbeit als Erfolgsfaktor verstehen, z.B. durch Architektur-Communities.
 * Die Wechselwirkung zwischen dem Unternehmensarchitekt und dem Softwarearchitekt kennen, z. B.:
 ** Unterstützung bei Architekturentscheidungen
 ** Erfahrungen aus den Projekten
