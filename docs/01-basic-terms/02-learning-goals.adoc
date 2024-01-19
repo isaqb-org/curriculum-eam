@@ -25,7 +25,7 @@
 * Definition von Capabilities (a.b.a. Geschäftsdomänen) kennen.
 * Unternehmensarchitektur-Roadmap erklären.
 ** Ist-, Ziel- und Soll-IT-Unternehmensarchitekturen kennen.
-** Unterschied zwischen einem Unternehmens- und einem Softwaresystem-Implementierungsroadmap verstehen.
+** Unterschied zwischen einer Unternehmensarchitektur-Roadmap und einem Implementierungsplan verstehen.
 
 [[LZ-1-3]]
 ==== LZ 1-3: Überblick über die EAM-Frameworks und -Werkzeuge
