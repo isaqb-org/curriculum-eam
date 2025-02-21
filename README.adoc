@@ -44,7 +44,7 @@ git clone https://github.com/isaqb-org/curriculum-eam.git --recursive
 ----
 --
 
-. Build the project with http://www.gradle.com[gradle] (you need a locally installed JDK 17 or higher) via `./gradlew`.
+. Build the project with http://www.gradle.com[gradle] (you need a locally installed JDK 17 or higher) via `./gradle-tools/gradlew`.
 . Once the "BUILD SUCCESSFUL" is show, you can review the build result under `./build/`
 
 == Maintainers
