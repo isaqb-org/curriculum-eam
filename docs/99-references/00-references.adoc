@@ -85,7 +85,7 @@ ATTENTION: labels have to be non-numeric.
 **L**
 
 - [[[lankhorst,Lankhorst2013]]] Lankhorst, Marc. Enterprise Architecture at Work – Modelling, Communication and Analysis. Springer Verlag. 2013. ISBN: 978-3-642-29650-5.
-- [[[leopold,Leopold2018]]] Leopold, Klaus. Rethinking Agile - Why Agile Teams Have Nothing To Do With Business Agility. ‎LEANability Press. 2018. ISBN: ‎978-3903205390.
+- [[[leopold,Leopold2018]]] Leopold, Klaus. Rethinking Agile - Why Agile Teams Have Nothing To Do With Business Agility. LEANability Press. 2018. ISBN: 978-3903205390.
 
 **M**
 
