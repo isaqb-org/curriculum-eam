@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="">
 <head>
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="generator" content="Asciidoctor 2.0.20">
+<meta name="generator" content="Asciidoctor 2.0.18">
 <title>Curriculum fürCertified Professional forSoftware Architecture (CPSA)&#174;Advanced Level: ModulEAMEnterprise Architecture Management für Softwarearchitekten</title>
 <style>
 /* normalize.css v2.1.1 | MIT License | git.io/normalize */
@@ -36,8 +36,6 @@ html {
   background: #fff; /* 1 */
   color: #000; /* 2 */
   font-family: sans-serif; /* 3 */
-  -ms-text-size-adjust: 100%; /* 4 */
-  -webkit-text-size-adjust: 100%; /* 4 */
 }
 
 /** Remove default margin. */
@@ -80,7 +78,6 @@ dfn {
 
 /** Address differences between Firefox and other browsers. */
 hr {
-  -moz-box-sizing: content-box;
   box-sizing: content-box;
   height: 0;
 }
@@ -195,9 +192,7 @@ input[type="checkbox"], input[type="radio"] {
 
 /** 1. Address `appearance` set to `searchfield` in Safari 5 and Chrome. 2. Address `box-sizing` set to `border-box` in Safari 5 and Chrome (include `-moz` to future-proof). */
 input[type="search"] {
-  -webkit-appearance: textfield; /* 1 */
-  -moz-box-sizing: content-box;
-  -webkit-box-sizing: content-box; /* 2 */
+  -webkit-appearance: textfield;
   box-sizing: content-box;
 }
 
@@ -226,8 +221,6 @@ table {
 }
 
 *, *:before, *:after {
-  -moz-box-sizing: border-box;
-  -webkit-box-sizing: border-box;
   box-sizing: border-box;
 }
 
@@ -724,7 +717,6 @@ a:hover, a:focus {
   white-space: nowrap;
   background-color: transparent;
   border: 1px solid #dddddd;
-  -webkit-border-radius: 3px;
   border-radius: 3px;
   text-shadow: none;
 }
@@ -747,9 +739,7 @@ kbd:not(.keyseq) {
   line-height: 1.4;
   background-color: #F7F7F7;
   border: 1px solid #ccc;
-  -webkit-border-radius: 3px;
   border-radius: 3px;
-  -webkit-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.2), 0 0 0 2px white inset;
   box-shadow: 0 1px 0 rgba(0, 0, 0, 0.2), 0 0 0 2px white inset;
   margin: -0.15em 0.15em 0 0.15em;
   padding: 0.2em 0.6em 0.2em 0.5em;
@@ -910,13 +900,11 @@ div .details br {
 
 #content #toc {
   border-style: solid;
-  border-width: 1px;
   border-color: #e6e6e6;
   margin-bottom: 1.33333em;
   padding: 1.33333em;
   background: white;
   border-width: 0;
-  -webkit-border-radius: 3px;
   border-radius: 3px;
 }
 
@@ -999,6 +987,10 @@ div .details br {
   font-weight: bold;
 }
 
+.admonitionblock td.content, .admonitionblock td.icon {
+  font-size: 1em;
+}
+
 .tableblock > caption {
   text-align: left;
   font-weight: bold;
@@ -1053,7 +1045,6 @@ table.tableblock #preamble > .sectionbody > .paragraph:first-of-type p {
   margin-bottom: 1.33333em;
   padding: 1.33333em;
   background: white;
-  -webkit-border-radius: 3px;
   border-radius: 3px;
 }
 
@@ -1079,7 +1070,6 @@ table.tableblock #preamble > .sectionbody > .paragraph:first-of-type p {
 }
 
 .exampleblock.result > .content {
-  -webkit-box-shadow: 0 1px 8px #eaeaea;
   box-shadow: 0 1px 8px #eaeaea;
 }
 
@@ -1090,7 +1080,6 @@ table.tableblock #preamble > .sectionbody > .paragraph:first-of-type p {
   margin-bottom: 1.33333em;
   padding: 1.33333em;
   background: white;
-  -webkit-border-radius: 3px;
   border-radius: 3px;
 }
 
@@ -1133,7 +1122,6 @@ table.tableblock #preamble > .sectionbody > .paragraph:first-of-type p {
   border-width: 2px;
   border-style: solid;
   border-color: #dddddd;
-  -webkit-border-radius: 3px;
   border-radius: 3px;
   padding: 0.66667em;
   word-wrap: break-word;
@@ -1310,7 +1298,6 @@ table thead th, table tfoot th {
 table.tableblock.grid-all {
   border-collapse: separate;
   border-spacing: 1px;
-  -webkit-border-radius: 3px;
   border-radius: 3px;
   border-top: 1px solid #dddddd;
   border-bottom: 1px solid #dddddd;
@@ -1492,7 +1479,6 @@ td.hdlist1, td.hdlist2 {
   line-height: 0;
   display: inline-block;
   border: solid 4px white;
-  -webkit-box-shadow: 0 0 0 1px #dddddd;
   box-shadow: 0 0 0 1px #dddddd;
 }
 
@@ -1756,7 +1742,6 @@ span.icon > [class^="icon-"], span.icon > [class*=" icon-"] {
 
 .admonitionblock td.icon .icon-note:before {
   content: "\f05a";
-  color: #4183c4;
   color: #2e6295;
 }
 
@@ -1785,7 +1770,6 @@ span.icon > [class^="icon-"], span.icon > [class*=" icon-"] {
   display: inline-block;
   color: white !important;
   background-color: #333333;
-  -webkit-border-radius: 100px;
   border-radius: 100px;
   text-align: center;
   width: 20px;
@@ -1880,10 +1864,7 @@ h2 {
 }
 
 .sidebarblock > .content > .title {
-  margin-top: -20px;
-  margin-right: -20px;
-  margin-left: -20px;
-  margin-bottom: 20px;
+  margin: -20px -20px 20px;
   padding: 1em;
   font-size: 0.8em;
   background: #eaeaea;
@@ -1897,8 +1878,8 @@ h2 {
 <div id="header">
 <h1>Curriculum für<br><br>Certified Professional for<br>Software Architecture (CPSA)<sup>&#174;</sup><br><em>Advanced Level</em>: <br> Modul<br>EAM<br><br>Enterprise Architecture Management für Softwarearchitekten</h1>
 <div class="details">
-<span id="revnumber"> 2024.1-rev0-DE,</span>
-<span id="revdate">20240202</span>
+<span id="revnumber"> 2024.1-rev1-DE,</span>
+<span id="revdate">20250605</span>
 </div>
 <div id="toc" class="toc2">
 <div id="toctitle">Inhaltsverzeichnis</div>
@@ -1964,7 +1945,7 @@ h2 {
 <div style="page-break-after: always;"></div>
 <div class="paragraph">
 <p><strong>&#169; (Copyright), International Software Architecture Qualification Board e. V.
-(iSAQB<sup>&#174;</sup> e. V.) 2023</strong></p>
+(iSAQB<sup>&#174;</sup> e. V.) 2025</strong></p>
 </div>
 <div class="paragraph">
 <p>Die Nutzung des Lehrplans ist nur unter den nachfolgenden Voraussetzungen erlaubt:</p>
@@ -2022,22 +2003,25 @@ Der Einfachheit halber wird iSAQB e. V. im Folgenden ohne die Verwendung dieser 
 <p><a href="#LZ-2-1">LZ 2-1: allgemeine Vorgehensweise zur (Weiter-)Entwicklung einer Unternehmensarchitektur</a></p>
 </li>
 <li>
-<p><a href="#LZ-2-2">LZ 2-2: Business-Capabilities als Brücke zwischen Geschäfts- und Softwarearchitektur</a></p>
+<p><a href="#LZ-2-2">LZ 2-2: Agilität im Kontext von EAM definieren und den Nutzen verstehen</a></p>
 </li>
 <li>
-<p><a href="#LZ-2-4">LZ 2-4: Methoden zur (Weiter-)Entwicklung der Ziel-Architektur</a></p>
+<p><a href="#LZ-2-3">LZ 2-3: Business-Capabilities als Brücke zwischen Geschäfts- und Softwarearchitektur</a></p>
 </li>
 <li>
-<p><a href="#LZ-2-5">LZ 2-5: Methoden zur (Weiter-)Entwicklung der Architektur-Roadmap</a></p>
+<p><a href="#LZ-2-5">LZ 2-5: Methoden zur (Weiter-)Entwicklung der Ziel-Architektur</a></p>
 </li>
 <li>
-<p><a href="#LZ-2-6">LZ 2-6: Architekturprinzipien</a></p>
+<p><a href="#LZ-2-6">LZ 2-6: Methoden zur (Weiter-)Entwicklung der Architektur-Roadmap</a></p>
 </li>
 <li>
-<p><a href="#LZ-2-7">LZ 2-7: Referenzmodelle bzw. -architekturen</a></p>
+<p><a href="#LZ-2-7">LZ 2-7: Architekturprinzipien</a></p>
 </li>
 <li>
-<p><a href="#LZ-2-8">LZ 2-8: EAM-Repository</a></p>
+<p><a href="#LZ-2-8">LZ 2-8: Referenzmodelle bzw. -architekturen</a></p>
+</li>
+<li>
+<p><a href="#LZ-2-9">LZ 2-9: EAM-Repository</a></p>
 </li>
 <li>
 <p><a href="#LZ-3-1">LZ 3-1: Governance Begriffe und Konzepte</a></p>
@@ -2509,7 +2493,39 @@ Insbesondere die Art der Beispiele und Übungen lässt der Lehrplan komplett off
 </div>
 </div>
 <div class="sect3">
-<h4 id="LZ-2-2">LZ 2-2: Business-Capabilities als Brücke zwischen Geschäfts- und Softwarearchitektur</h4>
+<h4 id="LZ-2-2">LZ 2-2: Agilität im Kontext von EAM definieren und den Nutzen verstehen</h4>
+<div class="ulist">
+<ul>
+<li>
+<p>Definition von Agilität im Kontext von EAM, z.B.:</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Iterative und inkrementelle Vorgehensweise</p>
+</li>
+<li>
+<p>Das Agile Manifest im Bezug auf EAM, z.B. Individuen und Interaktionen, Lieferung von Wert, Kundenorientierte Zusammenarbeit, Flexibilität und Reaktionsfähigkeit</p>
+</li>
+<li>
+<p>Lean Prinzipien im Bezug auf EAM, z.B. Vermeidung von Verschwendungen</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Nutzen von Agilität im EAM, z.B. Flexibilität, Stakeholder-Zufriedenheit, Risikominderung</p>
+</li>
+<li>
+<p>Überblick über Agile Methoden und Frameworks kennen, wie z.B.: Scrum, Kanban, Lean-Management, Scaled Agile Framework (SAFe), Open Agile Architecture</p>
+</li>
+<li>
+<p>Agile EAM-Prinzipien kennen, wie z.B. Architektur auf Abruf, Feedbackschleifen, kurze Releasezyklen, kontinuierliche Architekturentwicklung und -Refactoring, Einbeziehung von Stakeholdern</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LZ-2-3">LZ 2-3: Business-Capabilities als Brücke zwischen Geschäfts- und Softwarearchitektur</h4>
 <div class="ulist">
 <ul>
 <li>
@@ -2525,7 +2541,7 @@ Insbesondere die Art der Beispiele und Übungen lässt der Lehrplan komplett off
 </div>
 </div>
 <div class="sect3">
-<h4 id="LZ-2-3">LZ-2-3: Methoden zur Aufnahme und Analyse der Ist-Architektur</h4>
+<h4 id="LZ-2-4">LZ-2-4: Methoden zur Aufnahme und Analyse der Ist-Architektur</h4>
 <div class="ulist">
 <ul>
 <li>
@@ -2538,7 +2554,7 @@ Insbesondere die Art der Beispiele und Übungen lässt der Lehrplan komplett off
 </div>
 </div>
 <div class="sect3">
-<h4 id="LZ-2-4">LZ 2-4: Methoden zur (Weiter-)Entwicklung der Ziel-Architektur</h4>
+<h4 id="LZ-2-5">LZ 2-5: Methoden zur (Weiter-)Entwicklung der Ziel-Architektur</h4>
 <div class="ulist">
 <ul>
 <li>
@@ -2554,7 +2570,7 @@ Insbesondere die Art der Beispiele und Übungen lässt der Lehrplan komplett off
 </div>
 </div>
 <div class="sect3">
-<h4 id="LZ-2-5">LZ 2-5: Methoden zur (Weiter-)Entwicklung der Architektur-Roadmap</h4>
+<h4 id="LZ-2-6">LZ 2-6: Methoden zur (Weiter-)Entwicklung der Architektur-Roadmap</h4>
 <div class="ulist">
 <ul>
 <li>
@@ -2573,7 +2589,7 @@ Insbesondere die Art der Beispiele und Übungen lässt der Lehrplan komplett off
 </div>
 </div>
 <div class="sect3">
-<h4 id="LZ-2-6">LZ 2-6: Architekturprinzipien</h4>
+<h4 id="LZ-2-7">LZ 2-7: Architekturprinzipien</h4>
 <div class="ulist">
 <ul>
 <li>
@@ -2589,7 +2605,7 @@ Insbesondere die Art der Beispiele und Übungen lässt der Lehrplan komplett off
 </div>
 </div>
 <div class="sect3">
-<h4 id="LZ-2-7">LZ 2-7: Referenzmodelle bzw. -architekturen</h4>
+<h4 id="LZ-2-8">LZ 2-8: Referenzmodelle bzw. -architekturen</h4>
 <div class="ulist">
 <ul>
 <li>
@@ -2630,7 +2646,7 @@ Insbesondere die Art der Beispiele und Übungen lässt der Lehrplan komplett off
 </div>
 </div>
 <div class="sect3">
-<h4 id="LZ-2-8">LZ 2-8: EAM-Repository</h4>
+<h4 id="LZ-2-9">LZ 2-9: EAM-Repository</h4>
 <div class="ulist">
 <ul>
 <li>
@@ -2668,7 +2684,7 @@ Insbesondere die Art der Beispiele und Übungen lässt der Lehrplan komplett off
 <div class="sect2">
 <h3 id="_referenzen_2">2.3. Referenzen</h3>
 <div class="paragraph">
-<p><a href="#ambok">[AMBoK2013]</a>, <a href="#benteb">[Bente2012b]</a>, <a href="#burlton">[Burlton2022]</a>, <a href="#gharbi">[Gharbi2012]</a>, <a href="#greefhorst">[Greefhorst2011]</a>, <a href="#grigoriu">[Grigoriu2011]</a>, <a href="#hanschkeb">[Hanschke2012]</a>, <a href="#lankhorst">[Lankhorst2013]</a>, <a href="#morris">[Morris2013]</a>, <a href="#optland">[Op’tLand 2009]</a>, <a href="#reussner">[Reussner2008]</a>, <a href="#ross">[Ross2006]</a>, <a href="#tiemeyer">[Tiemeyer2011]</a>, <a href="#tiwary">[Tiwary2019]</a>, <a href="#togaf">[TOGAF]</a>, <a href="#ulrich">[Ulrich2011]</a>, <a href="#weill">[Weill2004]</a>, <a href="#ziemann">[Ziemann2022]</a></p>
+<p><a href="#ambok">[AMBoK2013]</a>, <a href="#benteb">[Bente2012b]</a>, <a href="#burlton">[Burlton2022]</a>, <a href="#gharbi">[Gharbi2012]</a>, <a href="#greefhorst">[Greefhorst2011]</a>, <a href="#grigoriu">[Grigoriu2011]</a>, <a href="#hanschkeb">[Hanschke2012]</a>, <a href="#hauder">[Hauder2017]</a>, <a href="#horlach">[Horlach2020]</a>, <a href="#lankhorst">[Lankhorst2013]</a>, <a href="#leopold">[Leopold2018]</a>, <a href="#morris">[Morris2013]</a>, <a href="#optland">[Op’tLand 2009]</a>, <a href="#owen">[Owen2015]</a>, <a href="#reussner">[Reussner2008]</a>, <a href="#ross">[Ross2006]</a>, <a href="#safe">[SAFe2025]</a>, <a href="#tiemeyer">[Tiemeyer2011]</a>, <a href="#tiwary">[Tiwary2019]</a>, <a href="#togaf">[TOGAF]</a>, <a href="#togafseries">[TOGAF Series Guides]</a>, <a href="#ulrich">[Ulrich2011]</a>, <a href="#weill">[Weill2004]</a>, <a href="#ziemann">[Ziemann2022]</a></p>
 </div>
 <div style="page-break-after: always;"></div>
 </div>
@@ -3025,10 +3041,16 @@ Insbesondere die Art der Beispiele und Übungen lässt der Lehrplan komplett off
 <p><a id="hanschked"></a>[Hanschke2013] Hanschke, I.: Strategisches Management der IT-Landschaft. 3., aktualisierte und erweiterte Auflage. Hanser Verlag, 2013.</p>
 </li>
 <li>
+<p><a id="hauder"></a>[Hauder2017] Hauder, Matheu et al. Agile Enterprise Architecture Management - An Analysis on the Application of Agile Principles. Technical University Munich. 2017.</p>
+</li>
+<li>
 <p><a id="hohmann"></a>[Hohmann2003] Hohmann, L.: Beyond Software Architecture – Creating and sustaining Winning Solutions. Addison-Wesley Professional, 2003.</p>
 </li>
 <li>
 <p><a id="hohpe"></a>[Hohpe2020] Hohpe, G.: The Software Architect Elevator. O&#8217;Reilly Media, Inc., 2020.</p>
+</li>
+<li>
+<p><a id="horlach"></a>[Horlach2020] Horlach, Bettina et al. Everyone’s Going to be an Architect: Design Principles for Architectural Thinking in Agile Organizations. Proceedings of the 53rd Hawaii International Conference on System Sciences. 2020.</p>
 </li>
 </ul>
 </div>
@@ -3070,6 +3092,9 @@ Insbesondere die Art der Beispiele und Übungen lässt der Lehrplan komplett off
 <li>
 <p><a id="lankhorst"></a>[Lankhorst2013] Lankhorst, Marc. Enterprise Architecture at Work – Modelling, Communication and Analysis. Springer Verlag. 2013. ISBN: 978-3-642-29650-5.</p>
 </li>
+<li>
+<p><a id="leopold"></a>[Leopold2018] Leopold, Klaus. Rethinking Agile - Why Agile Teams Have Nothing To Do With Business Agility. LEANability Press. 2018. ISBN: 978-3903205390.</p>
+</li>
 </ul>
 </div>
 <div class="paragraph">
@@ -3094,7 +3119,13 @@ Insbesondere die Art der Beispiele und Übungen lässt der Lehrplan komplett off
 <div class="ulist bibliography">
 <ul class="bibliography">
 <li>
-<p><a id="optland"></a>[Op’tLand 2009], Op’t Land, Martin et. al. Enterprise Architecture – Creating Value by Informed Governance. Springer Verlag. 2009. ISBN: 978-3-540-85231-5.]]</p>
+<p><a id="optland"></a>[Op’tLand 2009], Op’t Land, Martin et. al. Enterprise Architecture – Creating Value by Informed Governance. Springer Verlag. 2009. ISBN: 978-3-540-85231-5.</p>
+</li>
+<li>
+<p><a id="owen"></a>[Owen2015], Owen, Martin et. al. Enterprise Architecture and Innovation Management. Corso. 2015. ISBN: 978-1367710849.</p>
+</li>
+<li>
+<p><a id="oaa"></a>[Open Agile Architecture], Open Agile Architecture (O-AA). Open Group. <a href="https://www.opengroup.org/AgileArchitecture" class="bare">https://www.opengroup.org/AgileArchitecture</a>.</p>
 </li>
 </ul>
 </div>
@@ -3123,6 +3154,9 @@ Insbesondere die Art der Beispiele und Übungen lässt der Lehrplan komplett off
 <div class="ulist bibliography">
 <ul class="bibliography">
 <li>
+<p><a id="safe"></a>[SAFe2025] Scaled Agile Framework (SAFe) <a href="https://framework.scaledagile.com" class="bare">https://framework.scaledagile.com</a>.</p>
+</li>
+<li>
 <p><a id="schekkerman"></a>[Schekkerman2004] Schekkerman, Jaap. How to Survive in the Jungle of Enterprise Architecture Frameworks. Trafford Verlag. 2004.</p>
 </li>
 <li>
@@ -3146,6 +3180,9 @@ Insbesondere die Art der Beispiele und Übungen lässt der Lehrplan komplett off
 </li>
 <li>
 <p><a id="togaf"></a>[TOGAF] The Open Group, Online: <a href="http://www.opengroup.org/togaf/" class="bare">http://www.opengroup.org/togaf/</a></p>
+</li>
+<li>
+<p><a id="togafseries"></a>[TOGAF Series Guides] The Open Group, Applying the ADM Using Agile Sprints. Enabling Enterprise Agility. Using the TOGAF Standard in the Digital Enterprise. Online: <a href="https://www.opengroup.org/togaf-series-guides" class="bare">https://www.opengroup.org/togaf-series-guides</a>.</p>
 </li>
 </ul>
 </div>
@@ -3197,8 +3234,8 @@ Insbesondere die Art der Beispiele und Übungen lässt der Lehrplan komplett off
 </div>
 <div id="footer">
 <div id="footer-text">
- 2024.1-rev0-DE<br>
-Last updated 2024-02-02 14:36:02 UTC
+ 2024.1-rev1-DE<br>
+Last updated 2025-06-05 10:16:28 UTC
 </div>
 </div>
 </body>
